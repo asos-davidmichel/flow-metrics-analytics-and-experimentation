@@ -1,0 +1,26 @@
+{
+  "lead_time": {
+    "clock_start": {"type": "column", "value": "New"},
+    "clock_end": {"type": "column", "value": "Closed"}
+  },
+  "cycle_time": {
+    "clock_start": {"type": "column", "value": "Ready for Dev"},
+    "clock_end": {"type": "column", "value": "Closed"}
+  },
+  "historical_column_mapping": {
+    "QA / External Review": "QA"
+  },
+  "flow_efficiency": {
+    "active_columns": ["In Development", "In Review", "QA"],
+    "waiting_columns": ["Ready for Dev", "External Review", "Ready for QA", "Ready for release"]
+  },
+  "blocked_time": {
+    "signals": [
+      {"mechanism": "tag", "tags": ["blocked", "blocked by Bag", "blocked by PLP"], "label": "Blocked", "color": "#EB3345"},
+      {"mechanism": "tag", "tags": ["hold"], "label": "Hold", "color": "#43B4D5"}
+    ]
+  },
+  "swimlane_mapping": {
+    "Data Layer": null
+  }
+}

@@ -1,0 +1,1019 @@
+{
+  "metric": "cycle_time",
+  "calculated_at": "2026-08-07T12:59:20.356728+00:00",
+  "window": {
+    "parameter": "6m",
+    "start": "2026-02-08T12:59:20.356728+00:00",
+    "end": "2026-08-07T12:59:20.356728+00:00"
+  },
+  "config_used": {
+    "clock_start": {
+      "type": "column",
+      "value": "Ready for Dev"
+    },
+    "clock_end": {
+      "type": "column",
+      "value": "Closed"
+    },
+    "historical_column_mapping": {
+      "QA / External Review": "QA"
+    }
+  },
+  "ado_url_base": "https://dev.azure.com/asos/Customer/_workitems/edit",
+  "work_item_type_styles": {
+    "Bug": {
+      "color": "#CC293D",
+      "icon_id": "icon_insect",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_insect?color=CC293D&v=2"
+    },
+    "Product Backlog Item": {
+      "color": "#0098C7",
+      "icon_id": "icon_list",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_list?color=0098C7&v=2"
+    },
+    "Spike": {
+      "color": "#fbbc3d",
+      "icon_id": "icon_broken_lightbulb",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_broken_lightbulb?color=fbbc3d&v=2"
+    }
+  },
+  "excluded_item_ids": [
+    1099138,
+    1128365,
+    1135107,
+    1135111,
+    1135596,
+    1135598,
+    1142534,
+    1142853,
+    1142965,
+    1143061,
+    1147589,
+    1148527,
+    1156993,
+    1157148,
+    1157155,
+    1164310,
+    1166516,
+    1170800,
+    1176254,
+    1179991,
+    1182722,
+    1182725,
+    1182730,
+    1183229,
+    1186887,
+    1187077,
+    1187078,
+    1187080,
+    1187082,
+    1188997,
+    1189786,
+    1189792,
+    1190076,
+    1190471,
+    1190473,
+    1190474,
+    1190732,
+    1190761,
+    1190808,
+    1190829,
+    1190830,
+    1190836,
+    1191065,
+    1191553,
+    1192521,
+    1196570,
+    1196572,
+    1196574,
+    1196575,
+    1196577,
+    1196578,
+    1196580,
+    1196597,
+    1196599,
+    1196603,
+    1197933,
+    1203573,
+    1205150,
+    1207264,
+    1207301,
+    1207545,
+    1207643,
+    1207645,
+    1207647,
+    1208566,
+    1210442,
+    1210911,
+    1211614,
+    1211616,
+    1211619,
+    1211620,
+    1212325,
+    1213380,
+    1215318,
+    1215972,
+    1217166,
+    1218007,
+    1218600,
+    1218625,
+    1218636,
+    1220640,
+    1221014,
+    1221222,
+    1221667,
+    1224402,
+    1224643,
+    1224999,
+    1225043,
+    1226211,
+    1227440,
+    1231368,
+    1231376,
+    1231749,
+    1231843,
+    1232243,
+    1232498
+  ],
+  "item_count": 48,
+  "warnings": [
+    "Item 1077639: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1080472: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1089764: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1091162: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1091163: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1091170: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1091199: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1096549: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1109015: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1122572: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1123884: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1135306: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1139563: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1140549: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1146745: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1149786: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1152549: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1153705: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1156087: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1157034: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1165440: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1173818: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1176583: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1177428: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1178724: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1183760: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1191895: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1211305: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1224665: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1235960: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1245086: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded"
+  ],
+  "overall": {
+    "n": 48,
+    "mean_days": 77.8,
+    "median_days": 72.9,
+    "p85_days": 126.0,
+    "min_days": 6.0,
+    "max_days": 181.0
+  },
+  "weekly_stats": [
+    {
+      "week_start": "2026-02-16",
+      "n": 27,
+      "mean_days": 104.2,
+      "median_days": 90.9
+    },
+    {
+      "week_start": "2026-03-23",
+      "n": 1,
+      "mean_days": 47.8,
+      "median_days": 47.8
+    },
+    {
+      "week_start": "2026-04-06",
+      "n": 1,
+      "mean_days": 70.2,
+      "median_days": 70.2
+    },
+    {
+      "week_start": "2026-04-13",
+      "n": 6,
+      "mean_days": 51.4,
+      "median_days": 58.6
+    },
+    {
+      "week_start": "2026-05-18",
+      "n": 1,
+      "mean_days": 97.2,
+      "median_days": 97.2
+    },
+    {
+      "week_start": "2026-07-13",
+      "n": 1,
+      "mean_days": 162.8,
+      "median_days": 162.8
+    },
+    {
+      "week_start": "2026-07-20",
+      "n": 1,
+      "mean_days": 37.2,
+      "median_days": 37.2
+    },
+    {
+      "week_start": "2026-07-27",
+      "n": 4,
+      "mean_days": 27.2,
+      "median_days": 28.1
+    },
+    {
+      "week_start": "2026-08-03",
+      "n": 6,
+      "mean_days": 15.0,
+      "median_days": 12.7
+    }
+  ],
+  "items": [
+    {
+      "id": 1096541,
+      "title": "Remove dependency on core-js",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 180.96,
+      "started_at": "2025-08-19T11:26:48.530000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1102420,
+      "title": "Middleware on datalayer",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 180.96,
+      "started_at": "2025-08-19T11:26:36.930000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1102423,
+      "title": "Improve descriptions",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 180.96,
+      "started_at": "2025-08-19T11:26:36.930000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1108347,
+      "title": "Sitechrome - experiment_activation",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 159.99,
+      "started_at": "2025-09-09T10:47:37.247000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1108952,
+      "title": "Add PLP Add to Wishlist Tracking",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 159.04,
+      "started_at": "2025-09-10T09:34:46.640000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1109166,
+      "title": "Successful registration Schema",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 125.98,
+      "started_at": "2025-10-13T10:52:28.510000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1109235,
+      "title": "New lint rule to ensure schema is listed in root schemas.json",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 158.12,
+      "started_at": "2025-09-11T07:38:13.787000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1119876,
+      "title": "middleware customerIdentityData",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 125.97,
+      "started_at": "2025-10-13T11:02:48.400000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1119878,
+      "title": "Event-tracking-bridge - Expand datalayer to add customer identity calls",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 125.97,
+      "started_at": "2025-10-13T11:02:49.383000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1122580,
+      "title": "Spike - Customer Loyalty Data - middleware possibility",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 118.98,
+      "started_at": "2025-10-20T10:50:04.093000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1123823,
+      "title": "Customer Segments Data",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 104.95,
+      "started_at": "2025-11-03T11:40:32.930000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1128716,
+      "title": "EventBus consent being re added",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 101.92,
+      "started_at": "2025-11-06T12:28:27.270000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1130631,
+      "title": "Checkout - Feature Branch - Critical",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 94.08,
+      "started_at": "2025-11-14T08:35:56.780000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132714,
+      "title": "PDP - Expand view_item to cover flexibleSalesChannels",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 90.9,
+      "started_at": "2025-11-17T12:47:49.140000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132717,
+      "title": "Bag - Expand view_cart to cover DTC",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 90.9,
+      "started_at": "2025-11-17T12:47:49.140000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132720,
+      "title": "Expand items schema",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 90.9,
+      "started_at": "2025-11-17T12:47:49.793000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1133407,
+      "title": "SPIKE - PDP - Missing events",
+      "type": "Spike",
+      "cycle_time_days": 89.9,
+      "started_at": "2025-11-18T12:49:26.050000+00:00",
+      "completed_at": "2026-02-16T10:27:42.333000+00:00"
+    },
+    {
+      "id": 1133408,
+      "title": "SPIKE - PDP - Inconsistent add_to_cart calls",
+      "type": "Spike",
+      "cycle_time_days": 89.9,
+      "started_at": "2025-11-18T12:55:27.117000+00:00",
+      "completed_at": "2026-02-16T10:27:42.333000+00:00"
+    },
+    {
+      "id": 1134081,
+      "title": "variant_selected Schema",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 87.93,
+      "started_at": "2025-11-20T12:03:50.277000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1135592,
+      "title": "order_details Schema",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 80.99,
+      "started_at": "2025-11-27T10:38:47.070000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1137669,
+      "title": "Middleware currently builds a syncronous queue",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 97.24,
+      "started_at": "2026-02-10T09:41:30.840000+00:00",
+      "completed_at": "2026-05-18T15:22:54.767000+00:00"
+    },
+    {
+      "id": 1137857,
+      "title": "Consume 'variant_selected' schema",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 74.95,
+      "started_at": "2025-12-03T11:42:27.307000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1137978,
+      "title": "Populate flexibleSalesChannel data in middleware",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 74.8,
+      "started_at": "2025-12-03T15:09:19.320000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1142843,
+      "title": "DL - Buy the look variant_selected event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 55.02,
+      "started_at": "2025-12-23T10:01:15.623000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1142961,
+      "title": "DL - Buy the look add_to_cart event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 55.02,
+      "started_at": "2025-12-23T10:01:18.150000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1143060,
+      "title": "DL - Buy the look add_to_wishlist event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 55.02,
+      "started_at": "2025-12-23T10:01:20.303000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1149911,
+      "title": "Datalayer - Implement Data Layer Middleware to Transform Badge Data into Standard Format",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 33.81,
+      "started_at": "2026-01-13T14:53:26.920000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1152374,
+      "title": "Update sitechrome with latest badge updates",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 25.03,
+      "started_at": "2026-01-22T09:37:08.473000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1153269,
+      "title": "Implement Consent Status Flag in Sitechrome",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 61.27,
+      "started_at": "2026-02-13T09:42:45.290000+00:00",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153270,
+      "title": "Implement Consent Status Flag in Checkout",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 47.76,
+      "started_at": "2026-02-04T15:20:22.350000+00:00",
+      "completed_at": "2026-03-24T09:36:14.970000+00:00"
+    },
+    {
+      "id": 1153271,
+      "title": "Implement Consent Status Flag in Identity Pages",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 62.97,
+      "started_at": "2026-02-11T16:53:44.050000+00:00",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153272,
+      "title": "Implement Consent Status Flag in My Account",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 70.25,
+      "started_at": "2026-01-29T09:00:28.437000+00:00",
+      "completed_at": "2026-04-09T15:02:40.543000+00:00"
+    },
+    {
+      "id": 1164704,
+      "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 71.07,
+      "started_at": "2026-02-03T14:26:11.920000+00:00",
+      "completed_at": "2026-04-15T16:10:14.850000+00:00"
+    },
+    {
+      "id": 1164765,
+      "title": "Investigate datalayer GTM event sequence",
+      "type": "Bug",
+      "cycle_time_days": 162.84,
+      "started_at": "2026-02-03T16:13:16.740000+00:00",
+      "completed_at": "2026-07-16T12:17:56.203000+00:00"
+    },
+    {
+      "id": 1172395,
+      "title": "SPIKE -  pageData",
+      "type": "Spike",
+      "cycle_time_days": 55.98,
+      "started_at": "2026-02-18T16:36:03.463000+00:00",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1178822,
+      "title": "Check if descriptions make it to the client and find out if we can exclude them",
+      "type": "Spike",
+      "cycle_time_days": 42.06,
+      "started_at": "2026-03-04T14:42:29.603000+00:00",
+      "completed_at": "2026-04-15T16:10:16.283000+00:00"
+    },
+    {
+      "id": 1191902,
+      "title": "Investigate discrepancy in Consent Status Flags in page views",
+      "type": "Bug",
+      "cycle_time_days": 15.16,
+      "started_at": "2026-03-31T12:15:50.143000+00:00",
+      "completed_at": "2026-04-15T16:10:16.690000+00:00"
+    },
+    {
+      "id": 1224502,
+      "title": "PDP - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 37.45,
+      "started_at": "2026-06-22T08:01:04.743000+00:00",
+      "completed_at": "2026-07-29T18:45:42.177000+00:00"
+    },
+    {
+      "id": 1224504,
+      "title": "BAG - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 37.16,
+      "started_at": "2026-06-22T09:01:10.567000+00:00",
+      "completed_at": "2026-07-29T12:50:33.490000+00:00"
+    },
+    {
+      "id": 1224505,
+      "title": "PLP - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 37.17,
+      "started_at": "2026-06-16T08:37:29.473000+00:00",
+      "completed_at": "2026-07-23T12:44:30.803000+00:00"
+    },
+    {
+      "id": 1229879,
+      "title": "Failed event - pageData - Missing hashed first and last name - missing",
+      "type": "Bug",
+      "cycle_time_days": 31.74,
+      "started_at": "2026-07-06T15:32:45.680000+00:00",
+      "completed_at": "2026-08-07T09:19:06.310000+00:00"
+    },
+    {
+      "id": 1234360,
+      "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 18.96,
+      "started_at": "2026-07-09T08:35:31.683000+00:00",
+      "completed_at": "2026-07-28T07:44:33.263000+00:00"
+    },
+    {
+      "id": 1234363,
+      "title": "Checkout - Test sourceId and SellerId is implemented correctly",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 15.24,
+      "started_at": "2026-07-15T09:33:13.317000+00:00",
+      "completed_at": "2026-07-30T15:21:55.703000+00:00"
+    },
+    {
+      "id": 1235567,
+      "title": "Track view_item_list for PDP recommendation carousels",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 16.22,
+      "started_at": "2026-07-21T09:51:59.377000+00:00",
+      "completed_at": "2026-08-06T15:14:38.970000+00:00"
+    },
+    {
+      "id": 1235569,
+      "title": "Track view_item_list for Bag recommendation carousel",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 13.21,
+      "started_at": "2026-07-22T08:14:33.310000+00:00",
+      "completed_at": "2026-08-04T13:17:36.683000+00:00"
+    },
+    {
+      "id": 1235572,
+      "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 12.23,
+      "started_at": "2026-07-23T07:48:19.393000+00:00",
+      "completed_at": "2026-08-04T13:17:38.460000+00:00"
+    },
+    {
+      "id": 1241120,
+      "title": "ADE - Update product_component_impression schema to also include recently viewed",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 10.94,
+      "started_at": "2026-07-27T09:52:09.060000+00:00",
+      "completed_at": "2026-08-07T08:25:09.957000+00:00"
+    },
+    {
+      "id": 1243080,
+      "title": "UUIDs sent instead of SKUs in add_to_cart on Android",
+      "type": "Bug",
+      "cycle_time_days": 5.95,
+      "started_at": "2026-07-28T14:42:51.300000+00:00",
+      "completed_at": "2026-08-03T13:33:15.217000+00:00"
+    }
+  ],
+  "throughput_items": [
+    {
+      "id": 1077639,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1080472,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:07.280000+00:00"
+    },
+    {
+      "id": 1089764,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1091162,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1091163,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1091170,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1091199,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1096541,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1096549,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1102420,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1102423,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1108347,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1108952,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1109015,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1109166,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1109235,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1119876,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1119878,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1122572,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1122580,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1123823,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1123884,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1128716,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1130631,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132714,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132717,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1132720,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1133407,
+      "type": "Spike",
+      "completed_at": "2026-02-16T10:27:42.333000+00:00"
+    },
+    {
+      "id": 1133408,
+      "type": "Spike",
+      "completed_at": "2026-02-16T10:27:42.333000+00:00"
+    },
+    {
+      "id": 1134081,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1135306,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1135592,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1137669,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-05-18T15:22:54.767000+00:00"
+    },
+    {
+      "id": 1137857,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1137978,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1139563,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1140549,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1142843,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1142961,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1143060,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1146745,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1149786,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1149911,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1152374,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1152549,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1153269,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153270,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-03-24T09:36:14.970000+00:00"
+    },
+    {
+      "id": 1153271,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153272,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-09T15:02:40.543000+00:00"
+    },
+    {
+      "id": 1153705,
+      "type": "Spike",
+      "completed_at": "2026-02-16T10:27:42.333000+00:00"
+    },
+    {
+      "id": 1156087,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1157034,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1164704,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-15T16:10:14.850000+00:00"
+    },
+    {
+      "id": 1164765,
+      "type": "Bug",
+      "completed_at": "2026-07-16T12:17:56.203000+00:00"
+    },
+    {
+      "id": 1165440,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-04-15T16:10:14.850000+00:00"
+    },
+    {
+      "id": 1172395,
+      "type": "Spike",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1173818,
+      "type": "Bug",
+      "completed_at": "2026-03-09T11:20:41.810000+00:00"
+    },
+    {
+      "id": 1176583,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1177428,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1178724,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-03-26T09:59:10.790000+00:00"
+    },
+    {
+      "id": 1178822,
+      "type": "Spike",
+      "completed_at": "2026-04-15T16:10:16.283000+00:00"
+    },
+    {
+      "id": 1183760,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:16.283000+00:00"
+    },
+    {
+      "id": 1191895,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:16.690000+00:00"
+    },
+    {
+      "id": 1191902,
+      "type": "Bug",
+      "completed_at": "2026-04-15T16:10:16.690000+00:00"
+    },
+    {
+      "id": 1211305,
+      "type": "Bug",
+      "completed_at": "2026-07-15T15:24:30.517000+00:00"
+    },
+    {
+      "id": 1224502,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-29T18:45:42.177000+00:00"
+    },
+    {
+      "id": 1224504,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-29T12:50:33.490000+00:00"
+    },
+    {
+      "id": 1224505,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-23T12:44:30.803000+00:00"
+    },
+    {
+      "id": 1224665,
+      "type": "Bug",
+      "completed_at": "2026-07-29T15:28:38.443000+00:00"
+    },
+    {
+      "id": 1229879,
+      "type": "Bug",
+      "completed_at": "2026-08-07T09:19:06.310000+00:00"
+    },
+    {
+      "id": 1234360,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-28T07:44:33.263000+00:00"
+    },
+    {
+      "id": 1234363,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-30T15:21:55.703000+00:00"
+    },
+    {
+      "id": 1235567,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-06T15:14:38.970000+00:00"
+    },
+    {
+      "id": 1235569,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-04T13:17:36.683000+00:00"
+    },
+    {
+      "id": 1235572,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-04T13:17:38.460000+00:00"
+    },
+    {
+      "id": 1235960,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-07-14T09:46:51.287000+00:00"
+    },
+    {
+      "id": 1241120,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-07T08:25:09.957000+00:00"
+    },
+    {
+      "id": 1243080,
+      "type": "Bug",
+      "completed_at": "2026-08-03T13:33:15.217000+00:00"
+    },
+    {
+      "id": 1245086,
+      "type": "Bug",
+      "completed_at": "2026-08-07T08:43:38.180000+00:00"
+    }
+  ]
+}

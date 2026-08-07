@@ -1,0 +1,286 @@
+{
+  "org": "asos",
+  "project": "Customer",
+  "team": "Analytics and Experimentation",
+  "board_url": "https://dev.azure.com/asos/Customer/_boards/board/t/Analytics%20and%20Experimentation/Backlog%20items",
+  "board": {
+    "id": "56052241-27ed-442c-b368-d6f9250898e7",
+    "name": "Backlog items",
+    "url": "https://dev.azure.com/asos/c359fa1d-44d0-4eee-abb4-24bdc960d83f/fb1c9517-56d1-403a-a616-9293a4db9f61/_apis/work/boards/56052241-27ed-442c-b368-d6f9250898e7"
+  },
+  "columns": [
+    {
+      "id": "98bcbec0-4556-4be7-9049-df6363cc3cba",
+      "name": "New",
+      "column_type": "incoming",
+      "wip_limit": 0,
+      "is_split": false
+    },
+    {
+      "id": "af0de830-53ad-47a7-8eba-d306d8e4bf0c",
+      "name": "Ready for Dev",
+      "column_type": "inProgress",
+      "wip_limit": 5,
+      "is_split": false
+    },
+    {
+      "id": "b36d1383-5d83-46ee-9b5f-dbbb8c4b9490",
+      "name": "In Development",
+      "column_type": "inProgress",
+      "wip_limit": 5,
+      "is_split": false
+    },
+    {
+      "id": "e5ce0fe6-5281-417d-bcb9-50faf355e7b8",
+      "name": "In Review",
+      "column_type": "inProgress",
+      "wip_limit": 5,
+      "is_split": false
+    },
+    {
+      "id": "f2defb53-8cb5-424b-9595-f69f6d5e4326",
+      "name": "External Review",
+      "column_type": "inProgress",
+      "wip_limit": 5,
+      "is_split": false
+    },
+    {
+      "id": "60b15416-da75-4bbc-92dd-ee3007d60a73",
+      "name": "Ready for QA",
+      "column_type": "inProgress",
+      "wip_limit": 3,
+      "is_split": false
+    },
+    {
+      "id": "b74fb6e0-b4da-4ab2-83f9-7b2cca56cc7b",
+      "name": "QA",
+      "column_type": "inProgress",
+      "wip_limit": 3,
+      "is_split": false
+    },
+    {
+      "id": "7b609bf5-3260-4e54-9fc8-f58f169c8a7b",
+      "name": "Ready for release",
+      "column_type": "inProgress",
+      "wip_limit": 5,
+      "is_split": false
+    },
+    {
+      "id": "a6a505d8-383d-4071-9c7c-d51ea99bbeba",
+      "name": "Closed",
+      "column_type": "outgoing",
+      "wip_limit": 0,
+      "is_split": false
+    }
+  ],
+  "work_item_types": [
+    "Accelerator",
+    "Bug",
+    "Issue",
+    "Product Backlog Item",
+    "Retro Bucket",
+    "Spike",
+    "Support Bucket"
+  ],
+  "work_item_type_styles": {
+    "Accelerator": {
+      "color": "#60af49",
+      "icon_id": "icon_airplane",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_airplane?color=60af49&v=2"
+    },
+    "Bug": {
+      "color": "#CC293D",
+      "icon_id": "icon_insect",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_insect?color=CC293D&v=2"
+    },
+    "Issue": {
+      "color": "#ec008c",
+      "icon_id": "icon_traffic_cone",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_traffic_cone?color=ec008c&v=2"
+    },
+    "Product Backlog Item": {
+      "color": "#0098C7",
+      "icon_id": "icon_list",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_list?color=0098C7&v=2"
+    },
+    "Retro Bucket": {
+      "color": "#00643a",
+      "icon_id": "icon_parachute",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_parachute?color=00643a&v=2"
+    },
+    "Spike": {
+      "color": "#fbbc3d",
+      "icon_id": "icon_broken_lightbulb",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_broken_lightbulb?color=fbbc3d&v=2"
+    },
+    "Support Bucket": {
+      "color": "#d7e587",
+      "icon_id": "icon_government",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_government?color=d7e587&v=2"
+    }
+  },
+  "state_mappings": {
+    "Accelerator": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "New",
+      "In Review": "New",
+      "External Review": "New",
+      "Ready for QA": "New",
+      "QA": "New",
+      "Ready for release": "New",
+      "Closed": "Closed"
+    },
+    "Bug": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "In Progress",
+      "In Review": "In Progress",
+      "External Review": "Resolved",
+      "Ready for QA": "Resolved",
+      "QA": "Resolved",
+      "Ready for release": "Resolved",
+      "Closed": "Closed"
+    },
+    "Issue": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "New",
+      "In Review": "New",
+      "External Review": "New",
+      "Ready for QA": "New",
+      "QA": "New",
+      "Ready for release": "New",
+      "Closed": "Closed"
+    },
+    "Product Backlog Item": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "In Progress",
+      "In Review": "In Progress",
+      "External Review": "Resolved",
+      "Ready for QA": "Resolved",
+      "QA": "Resolved",
+      "Ready for release": "Resolved",
+      "Closed": "Closed"
+    },
+    "Retro Bucket": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "New",
+      "In Review": "New",
+      "External Review": "New",
+      "Ready for QA": "New",
+      "QA": "New",
+      "Ready for release": "New",
+      "Closed": "Closed"
+    },
+    "Spike": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "In Progress",
+      "In Review": "In Progress",
+      "External Review": "Resolved",
+      "Ready for QA": "Resolved",
+      "QA": "Resolved",
+      "Ready for release": "Resolved",
+      "Closed": "Closed"
+    },
+    "Support Bucket": {
+      "New": "New",
+      "Ready for Dev": "New",
+      "In Development": "New",
+      "In Review": "New",
+      "External Review": "New",
+      "Ready for QA": "New",
+      "QA": "New",
+      "Ready for release": "New",
+      "Closed": "Closed"
+    }
+  },
+  "swimlanes": [
+    {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "name": "Main",
+      "color": null
+    },
+    {
+      "id": "8062be3f-c5d0-49b4-aad6-9688f0728df8",
+      "name": "Tech Improvement",
+      "color": "#60AF49"
+    },
+    {
+      "id": "3f20935e-143d-43c2-b613-308da638542b",
+      "name": "Dependabot",
+      "color": "#E60017"
+    },
+    {
+      "id": "e1ecda15-8487-491a-b9d7-b2d5eac34b91",
+      "name": "iOS Gap Analysis",
+      "color": "#AA9CDF"
+    },
+    {
+      "id": "c0c5718e-9e0a-4810-913c-34f4e942e857",
+      "name": "Android Gap Analysis",
+      "color": "#FCFD7D"
+    },
+    {
+      "id": "46048b45-06bb-4585-9879-9394b5c46832",
+      "name": "Customer Analytics API & ADE Raw",
+      "color": "#F58B1F"
+    }
+  ],
+  "default_swimlane": "Main",
+  "area_paths": [
+    {
+      "value": "Customer\\Analytics and Experimentation",
+      "includeChildren": false
+    }
+  ],
+  "card_rules": {
+    "fill": [
+      {
+        "name": "Blocked",
+        "filter": "[System.Tags] contains 'blocked'",
+        "background_color": "#EB3345"
+      },
+      {
+        "name": "Created Date",
+        "filter": "[Custom.DaysSinceCreated] > '1'",
+        "background_color": "#C7ABD0"
+      },
+      {
+        "name": "Hold",
+        "filter": "[System.Tags] contains 'hold'",
+        "background_color": "#43B4D5"
+      },
+      {
+        "name": "Mixpanel Critical",
+        "filter": "[System.Tags] contains 'Mixpanel Critical'",
+        "background_color": "#DB552C"
+      }
+    ],
+    "swimlane_rules": [
+      {
+        "name": "Tech Improvement",
+        "filter": "[System.Tags] contains 'Tech Improvement'"
+      },
+      {
+        "name": "Dependabot",
+        "filter": "[System.Tags] contains 'Dependabot'"
+      },
+      {
+        "name": "iOS Gap Analysis",
+        "filter": "[System.Tags] contains 'iOS Gap Analysis'"
+      },
+      {
+        "name": "Android Gap Analysis",
+        "filter": "[System.Tags] contains 'Android Gap Analysis'"
+      },
+      {
+        "name": "Customer Analytics API & ADE Raw",
+        "filter": "[System.Tags] contains 'Customer Analytics API & ADE Raw'"
+      }
+    ]
+  }
+}

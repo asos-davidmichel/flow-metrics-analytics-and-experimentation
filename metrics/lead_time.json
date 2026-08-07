@@ -1,0 +1,496 @@
+{
+  "metric": "lead_time",
+  "calculated_at": "2026-08-07T12:59:20.697671+00:00",
+  "window": {
+    "parameter": "6m",
+    "start": "2026-02-08T12:59:20.697671+00:00",
+    "end": "2026-08-07T12:59:20.697671+00:00"
+  },
+  "config_used": {
+    "clock_start": {
+      "type": "column",
+      "value": "New"
+    },
+    "clock_end": {
+      "type": "column",
+      "value": "Closed"
+    },
+    "historical_column_mapping": {
+      "QA / External Review": "QA"
+    }
+  },
+  "ado_url_base": "https://dev.azure.com/asos/Customer/_workitems/edit",
+  "work_item_type_styles": {
+    "Bug": {
+      "color": "#CC293D",
+      "icon_id": "icon_insect",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_insect?color=CC293D&v=2"
+    },
+    "Product Backlog Item": {
+      "color": "#0098C7",
+      "icon_id": "icon_list",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_list?color=0098C7&v=2"
+    },
+    "Spike": {
+      "color": "#fbbc3d",
+      "icon_id": "icon_broken_lightbulb",
+      "icon_url": "https://tfsprodweu3.visualstudio.com/_apis/wit/workItemIcons/icon_broken_lightbulb?color=fbbc3d&v=2"
+    }
+  },
+  "excluded_item_ids": [
+    1099138,
+    1128365,
+    1135107,
+    1135111,
+    1135596,
+    1135598,
+    1142534,
+    1142853,
+    1142965,
+    1143061,
+    1147589,
+    1148527,
+    1156993,
+    1157148,
+    1157155,
+    1164310,
+    1166516,
+    1170800,
+    1176254,
+    1179991,
+    1182722,
+    1182725,
+    1182730,
+    1183229,
+    1186887,
+    1187077,
+    1187078,
+    1187080,
+    1187082,
+    1188997,
+    1189786,
+    1189792,
+    1190076,
+    1190471,
+    1190473,
+    1190474,
+    1190732,
+    1190761,
+    1190808,
+    1190829,
+    1190830,
+    1190836,
+    1191065,
+    1191553,
+    1192521,
+    1196570,
+    1196572,
+    1196574,
+    1196575,
+    1196577,
+    1196578,
+    1196580,
+    1196597,
+    1196599,
+    1196603,
+    1197933,
+    1203573,
+    1205150,
+    1207264,
+    1207301,
+    1207545,
+    1207643,
+    1207645,
+    1207647,
+    1208566,
+    1210442,
+    1210911,
+    1211614,
+    1211616,
+    1211619,
+    1211620,
+    1212325,
+    1213380,
+    1215318,
+    1215972,
+    1217166,
+    1218007,
+    1218600,
+    1218625,
+    1218636,
+    1220640,
+    1221014,
+    1221222,
+    1221667,
+    1224402,
+    1224643,
+    1224999,
+    1225043,
+    1226211,
+    1227440,
+    1231368,
+    1231376,
+    1231749,
+    1231843,
+    1232243,
+    1232498
+  ],
+  "item_count": 30,
+  "warnings": [
+    "Item 1077639: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1080472: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1089764: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1091162: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1091163: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1091170: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1096541: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1096549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1102420: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1102423: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1108347: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1108952: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1109015: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1109166: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1109235: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1119876: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1119878: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1122572: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1122580: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1123823: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1123884: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1128716: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1130631: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1132714: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1132717: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1132720: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1133407: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1133408: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1134081: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1135306: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1135592: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1137669: Clock start (2026-05-19) is after clock end (2026-05-18) \u2014 data anomaly; excluded",
+    "Item 1137857: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1137978: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1139563: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1140549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1142843: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1142961: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1143060: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1146745: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1149786: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1149911: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1152374: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1152549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1153705: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1156087: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1157034: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1164765: Reached 'Closed' but no 'New' visit found \u2014 excluded",
+    "Item 1165440: Reached 'Closed' but no 'New' visit found \u2014 excluded"
+  ],
+  "overall": {
+    "n": 30,
+    "mean_days": 40.7,
+    "median_days": 39.1,
+    "p85_days": 58.2,
+    "min_days": 0.0,
+    "max_days": 213.1
+  },
+  "weekly_stats": [
+    {
+      "week_start": "2026-02-16",
+      "n": 1,
+      "mean_days": 213.1,
+      "median_days": 213.1
+    },
+    {
+      "week_start": "2026-03-09",
+      "n": 1,
+      "mean_days": 16.9,
+      "median_days": 16.9
+    },
+    {
+      "week_start": "2026-03-23",
+      "n": 2,
+      "mean_days": 29.0,
+      "median_days": 29.0
+    },
+    {
+      "week_start": "2026-04-06",
+      "n": 1,
+      "mean_days": 52.2,
+      "median_days": 52.2
+    },
+    {
+      "week_start": "2026-04-13",
+      "n": 10,
+      "mean_days": 43.2,
+      "median_days": 45.7
+    },
+    {
+      "week_start": "2026-07-13",
+      "n": 2,
+      "mean_days": 32.5,
+      "median_days": 32.5
+    },
+    {
+      "week_start": "2026-07-20",
+      "n": 1,
+      "mean_days": 41.9,
+      "median_days": 41.9
+    },
+    {
+      "week_start": "2026-07-27",
+      "n": 5,
+      "mean_days": 38.6,
+      "median_days": 43.3
+    },
+    {
+      "week_start": "2026-08-03",
+      "n": 7,
+      "mean_days": 21.1,
+      "median_days": 21.0
+    }
+  ],
+  "items": [
+    {
+      "id": 1091199,
+      "title": "Page TIming",
+      "type": "Product Backlog Item",
+      "lead_time_days": 213.07,
+      "started_at": "2025-07-18T08:49:51.233000+00:00",
+      "completed_at": "2026-02-16T10:26:11.120000+00:00"
+    },
+    {
+      "id": 1153269,
+      "title": "Implement Consent Status Flag in Sitechrome",
+      "type": "Product Backlog Item",
+      "lead_time_days": 58.23,
+      "started_at": "2026-02-16T10:36:32.077000+00:00",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153270,
+      "title": "Implement Consent Status Flag in Checkout",
+      "type": "Product Backlog Item",
+      "lead_time_days": 35.96,
+      "started_at": "2026-02-16T10:36:32.077000+00:00",
+      "completed_at": "2026-03-24T09:36:14.970000+00:00"
+    },
+    {
+      "id": 1153271,
+      "title": "Implement Consent Status Flag in Identity Pages",
+      "type": "Product Backlog Item",
+      "lead_time_days": 58.23,
+      "started_at": "2026-02-16T10:36:32.077000+00:00",
+      "completed_at": "2026-04-15T16:10:14.390000+00:00"
+    },
+    {
+      "id": 1153272,
+      "title": "Implement Consent Status Flag in My Account",
+      "type": "Product Backlog Item",
+      "lead_time_days": 52.18,
+      "started_at": "2026-02-16T10:36:32.077000+00:00",
+      "completed_at": "2026-04-09T15:02:40.543000+00:00"
+    },
+    {
+      "id": 1164704,
+      "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
+      "type": "Product Backlog Item",
+      "lead_time_days": 58.23,
+      "started_at": "2026-02-16T10:36:32.077000+00:00",
+      "completed_at": "2026-04-15T16:10:14.850000+00:00"
+    },
+    {
+      "id": 1172395,
+      "title": "SPIKE -  pageData",
+      "type": "Spike",
+      "lead_time_days": 55.98,
+      "started_at": "2026-02-18T16:35:30.517000+00:00",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1173818,
+      "title": "Page load server call is sent as not initiated when OneTrust cookie is delayed",
+      "type": "Bug",
+      "lead_time_days": 16.87,
+      "started_at": "2026-02-20T14:24:52.147000+00:00",
+      "completed_at": "2026-03-09T11:20:41.810000+00:00"
+    },
+    {
+      "id": 1176583,
+      "title": "ES5 build contains optional chaining causing build failures",
+      "type": "Bug",
+      "lead_time_days": 47.28,
+      "started_at": "2026-02-27T09:23:58.850000+00:00",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1177428,
+      "title": "Customer Analytics Availability SLO Fauilure",
+      "type": "Bug",
+      "lead_time_days": 44.05,
+      "started_at": "2026-03-02T14:54:50.983000+00:00",
+      "completed_at": "2026-04-15T16:10:15.727000+00:00"
+    },
+    {
+      "id": 1178724,
+      "title": "Revert Google Tag Gateway Changes",
+      "type": "Product Backlog Item",
+      "lead_time_days": 21.96,
+      "started_at": "2026-03-04T10:57:16.620000+00:00",
+      "completed_at": "2026-03-26T09:59:10.790000+00:00"
+    },
+    {
+      "id": 1178822,
+      "title": "Check if descriptions make it to the client and find out if we can exclude them",
+      "type": "Spike",
+      "lead_time_days": 42.06,
+      "started_at": "2026-03-04T14:40:45.863000+00:00",
+      "completed_at": "2026-04-15T16:10:16.283000+00:00"
+    },
+    {
+      "id": 1183760,
+      "title": "shared-libs - Resolve minified file issue",
+      "type": "Bug",
+      "lead_time_days": 36.22,
+      "started_at": "2026-03-10T10:50:47.883000+00:00",
+      "completed_at": "2026-04-15T16:10:16.283000+00:00"
+    },
+    {
+      "id": 1191895,
+      "title": "Investigate discrepancy in Consent Flags in tracked links in My Account and 2 Step Unsubscribe",
+      "type": "Bug",
+      "lead_time_days": 16.09,
+      "started_at": "2026-03-30T14:01:03.727000+00:00",
+      "completed_at": "2026-04-15T16:10:16.690000+00:00"
+    },
+    {
+      "id": 1191902,
+      "title": "Investigate discrepancy in Consent Status Flags in page views",
+      "type": "Bug",
+      "lead_time_days": 16.07,
+      "started_at": "2026-03-30T14:24:23.517000+00:00",
+      "completed_at": "2026-04-15T16:10:16.690000+00:00"
+    },
+    {
+      "id": 1211305,
+      "title": "PLP Performance Issue",
+      "type": "Bug",
+      "lead_time_days": 65.03,
+      "started_at": "2026-05-11T14:41:31.810000+00:00",
+      "completed_at": "2026-07-15T15:24:30.517000+00:00"
+    },
+    {
+      "id": 1224502,
+      "title": "PDP - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "lead_time_days": 48.38,
+      "started_at": "2026-06-11T09:31:27.373000+00:00",
+      "completed_at": "2026-07-29T18:45:42.177000+00:00"
+    },
+    {
+      "id": 1224504,
+      "title": "BAG - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "lead_time_days": 43.33,
+      "started_at": "2026-06-16T04:52:59.817000+00:00",
+      "completed_at": "2026-07-29T12:50:33.490000+00:00"
+    },
+    {
+      "id": 1224505,
+      "title": "PLP - Push product_component_impression event",
+      "type": "Product Backlog Item",
+      "lead_time_days": 41.94,
+      "started_at": "2026-06-11T14:11:44.103000+00:00",
+      "completed_at": "2026-07-23T12:44:30.803000+00:00"
+    },
+    {
+      "id": 1224665,
+      "title": "PLP client side navigation is not updating super properties and not firing pageData event",
+      "type": "Bug",
+      "lead_time_days": 49.27,
+      "started_at": "2026-06-10T08:55:59.593000+00:00",
+      "completed_at": "2026-07-29T15:28:38.443000+00:00"
+    },
+    {
+      "id": 1229879,
+      "title": "Failed event - pageData - Missing hashed first and last name - missing",
+      "type": "Bug",
+      "lead_time_days": 45.0,
+      "started_at": "2026-06-23T09:23:53.090000+00:00",
+      "completed_at": "2026-08-07T09:19:06.310000+00:00"
+    },
+    {
+      "id": 1234360,
+      "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
+      "type": "Product Backlog Item",
+      "lead_time_days": 24.97,
+      "started_at": "2026-07-03T08:22:05.623000+00:00",
+      "completed_at": "2026-07-28T07:44:33.263000+00:00"
+    },
+    {
+      "id": 1234363,
+      "title": "Checkout - Test sourceId and SellerId is implemented correctly",
+      "type": "Product Backlog Item",
+      "lead_time_days": 27.27,
+      "started_at": "2026-07-03T08:48:52.563000+00:00",
+      "completed_at": "2026-07-30T15:21:55.703000+00:00"
+    },
+    {
+      "id": 1235567,
+      "title": "Track view_item_list for PDP recommendation carousels",
+      "type": "Product Backlog Item",
+      "lead_time_days": 30.04,
+      "started_at": "2026-07-07T14:18:05.210000+00:00",
+      "completed_at": "2026-08-06T15:14:38.970000+00:00"
+    },
+    {
+      "id": 1235569,
+      "title": "Track view_item_list for Bag recommendation carousel",
+      "type": "Product Backlog Item",
+      "lead_time_days": 20.98,
+      "started_at": "2026-07-14T13:44:46.693000+00:00",
+      "completed_at": "2026-08-04T13:17:36.683000+00:00"
+    },
+    {
+      "id": 1235572,
+      "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
+      "type": "Product Backlog Item",
+      "lead_time_days": 20.97,
+      "started_at": "2026-07-14T13:56:24.037000+00:00",
+      "completed_at": "2026-08-04T13:17:38.460000+00:00"
+    },
+    {
+      "id": 1235960,
+      "title": "Add dependabot to asos-web-datalayer",
+      "type": "Product Backlog Item",
+      "lead_time_days": 0.02,
+      "started_at": "2026-07-14T09:14:54.360000+00:00",
+      "completed_at": "2026-07-14T09:46:51.287000+00:00"
+    },
+    {
+      "id": 1241120,
+      "title": "ADE - Update product_component_impression schema to also include recently viewed",
+      "type": "Product Backlog Item",
+      "lead_time_days": 16.95,
+      "started_at": "2026-07-21T09:37:28.803000+00:00",
+      "completed_at": "2026-08-07T08:25:09.957000+00:00"
+    },
+    {
+      "id": 1243080,
+      "title": "UUIDs sent instead of SKUs in add_to_cart on Android",
+      "type": "Bug",
+      "lead_time_days": 7.06,
+      "started_at": "2026-07-27T12:02:44.923000+00:00",
+      "completed_at": "2026-08-03T13:33:15.217000+00:00"
+    },
+    {
+      "id": 1245086,
+      "title": "$app_version_string missing from all iOS events in ADE",
+      "type": "Bug",
+      "lead_time_days": 6.92,
+      "started_at": "2026-07-31T10:34:19.120000+00:00",
+      "completed_at": "2026-08-07T08:43:38.180000+00:00"
+    }
+  ]
+}

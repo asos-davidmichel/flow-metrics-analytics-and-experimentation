@@ -1,0 +1,6483 @@
+{
+  "generated_at": "2026-08-07T12:58:13.093147+00:00",
+  "total_items": 339,
+  "excluded_item_ids": [
+    {
+      "id": 1099138,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1128365,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1135107,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1135111,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1135596,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1135598,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1142534,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1142853,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1142965,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1143061,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1147589,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1148527,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1156993,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1157148,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1157155,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1164310,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1166516,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1170800,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1176254,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1179991,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1182722,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1182725,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1182730,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1183229,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1186887,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1187077,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1187078,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1187080,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1187082,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1188997,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1189786,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1189792,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190076,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190471,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190473,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190474,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190732,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190761,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190808,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190829,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190830,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1190836,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1191065,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1191553,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1192521,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196570,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196572,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196574,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196575,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196577,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196578,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196580,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196597,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196599,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1196603,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1197933,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1203573,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1205150,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207264,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207301,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207545,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207643,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207645,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1207647,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1208566,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1210442,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1210911,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1211614,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1211616,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1211619,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1211620,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1212325,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1213380,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1215318,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1215972,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1217166,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1218007,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1218600,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1218625,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1218636,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1220640,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1221014,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1221222,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1221667,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1224402,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1224643,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1224999,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1225043,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1226211,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1227440,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1231368,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1231376,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1231749,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1231843,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1232243,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    },
+    {
+      "id": 1232498,
+      "reasons": [
+        "unknown_swimlane"
+      ]
+    }
+  ],
+  "checks": {
+    "missing_board_entry_date": {
+      "count": 0,
+      "item_ids": []
+    },
+    "empty_column_history": {
+      "count": 0,
+      "item_ids": []
+    },
+    "snapshot_history_mismatch": {
+      "count": 0,
+      "items": []
+    },
+    "unknown_swimlanes": {
+      "count": 96,
+      "items": [
+        {
+          "id": 1099138,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1128365,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1135107,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1135111,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1135596,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1135598,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1142534,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1142853,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1142965,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1143061,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1147589,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1148527,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1156993,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1157148,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1157155,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1164310,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1166516,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1170800,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1176254,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1179991,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1182722,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1182725,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1182730,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1183229,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1186887,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1187077,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1187078,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1187080,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1187082,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1188997,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1189786,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1189792,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190076,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190471,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190473,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190474,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190732,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190761,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190808,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190829,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190830,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1190836,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1191065,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1191553,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1192521,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196570,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196572,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196574,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196575,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196577,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196578,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196580,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196597,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196599,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1196603,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1197933,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1203573,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1205150,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207264,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207301,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207545,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207643,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207645,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1207647,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1208566,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1210442,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1210911,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1211614,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1211616,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1211619,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1211620,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1212325,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1213380,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1215318,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1215972,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1217166,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1218007,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1218600,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1218625,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1218636,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1220640,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1221014,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1221222,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1221667,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1224402,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1224643,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1224999,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1225043,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1226211,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1227440,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1231368,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1231376,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1231749,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1231843,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1232243,
+          "swimlane": "Data Layer"
+        },
+        {
+          "id": 1232498,
+          "swimlane": "Data Layer"
+        }
+      ]
+    },
+    "unknown_states_in_history": {
+      "count": 211,
+      "items": [
+        {
+          "id": 1029039,
+          "state": "Active",
+          "entered": "2025-03-03T10:39:43.99Z"
+        },
+        {
+          "id": 1089190,
+          "state": "Active",
+          "entered": "2025-07-11T08:51:28.647Z"
+        },
+        {
+          "id": 1091126,
+          "state": "Active",
+          "entered": "2025-07-18T08:54:25.69Z"
+        },
+        {
+          "id": 1091200,
+          "state": "Active",
+          "entered": "2025-10-28T11:35:52.013Z"
+        },
+        {
+          "id": 1091200,
+          "state": "Active",
+          "entered": "2025-11-07T10:05:49.177Z"
+        },
+        {
+          "id": 1091200,
+          "state": "Active",
+          "entered": "2025-11-11T08:08:50.36Z"
+        },
+        {
+          "id": 1092014,
+          "state": "Active",
+          "entered": "2025-07-21T15:10:22.147Z"
+        },
+        {
+          "id": 1096541,
+          "state": "Active",
+          "entered": "2025-08-26T07:24:34.34Z"
+        },
+        {
+          "id": 1096547,
+          "state": "Active",
+          "entered": "2025-08-19T11:13:16.02Z"
+        },
+        {
+          "id": 1096549,
+          "state": "Active",
+          "entered": "2025-08-04T13:39:12.657Z"
+        },
+        {
+          "id": 1098312,
+          "state": "Active",
+          "entered": "2025-08-26T07:24:19.197Z"
+        },
+        {
+          "id": 1098312,
+          "state": "Active",
+          "entered": "2026-01-19T14:31:37.37Z"
+        },
+        {
+          "id": 1098312,
+          "state": "Active",
+          "entered": "2026-01-27T14:14:02.503Z"
+        },
+        {
+          "id": 1098312,
+          "state": "Active",
+          "entered": "2026-03-02T16:18:12.16Z"
+        },
+        {
+          "id": 1099138,
+          "state": "Active",
+          "entered": "2025-10-15T10:32:46.66Z"
+        },
+        {
+          "id": 1099138,
+          "state": "Active",
+          "entered": "2025-10-21T09:21:16.31Z"
+        },
+        {
+          "id": 1099138,
+          "state": "Active",
+          "entered": "2025-10-27T15:32:43Z"
+        },
+        {
+          "id": 1099138,
+          "state": "Active",
+          "entered": "2026-02-06T12:33:22.543Z"
+        },
+        {
+          "id": 1101459,
+          "state": "Active",
+          "entered": "2025-08-15T06:21:33.69Z"
+        },
+        {
+          "id": 1101459,
+          "state": "Active",
+          "entered": "2025-08-26T07:25:01.753Z"
+        },
+        {
+          "id": 1102420,
+          "state": "Active",
+          "entered": "2025-08-19T11:26:35.633Z"
+        },
+        {
+          "id": 1102420,
+          "state": "Active",
+          "entered": "2025-08-26T10:22:23.86Z"
+        },
+        {
+          "id": 1102423,
+          "state": "Active",
+          "entered": "2025-08-19T10:58:09.21Z"
+        },
+        {
+          "id": 1102423,
+          "state": "Active",
+          "entered": "2025-08-28T12:54:12.21Z"
+        },
+        {
+          "id": 1108347,
+          "state": "Active",
+          "entered": "2025-09-09T10:47:53.21Z"
+        },
+        {
+          "id": 1108347,
+          "state": "Active",
+          "entered": "2025-10-08T15:46:30.94Z"
+        },
+        {
+          "id": 1108952,
+          "state": "Active",
+          "entered": "2025-09-11T09:16:16.063Z"
+        },
+        {
+          "id": 1109017,
+          "state": "Active",
+          "entered": "2025-11-03T11:58:34.697Z"
+        },
+        {
+          "id": 1109017,
+          "state": "Active",
+          "entered": "2025-11-04T15:59:18.583Z"
+        },
+        {
+          "id": 1109163,
+          "state": "Active",
+          "entered": "2025-10-13T10:37:58.23Z"
+        },
+        {
+          "id": 1109163,
+          "state": "Active",
+          "entered": "2025-10-13T11:09:43.667Z"
+        },
+        {
+          "id": 1109166,
+          "state": "Active",
+          "entered": "2025-10-13T10:38:33.603Z"
+        },
+        {
+          "id": 1109166,
+          "state": "Active",
+          "entered": "2025-10-13T13:48:35.43Z"
+        },
+        {
+          "id": 1109166,
+          "state": "Active",
+          "entered": "2025-10-13T13:56:07.02Z"
+        },
+        {
+          "id": 1109235,
+          "state": "Active",
+          "entered": "2025-09-11T07:38:22.977Z"
+        },
+        {
+          "id": 1119876,
+          "state": "Active",
+          "entered": "2025-10-13T11:02:26.717Z"
+        },
+        {
+          "id": 1119876,
+          "state": "Active",
+          "entered": "2025-10-16T09:05:04.52Z"
+        },
+        {
+          "id": 1119876,
+          "state": "Active",
+          "entered": "2025-10-16T14:15:31.857Z"
+        },
+        {
+          "id": 1119878,
+          "state": "Active",
+          "entered": "2025-10-13T11:02:32.45Z"
+        },
+        {
+          "id": 1119878,
+          "state": "Active",
+          "entered": "2025-10-14T10:26:18.007Z"
+        },
+        {
+          "id": 1119892,
+          "state": "Active",
+          "entered": "2025-10-13T11:02:38.073Z"
+        },
+        {
+          "id": 1119892,
+          "state": "Active",
+          "entered": "2025-10-16T15:38:29.423Z"
+        },
+        {
+          "id": 1119893,
+          "state": "Active",
+          "entered": "2025-10-13T10:52:18.12Z"
+        },
+        {
+          "id": 1119893,
+          "state": "Active",
+          "entered": "2025-10-22T08:33:37.497Z"
+        },
+        {
+          "id": 1121990,
+          "state": "Active",
+          "entered": "2025-10-17T09:00:16.147Z"
+        },
+        {
+          "id": 1122572,
+          "state": "Active",
+          "entered": "2025-10-22T12:22:24.73Z"
+        },
+        {
+          "id": 1122580,
+          "state": "Active",
+          "entered": "2025-10-20T10:49:59.993Z"
+        },
+        {
+          "id": 1122580,
+          "state": "Active",
+          "entered": "2025-10-21T07:52:28.763Z"
+        },
+        {
+          "id": 1123823,
+          "state": "Active",
+          "entered": "2025-11-03T11:39:53.227Z"
+        },
+        {
+          "id": 1123823,
+          "state": "Active",
+          "entered": "2025-11-04T14:04:59.677Z"
+        },
+        {
+          "id": 1123884,
+          "state": "Active",
+          "entered": "2025-10-24T08:38:47.32Z"
+        },
+        {
+          "id": 1124898,
+          "state": "Active",
+          "entered": "2025-10-28T11:35:05.933Z"
+        },
+        {
+          "id": 1124898,
+          "state": "Active",
+          "entered": "2025-10-30T11:03:27.39Z"
+        },
+        {
+          "id": 1127036,
+          "state": "Active",
+          "entered": "2025-11-03T11:00:50.997Z"
+        },
+        {
+          "id": 1127036,
+          "state": "Active",
+          "entered": "2026-01-27T14:14:28.31Z"
+        },
+        {
+          "id": 1127383,
+          "state": "Active",
+          "entered": "2025-11-05T14:58:21.773Z"
+        },
+        {
+          "id": 1127383,
+          "state": "Active",
+          "entered": "2025-11-06T11:12:50.21Z"
+        },
+        {
+          "id": 1128365,
+          "state": "Active",
+          "entered": "2026-01-16T15:23:41.393Z"
+        },
+        {
+          "id": 1128397,
+          "state": "Active",
+          "entered": "2025-11-05T15:08:46.097Z"
+        },
+        {
+          "id": 1128397,
+          "state": "Active",
+          "entered": "2025-11-06T09:44:07.79Z"
+        },
+        {
+          "id": 1128397,
+          "state": "Active",
+          "entered": "2025-12-12T16:16:32.9Z"
+        },
+        {
+          "id": 1128716,
+          "state": "Active",
+          "entered": "2025-11-07T11:52:50.253Z"
+        },
+        {
+          "id": 1129092,
+          "state": "Active",
+          "entered": "2025-11-10T12:59:36.727Z"
+        },
+        {
+          "id": 1129092,
+          "state": "Active",
+          "entered": "2025-11-12T10:35:47.717Z"
+        },
+        {
+          "id": 1129092,
+          "state": "Active",
+          "entered": "2026-02-11T15:43:27.5Z"
+        },
+        {
+          "id": 1129092,
+          "state": "Active",
+          "entered": "2026-03-05T15:29:14.9Z"
+        },
+        {
+          "id": 1129092,
+          "state": "Active",
+          "entered": "2026-03-16T13:36:45.687Z"
+        },
+        {
+          "id": 1129355,
+          "state": "Active",
+          "entered": "2025-11-10T11:47:09.11Z"
+        },
+        {
+          "id": 1129355,
+          "state": "Active",
+          "entered": "2025-11-12T15:54:58.097Z"
+        },
+        {
+          "id": 1129355,
+          "state": "Active",
+          "entered": "2025-11-13T10:42:48.023Z"
+        },
+        {
+          "id": 1129355,
+          "state": "Active",
+          "entered": "2025-11-13T13:10:25.193Z"
+        },
+        {
+          "id": 1130631,
+          "state": "Active",
+          "entered": "2025-11-13T11:35:37.01Z"
+        },
+        {
+          "id": 1130631,
+          "state": "Active",
+          "entered": "2025-11-14T08:35:57.34Z"
+        },
+        {
+          "id": 1130631,
+          "state": "Active",
+          "entered": "2025-11-24T09:18:06.577Z"
+        },
+        {
+          "id": 1130681,
+          "state": "Active",
+          "entered": "2025-11-12T10:16:43.59Z"
+        },
+        {
+          "id": 1130681,
+          "state": "Active",
+          "entered": "2025-11-12T15:51:01.607Z"
+        },
+        {
+          "id": 1131289,
+          "state": "Active",
+          "entered": "2025-11-13T11:52:25.413Z"
+        },
+        {
+          "id": 1132714,
+          "state": "Active",
+          "entered": "2025-11-17T11:43:26.993Z"
+        },
+        {
+          "id": 1132714,
+          "state": "Active",
+          "entered": "2025-11-18T09:45:55.07Z"
+        },
+        {
+          "id": 1132714,
+          "state": "Active",
+          "entered": "2025-11-26T09:42:22.507Z"
+        },
+        {
+          "id": 1132714,
+          "state": "Active",
+          "entered": "2026-01-16T15:27:13.24Z"
+        },
+        {
+          "id": 1132717,
+          "state": "Active",
+          "entered": "2025-11-17T11:47:13.973Z"
+        },
+        {
+          "id": 1132717,
+          "state": "Active",
+          "entered": "2025-11-18T09:05:21.41Z"
+        },
+        {
+          "id": 1132717,
+          "state": "Active",
+          "entered": "2025-12-15T10:16:22.383Z"
+        },
+        {
+          "id": 1132717,
+          "state": "Active",
+          "entered": "2026-01-16T15:26:48.61Z"
+        },
+        {
+          "id": 1132717,
+          "state": "Active",
+          "entered": "2026-01-23T11:21:45.123Z"
+        },
+        {
+          "id": 1132720,
+          "state": "Active",
+          "entered": "2025-11-17T11:37:58.033Z"
+        },
+        {
+          "id": 1132720,
+          "state": "Active",
+          "entered": "2025-11-17T14:43:51.803Z"
+        },
+        {
+          "id": 1134081,
+          "state": "Active",
+          "entered": "2025-11-24T16:15:35.303Z"
+        },
+        {
+          "id": 1135107,
+          "state": "Active",
+          "entered": "2025-11-25T11:44:59.587Z"
+        },
+        {
+          "id": 1135107,
+          "state": "Active",
+          "entered": "2025-11-26T10:53:51.987Z"
+        },
+        {
+          "id": 1135107,
+          "state": "Active",
+          "entered": "2025-12-15T10:17:12.303Z"
+        },
+        {
+          "id": 1135107,
+          "state": "Active",
+          "entered": "2026-02-11T09:36:20.73Z"
+        },
+        {
+          "id": 1135111,
+          "state": "Active",
+          "entered": "2025-11-25T11:41:12.563Z"
+        },
+        {
+          "id": 1135111,
+          "state": "Active",
+          "entered": "2025-11-25T12:42:13.87Z"
+        },
+        {
+          "id": 1135111,
+          "state": "Active",
+          "entered": "2025-11-25T16:55:11.697Z"
+        },
+        {
+          "id": 1135306,
+          "state": "Active",
+          "entered": "2025-12-03T11:15:10.897Z"
+        },
+        {
+          "id": 1135590,
+          "state": "Active",
+          "entered": "2025-12-01T09:24:40.833Z"
+        },
+        {
+          "id": 1135592,
+          "state": "Active",
+          "entered": "2025-12-01T09:30:43.17Z"
+        },
+        {
+          "id": 1135592,
+          "state": "Active",
+          "entered": "2025-12-05T15:56:08.967Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2025-12-02T10:20:50.3Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2025-12-03T11:54:57.95Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2025-12-10T16:21:48.52Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2025-12-19T16:52:13.423Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2026-01-16T15:27:56.86Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2026-01-26T09:51:13.313Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2026-02-13T13:41:34.53Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2026-03-03T17:45:02.01Z"
+        },
+        {
+          "id": 1135596,
+          "state": "Active",
+          "entered": "2026-03-10T17:08:37.14Z"
+        },
+        {
+          "id": 1135598,
+          "state": "Active",
+          "entered": "2025-12-11T16:11:33.25Z"
+        },
+        {
+          "id": 1135598,
+          "state": "Active",
+          "entered": "2026-01-06T10:28:27.133Z"
+        },
+        {
+          "id": 1137669,
+          "state": "Active",
+          "entered": "2026-02-10T09:41:30.16Z"
+        },
+        {
+          "id": 1137669,
+          "state": "Active",
+          "entered": "2026-02-10T13:59:17.637Z"
+        },
+        {
+          "id": 1137857,
+          "state": "Active",
+          "entered": "2025-12-03T11:42:21.433Z"
+        },
+        {
+          "id": 1137857,
+          "state": "Active",
+          "entered": "2025-12-03T13:36:38.937Z"
+        },
+        {
+          "id": 1137857,
+          "state": "Active",
+          "entered": "2026-01-20T17:33:50.183Z"
+        },
+        {
+          "id": 1137862,
+          "state": "Active",
+          "entered": "2025-12-03T12:05:01.697Z"
+        },
+        {
+          "id": 1137862,
+          "state": "Active",
+          "entered": "2026-01-07T16:01:01.357Z"
+        },
+        {
+          "id": 1137978,
+          "state": "Active",
+          "entered": "2025-12-05T21:17:37.303Z"
+        },
+        {
+          "id": 1139563,
+          "state": "Active",
+          "entered": "2025-12-09T14:32:39.54Z"
+        },
+        {
+          "id": 1140237,
+          "state": "Active",
+          "entered": "2025-12-11T14:24:01.76Z"
+        },
+        {
+          "id": 1140549,
+          "state": "Active",
+          "entered": "2025-12-11T13:48:42.197Z"
+        },
+        {
+          "id": 1140549,
+          "state": "Active",
+          "entered": "2026-01-22T10:19:02.07Z"
+        },
+        {
+          "id": 1142534,
+          "state": "Active",
+          "entered": "2026-01-26T16:12:14.183Z"
+        },
+        {
+          "id": 1142843,
+          "state": "Active",
+          "entered": "2026-01-08T14:33:45.26Z"
+        },
+        {
+          "id": 1142853,
+          "state": "Active",
+          "entered": "2026-01-09T11:40:56.207Z"
+        },
+        {
+          "id": 1142853,
+          "state": "Active",
+          "entered": "2026-02-03T16:24:45.877Z"
+        },
+        {
+          "id": 1142961,
+          "state": "Active",
+          "entered": "2026-01-08T14:33:45.26Z"
+        },
+        {
+          "id": 1142965,
+          "state": "Active",
+          "entered": "2026-01-15T15:16:55.7Z"
+        },
+        {
+          "id": 1142965,
+          "state": "Active",
+          "entered": "2026-02-02T14:26:24.1Z"
+        },
+        {
+          "id": 1143060,
+          "state": "Active",
+          "entered": "2026-01-08T14:33:45.26Z"
+        },
+        {
+          "id": 1143061,
+          "state": "Active",
+          "entered": "2026-01-21T15:56:54.46Z"
+        },
+        {
+          "id": 1143061,
+          "state": "Active",
+          "entered": "2026-02-13T15:06:51.547Z"
+        },
+        {
+          "id": 1146745,
+          "state": "Active",
+          "entered": "2026-01-07T16:01:01.357Z"
+        },
+        {
+          "id": 1147395,
+          "state": "Active",
+          "entered": "2026-01-12T10:34:12.843Z"
+        },
+        {
+          "id": 1147395,
+          "state": "Active",
+          "entered": "2026-01-12T15:10:11.773Z"
+        },
+        {
+          "id": 1147416,
+          "state": "Active",
+          "entered": "2026-01-12T16:17:51.04Z"
+        },
+        {
+          "id": 1147416,
+          "state": "Active",
+          "entered": "2026-01-23T10:28:10.79Z"
+        },
+        {
+          "id": 1147416,
+          "state": "Active",
+          "entered": "2026-01-28T17:47:58.373Z"
+        },
+        {
+          "id": 1147589,
+          "state": "Active",
+          "entered": "2026-01-21T14:57:39.597Z"
+        },
+        {
+          "id": 1147602,
+          "state": "Active",
+          "entered": "2026-01-28T16:10:17.843Z"
+        },
+        {
+          "id": 1147602,
+          "state": "Active",
+          "entered": "2026-02-16T09:59:08.47Z"
+        },
+        {
+          "id": 1148527,
+          "state": "Active",
+          "entered": "2026-01-27T15:57:23.3Z"
+        },
+        {
+          "id": 1148527,
+          "state": "Active",
+          "entered": "2026-03-23T09:44:57.767Z"
+        },
+        {
+          "id": 1149786,
+          "state": "Active",
+          "entered": "2026-01-13T12:16:04.053Z"
+        },
+        {
+          "id": 1149911,
+          "state": "Active",
+          "entered": "2026-01-15T09:44:15.8Z"
+        },
+        {
+          "id": 1152374,
+          "state": "Active",
+          "entered": "2026-01-15T14:48:45.137Z"
+        },
+        {
+          "id": 1152374,
+          "state": "Active",
+          "entered": "2026-01-23T10:29:14.613Z"
+        },
+        {
+          "id": 1153269,
+          "state": "Active",
+          "entered": "2026-02-11T11:09:51.89Z"
+        },
+        {
+          "id": 1153269,
+          "state": "Active",
+          "entered": "2026-02-25T09:11:40.367Z"
+        },
+        {
+          "id": 1153269,
+          "state": "Active",
+          "entered": "2026-03-10T16:54:23.477Z"
+        },
+        {
+          "id": 1153270,
+          "state": "Active",
+          "entered": "2026-02-04T15:20:21.89Z"
+        },
+        {
+          "id": 1153270,
+          "state": "Active",
+          "entered": "2026-02-05T09:28:59.33Z"
+        },
+        {
+          "id": 1153270,
+          "state": "Active",
+          "entered": "2026-02-25T10:42:51.047Z"
+        },
+        {
+          "id": 1153270,
+          "state": "Active",
+          "entered": "2026-03-06T09:37:58.643Z"
+        },
+        {
+          "id": 1153270,
+          "state": "Active",
+          "entered": "2026-03-10T09:34:33.78Z"
+        },
+        {
+          "id": 1153271,
+          "state": "Active",
+          "entered": "2026-02-05T09:28:59.33Z"
+        },
+        {
+          "id": 1153271,
+          "state": "Active",
+          "entered": "2026-02-25T09:11:42.78Z"
+        },
+        {
+          "id": 1153271,
+          "state": "Active",
+          "entered": "2026-03-10T09:34:40.19Z"
+        },
+        {
+          "id": 1153271,
+          "state": "Active",
+          "entered": "2026-03-13T17:29:36.107Z"
+        },
+        {
+          "id": 1153272,
+          "state": "Active",
+          "entered": "2026-01-29T15:35:42.25Z"
+        },
+        {
+          "id": 1153705,
+          "state": "Active",
+          "entered": "2026-01-19T16:03:00.993Z"
+        },
+        {
+          "id": 1156087,
+          "state": "Active",
+          "entered": "2026-01-29T15:35:42.25Z"
+        },
+        {
+          "id": 1156087,
+          "state": "Active",
+          "entered": "2026-02-12T09:42:39.367Z"
+        },
+        {
+          "id": 1156993,
+          "state": "Active",
+          "entered": "2026-02-02T15:13:17.533Z"
+        },
+        {
+          "id": 1156993,
+          "state": "Active",
+          "entered": "2026-02-03T07:42:26.527Z"
+        },
+        {
+          "id": 1157034,
+          "state": "Active",
+          "entered": "2026-01-28T09:18:19.56Z"
+        },
+        {
+          "id": 1157148,
+          "state": "Active",
+          "entered": "2026-02-02T15:23:28.51Z"
+        },
+        {
+          "id": 1157148,
+          "state": "Active",
+          "entered": "2026-02-03T10:21:36.96Z"
+        },
+        {
+          "id": 1157148,
+          "state": "Active",
+          "entered": "2026-02-16T10:26:11.12Z"
+        },
+        {
+          "id": 1157155,
+          "state": "Active",
+          "entered": "2026-02-02T15:23:28.51Z"
+        },
+        {
+          "id": 1157155,
+          "state": "Active",
+          "entered": "2026-02-03T15:42:20.353Z"
+        },
+        {
+          "id": 1157155,
+          "state": "Active",
+          "entered": "2026-02-20T09:46:29.777Z"
+        },
+        {
+          "id": 1157155,
+          "state": "Active",
+          "entered": "2026-02-23T09:38:20.243Z"
+        },
+        {
+          "id": 1164310,
+          "state": "Active",
+          "entered": "2026-02-03T09:29:53.553Z"
+        },
+        {
+          "id": 1164310,
+          "state": "Active",
+          "entered": "2026-02-11T15:15:49.167Z"
+        },
+        {
+          "id": 1164765,
+          "state": "Active",
+          "entered": "2026-02-05T13:09:04.96Z"
+        },
+        {
+          "id": 1164765,
+          "state": "Active",
+          "entered": "2026-02-10T09:41:23.197Z"
+        },
+        {
+          "id": 1165440,
+          "state": "Active",
+          "entered": "2026-02-04T15:15:43.86Z"
+        },
+        {
+          "id": 1165440,
+          "state": "Active",
+          "entered": "2026-02-13T09:38:16.64Z"
+        },
+        {
+          "id": 1166515,
+          "state": "Active",
+          "entered": "2026-02-06T12:50:31.91Z"
+        },
+        {
+          "id": 1166516,
+          "state": "Active",
+          "entered": "2026-02-13T09:59:41.277Z"
+        },
+        {
+          "id": 1166516,
+          "state": "Active",
+          "entered": "2026-02-16T10:27:42.333Z"
+        },
+        {
+          "id": 1170800,
+          "state": "Active",
+          "entered": "2026-02-25T10:56:00.163Z"
+        },
+        {
+          "id": 1172395,
+          "state": "Active",
+          "entered": "2026-02-19T16:36:19.563Z"
+        },
+        {
+          "id": 1173818,
+          "state": "Active",
+          "entered": "2026-02-26T09:44:28.283Z"
+        },
+        {
+          "id": 1176254,
+          "state": "Active",
+          "entered": "2026-03-02T09:40:27.923Z"
+        },
+        {
+          "id": 1176583,
+          "state": "Active",
+          "entered": "2026-02-27T12:47:33.88Z"
+        },
+        {
+          "id": 1177428,
+          "state": "Active",
+          "entered": "2026-03-02T14:54:56.803Z"
+        },
+        {
+          "id": 1178724,
+          "state": "Active",
+          "entered": "2026-03-04T13:57:07.017Z"
+        },
+        {
+          "id": 1178724,
+          "state": "Active",
+          "entered": "2026-03-05T09:24:45.39Z"
+        },
+        {
+          "id": 1178724,
+          "state": "Active",
+          "entered": "2026-03-23T16:38:59.817Z"
+        },
+        {
+          "id": 1178746,
+          "state": "Active",
+          "entered": "2026-03-04T14:44:18.367Z"
+        },
+        {
+          "id": 1178822,
+          "state": "Active",
+          "entered": "2026-03-04T14:41:57.157Z"
+        },
+        {
+          "id": 1178822,
+          "state": "Active",
+          "entered": "2026-03-05T15:01:29.867Z"
+        },
+        {
+          "id": 1179991,
+          "state": "Active",
+          "entered": "2026-03-09T09:37:36.46Z"
+        },
+        {
+          "id": 1182722,
+          "state": "Active",
+          "entered": "2026-03-16T13:22:36.047Z"
+        },
+        {
+          "id": 1182722,
+          "state": "Active",
+          "entered": "2026-03-17T09:32:27.387Z"
+        },
+        {
+          "id": 1182730,
+          "state": "Active",
+          "entered": "2026-03-19T11:12:30.45Z"
+        },
+        {
+          "id": 1183229,
+          "state": "Active",
+          "entered": "2026-03-12T11:53:04.363Z"
+        },
+        {
+          "id": 1183229,
+          "state": "Active",
+          "entered": "2026-03-16T14:29:08.67Z"
+        },
+        {
+          "id": 1183760,
+          "state": "Active",
+          "entered": "2026-03-10T10:55:38.177Z"
+        },
+        {
+          "id": 1186887,
+          "state": "Active",
+          "entered": "2026-03-16T09:31:48.307Z"
+        },
+        {
+          "id": 1187077,
+          "state": "Approved",
+          "entered": "2026-03-18T14:33:06.517Z"
+        },
+        {
+          "id": 1187077,
+          "state": "Active",
+          "entered": "2026-03-19T13:37:10.26Z"
+        },
+        {
+          "id": 1187078,
+          "state": "Active",
+          "entered": "2026-03-23T14:39:18.203Z"
+        },
+        {
+          "id": 1188997,
+          "state": "Active",
+          "entered": "2026-03-20T11:36:57.527Z"
+        },
+        {
+          "id": 1212553,
+          "state": "Approved",
+          "entered": "2026-07-20T08:43:50.433Z"
+        },
+        {
+          "id": 1217166,
+          "state": "In Review",
+          "entered": "2026-05-26T08:13:57.277Z"
+        },
+        {
+          "id": 1224502,
+          "state": "Approved",
+          "entered": "2026-06-17T14:33:05.89Z"
+        },
+        {
+          "id": 1224504,
+          "state": "Approved",
+          "entered": "2026-06-18T08:17:50.43Z"
+        }
+      ],
+      "note": "Time-sensitive \u2014 re-evaluate once analysis timeframe is set."
+    },
+    "historical_unknown_columns": {
+      "count": 1,
+      "unknown_columns": [
+        {
+          "column": "QA / External Review",
+          "item_ids": [
+            1077639,
+            1089764,
+            1091200,
+            1096541,
+            1098312,
+            1099138,
+            1108347,
+            1109017,
+            1122572,
+            1123823,
+            1124898,
+            1127036,
+            1128365,
+            1128365,
+            1128397,
+            1129092,
+            1129355,
+            1130631,
+            1131289,
+            1131289,
+            1132714,
+            1132717,
+            1132717,
+            1135107,
+            1135107,
+            1135111,
+            1135306,
+            1135596,
+            1137857,
+            1140237,
+            1140549,
+            1152549
+          ]
+        }
+      ],
+      "note": "Time-sensitive \u2014 re-evaluate once analysis timeframe is set."
+    },
+    "short_dwell_spans": {
+      "threshold_minutes": 60,
+      "count": 199,
+      "items": [
+        {
+          "id": 1053521,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-05-27T13:50:12.437Z",
+              "left": "2025-05-27T13:50:12.637Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-05-27T13:50:12.637Z",
+              "left": "2025-05-27T13:50:14.787Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1089190,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-07-11T08:51:11.497Z",
+              "left": "2025-07-11T08:51:28.647Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1091199,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2025-07-18T08:49:51.233Z",
+              "left": "2025-07-18T08:50:06.757Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1091200,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-10-28T11:35:52.013Z",
+              "left": "2025-10-28T11:36:10.183Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-11-11T08:08:49.697Z",
+              "left": "2025-11-11T08:08:50.36Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1091209,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2025-07-18T08:51:13.68Z",
+              "left": "2025-07-18T08:51:40.55Z",
+              "dwell_minutes": 0.4
+            }
+          ]
+        },
+        {
+          "id": 1091210,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2025-07-18T08:51:13.68Z",
+              "left": "2025-07-18T08:51:40.55Z",
+              "dwell_minutes": 0.4
+            }
+          ]
+        },
+        {
+          "id": 1092014,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-07-21T15:08:21.68Z",
+              "left": "2025-07-21T15:10:22.147Z",
+              "dwell_minutes": 2.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-07-21T15:10:22.147Z",
+              "left": "2025-07-21T15:34:36.303Z",
+              "dwell_minutes": 24.2
+            }
+          ]
+        },
+        {
+          "id": 1096541,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-08-19T11:26:36.93Z",
+              "left": "2025-08-19T11:26:48.53Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-08-26T07:24:34.34Z",
+              "left": "2025-08-26T07:24:34.517Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1096547,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-08-19T10:33:22.023Z",
+              "left": "2025-08-19T11:08:57.607Z",
+              "dwell_minutes": 35.6
+            }
+          ]
+        },
+        {
+          "id": 1096549,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-08-04T13:35:44.13Z",
+              "left": "2025-08-04T13:39:12.657Z",
+              "dwell_minutes": 3.5
+            }
+          ]
+        },
+        {
+          "id": 1098312,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-09-24T07:08:42.11Z",
+              "left": "2025-09-24T07:13:10.187Z",
+              "dwell_minutes": 4.5
+            }
+          ]
+        },
+        {
+          "id": 1099138,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-10-20T09:18:51.707Z",
+              "left": "2025-10-20T09:18:57.867Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Review",
+              "entered": "2025-10-29T17:37:10.52Z",
+              "left": "2025-10-29T18:08:18.257Z",
+              "dwell_minutes": 31.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:27:55.22Z",
+              "left": "2026-02-16T10:41:24.043Z",
+              "dwell_minutes": 13.5
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-02-25T15:30:55.223Z",
+              "left": "2026-02-25T15:52:26.917Z",
+              "dwell_minutes": 21.5
+            }
+          ]
+        },
+        {
+          "id": 1101459,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-08-15T06:15:11.41Z",
+              "left": "2025-08-15T06:21:33.69Z",
+              "dwell_minutes": 6.4
+            },
+            {
+              "column": "Closed",
+              "entered": "2025-08-26T07:25:01.383Z",
+              "left": "2025-08-26T07:25:01.753Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1102420,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-08-19T11:26:35.633Z",
+              "left": "2025-08-19T11:26:36.93Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1102423,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-08-19T10:53:40.647Z",
+              "left": "2025-08-19T10:58:09.21Z",
+              "dwell_minutes": 4.5
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-08-19T10:58:09.21Z",
+              "left": "2025-08-19T11:26:36.93Z",
+              "dwell_minutes": 28.5
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-07T10:20:37.58Z",
+              "left": "2025-10-07T10:20:38.06Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1108347,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-09-09T10:47:36.93Z",
+              "left": "2025-09-09T10:47:37.247Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-09-09T10:47:37.247Z",
+              "left": "2025-09-09T10:47:53.21Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-09-24T07:08:05.13Z",
+              "left": "2025-09-24T07:08:07.5Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-10-08T15:46:29.453Z",
+              "left": "2025-10-08T15:46:30.94Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1108952,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-09-10T09:34:12.517Z",
+              "left": "2025-09-10T09:34:46.64Z",
+              "dwell_minutes": 0.6
+            }
+          ]
+        },
+        {
+          "id": 1109017,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-11-03T11:58:34.697Z",
+              "left": "2025-11-03T11:59:59.21Z",
+              "dwell_minutes": 1.4
+            }
+          ]
+        },
+        {
+          "id": 1109163,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T10:37:58.23Z",
+              "left": "2025-10-13T11:09:35.36Z",
+              "dwell_minutes": 31.6
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-10-13T11:09:35.36Z",
+              "left": "2025-10-13T11:09:43.667Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T11:09:43.667Z",
+              "left": "2025-10-13T11:41:11.48Z",
+              "dwell_minutes": 31.5
+            }
+          ]
+        },
+        {
+          "id": 1109166,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T10:38:33.603Z",
+              "left": "2025-10-13T10:52:28.51Z",
+              "dwell_minutes": 13.9
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T13:48:35.43Z",
+              "left": "2025-10-13T13:48:40.693Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-10-13T13:48:40.693Z",
+              "left": "2025-10-13T13:56:07.02Z",
+              "dwell_minutes": 7.4
+            }
+          ]
+        },
+        {
+          "id": 1109235,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-09-11T07:38:11.893Z",
+              "left": "2025-09-11T07:38:13.787Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-09-11T07:38:13.787Z",
+              "left": "2025-09-11T07:38:22.977Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-09-11T07:38:22.977Z",
+              "left": "2025-09-11T07:55:01.62Z",
+              "dwell_minutes": 16.6
+            }
+          ]
+        },
+        {
+          "id": 1119876,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-13T10:43:10.937Z",
+              "left": "2025-10-13T11:02:26.717Z",
+              "dwell_minutes": 19.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T11:02:26.717Z",
+              "left": "2025-10-13T11:02:48.4Z",
+              "dwell_minutes": 0.4
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-16T09:05:04.52Z",
+              "left": "2025-10-16T09:05:05.363Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1119878,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-13T10:49:34.017Z",
+              "left": "2025-10-13T11:02:32.45Z",
+              "dwell_minutes": 13.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T11:02:32.45Z",
+              "left": "2025-10-13T11:02:49.383Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1119892,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-13T10:51:44.063Z",
+              "left": "2025-10-13T11:02:38.073Z",
+              "dwell_minutes": 10.9
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T11:02:38.073Z",
+              "left": "2025-10-13T11:02:50.58Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1119893,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-13T10:52:14.57Z",
+              "left": "2025-10-13T10:52:18.12Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-13T10:52:18.12Z",
+              "left": "2025-10-13T11:02:51.923Z",
+              "dwell_minutes": 10.6
+            }
+          ]
+        },
+        {
+          "id": 1121990,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-17T09:00:12.56Z",
+              "left": "2025-10-17T09:00:16.147Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1122580,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-10-20T10:49:57.833Z",
+              "left": "2025-10-20T10:49:59.993Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-10-20T10:49:59.993Z",
+              "left": "2025-10-20T10:50:04.093Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1123823,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-11-03T11:39:53.227Z",
+              "left": "2025-11-03T11:40:32.93Z",
+              "dwell_minutes": 0.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-11T13:53:45.863Z",
+              "left": "2025-11-11T14:25:20.873Z",
+              "dwell_minutes": 31.6
+            }
+          ]
+        },
+        {
+          "id": 1124898,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-10-28T11:35:05.933Z",
+              "left": "2025-10-28T11:36:12.74Z",
+              "dwell_minutes": 1.1
+            }
+          ]
+        },
+        {
+          "id": 1127036,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-03T10:20:09.547Z",
+              "left": "2025-11-03T11:00:50.997Z",
+              "dwell_minutes": 40.7
+            },
+            {
+              "column": "In Review",
+              "entered": "2025-11-13T09:22:32.093Z",
+              "left": "2025-11-13T09:58:23.437Z",
+              "dwell_minutes": 35.9
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2025-11-13T09:58:23.437Z",
+              "left": "2025-11-13T09:58:23.813Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-01-27T14:14:28.31Z",
+              "left": "2026-01-27T14:15:30.697Z",
+              "dwell_minutes": 1.0
+            }
+          ]
+        },
+        {
+          "id": 1127383,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2025-11-05T14:58:21.773Z",
+              "left": "2025-11-05T14:58:31.98Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Review",
+              "entered": "2025-11-07T09:09:30.863Z",
+              "left": "2025-11-07T09:23:59.863Z",
+              "dwell_minutes": 14.5
+            }
+          ]
+        },
+        {
+          "id": 1128365,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-05T14:22:41.303Z",
+              "left": "2025-11-05T14:24:30.78Z",
+              "dwell_minutes": 1.8
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-01-16T15:23:36.423Z",
+              "left": "2026-01-16T15:23:41.393Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-01-23T10:13:41.31Z",
+              "left": "2026-01-23T10:13:41.797Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-01-23T10:13:41.797Z",
+              "left": "2026-01-23T10:13:44.183Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-01-23T10:13:44.183Z",
+              "left": "2026-01-23T10:21:44.17Z",
+              "dwell_minutes": 8.0
+            }
+          ]
+        },
+        {
+          "id": 1128397,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-05T15:06:05.62Z",
+              "left": "2025-11-05T15:08:46.097Z",
+              "dwell_minutes": 2.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-05T15:08:46.097Z",
+              "left": "2025-11-05T15:08:50.25Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Closed",
+              "entered": "2025-12-12T16:16:14.067Z",
+              "left": "2025-12-12T16:16:32.9Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-12-12T16:16:32.9Z",
+              "left": "2025-12-12T16:16:33.31Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1128716,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-06T12:28:25.847Z",
+              "left": "2025-11-06T12:28:27.27Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1129092,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-07T15:09:06.89Z",
+              "left": "2025-11-07T15:09:18.033Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1129355,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-10T11:47:06.463Z",
+              "left": "2025-11-10T11:47:09.11Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-10T11:47:09.11Z",
+              "left": "2025-11-10T11:47:13.803Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-12T15:54:58.097Z",
+              "left": "2025-11-12T15:55:56.063Z",
+              "dwell_minutes": 1.0
+            }
+          ]
+        },
+        {
+          "id": 1130631,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-11-14T08:35:56.78Z",
+              "left": "2025-11-14T08:35:57.34Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-11-24T09:18:05.737Z",
+              "left": "2025-11-24T09:18:06.577Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1130681,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-12T10:15:57.267Z",
+              "left": "2025-11-12T10:16:43.59Z",
+              "dwell_minutes": 0.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-12T10:16:46.733Z",
+              "left": "2025-11-12T10:16:50.047Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1131289,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-13T11:52:13.933Z",
+              "left": "2025-11-13T11:52:25.413Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-01-12T16:21:11.373Z",
+              "left": "2026-01-12T16:21:29.387Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "QA / External Review",
+              "entered": "2026-01-12T16:21:29.387Z",
+              "left": "2026-01-12T17:00:53.78Z",
+              "dwell_minutes": 39.4
+            }
+          ]
+        },
+        {
+          "id": 1132714,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-17T11:01:54.443Z",
+              "left": "2025-11-17T11:43:26.993Z",
+              "dwell_minutes": 41.5
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-01-16T15:27:12.94Z",
+              "left": "2026-01-16T15:27:13.24Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1132717,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-17T11:08:53.313Z",
+              "left": "2025-11-17T11:47:13.973Z",
+              "dwell_minutes": 38.3
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-01-16T15:26:48.21Z",
+              "left": "2026-01-16T15:26:48.61Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-01-16T15:26:48.61Z",
+              "left": "2026-01-16T15:28:08.71Z",
+              "dwell_minutes": 1.3
+            }
+          ]
+        },
+        {
+          "id": 1132720,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-17T11:04:40.04Z",
+              "left": "2025-11-17T11:37:58.033Z",
+              "dwell_minutes": 33.3
+            }
+          ]
+        },
+        {
+          "id": 1133407,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-18T12:49:21.693Z",
+              "left": "2025-11-18T12:49:26.05Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1133408,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-18T12:54:57.233Z",
+              "left": "2025-11-18T12:55:27.117Z",
+              "dwell_minutes": 0.5
+            }
+          ]
+        },
+        {
+          "id": 1134081,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-20T11:39:57.757Z",
+              "left": "2025-11-20T12:03:50.277Z",
+              "dwell_minutes": 23.9
+            }
+          ]
+        },
+        {
+          "id": 1135107,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-25T11:09:40.207Z",
+              "left": "2025-11-25T11:44:59.587Z",
+              "dwell_minutes": 35.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-25T11:44:59.587Z",
+              "left": "2025-11-25T11:45:26.66Z",
+              "dwell_minutes": 0.5
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-12-10T10:40:10.9Z",
+              "left": "2025-12-10T10:40:11.303Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-02-11T09:36:20.26Z",
+              "left": "2026-02-11T09:36:20.73Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1135111,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-11-25T11:20:05.48Z",
+              "left": "2025-11-25T11:41:12.563Z",
+              "dwell_minutes": 21.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-25T11:41:12.563Z",
+              "left": "2025-11-25T11:45:28.063Z",
+              "dwell_minutes": 4.3
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-11-25T11:45:28.063Z",
+              "left": "2025-11-25T12:42:13.87Z",
+              "dwell_minutes": 56.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-25T12:42:13.87Z",
+              "left": "2025-11-25T12:42:17.573Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Review",
+              "entered": "2025-11-27T09:18:12.58Z",
+              "left": "2025-11-27T09:19:30.83Z",
+              "dwell_minutes": 1.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-11-27T09:19:30.83Z",
+              "left": "2025-11-27T09:56:00.3Z",
+              "dwell_minutes": 36.5
+            }
+          ]
+        },
+        {
+          "id": 1135592,
+          "short_spans": [
+            {
+              "column": "In Review",
+              "entered": "2025-12-03T13:36:35.683Z",
+              "left": "2025-12-03T13:39:11.88Z",
+              "dwell_minutes": 2.6
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2025-12-05T15:56:08.417Z",
+              "left": "2025-12-05T15:56:08.967Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-12-05T15:56:08.967Z",
+              "left": "2025-12-05T15:56:13.29Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1135596,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2025-12-02T11:47:18.063Z",
+              "left": "2025-12-02T11:47:58.29Z",
+              "dwell_minutes": 0.7
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-01-08T09:16:07.76Z",
+              "left": "2026-01-08T09:16:08.45Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-01-08T09:16:08.45Z",
+              "left": "2026-01-08T09:41:43.29Z",
+              "dwell_minutes": 25.6
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-01-16T15:27:56.587Z",
+              "left": "2026-01-16T15:27:56.86Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-03-12T10:08:48.76Z",
+              "left": "2026-03-12T11:03:22.44Z",
+              "dwell_minutes": 54.6
+            }
+          ]
+        },
+        {
+          "id": 1135598,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-09T15:16:48.823Z",
+              "left": "2025-12-09T15:26:33.177Z",
+              "dwell_minutes": 9.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:27:55.123Z",
+              "left": "2026-02-16T10:40:30.18Z",
+              "dwell_minutes": 12.6
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-06-08T12:16:13.667Z",
+              "left": "2026-06-08T12:17:00.56Z",
+              "dwell_minutes": 0.8
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-06-10T11:10:10.943Z",
+              "left": "2026-06-10T11:10:15.533Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "QA",
+              "entered": "2026-06-10T11:10:15.533Z",
+              "left": "2026-06-10T12:04:55.863Z",
+              "dwell_minutes": 54.7
+            }
+          ]
+        },
+        {
+          "id": 1137669,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-10T09:41:30.16Z",
+              "left": "2026-02-10T09:41:30.84Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-10T13:59:17.637Z",
+              "left": "2026-02-10T13:59:18.333Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:27:55.103Z",
+              "left": "2026-02-16T10:40:04.93Z",
+              "dwell_minutes": 12.2
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-05-18T15:22:54.767Z",
+              "left": "2026-05-18T15:22:55.187Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1137857,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-03T11:42:19.437Z",
+              "left": "2025-12-03T11:42:21.433Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2025-12-03T11:42:21.433Z",
+              "left": "2025-12-03T11:42:27.307Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1137862,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-03T12:03:03.317Z",
+              "left": "2025-12-03T12:05:01.697Z",
+              "dwell_minutes": 2.0
+            }
+          ]
+        },
+        {
+          "id": 1137978,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-03T14:26:33.25Z",
+              "left": "2025-12-03T15:09:19.32Z",
+              "dwell_minutes": 42.8
+            }
+          ]
+        },
+        {
+          "id": 1139563,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-09T14:31:57.38Z",
+              "left": "2025-12-09T14:32:39.54Z",
+              "dwell_minutes": 0.7
+            }
+          ]
+        },
+        {
+          "id": 1140237,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1142534,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2025-12-16T11:41:21.82Z",
+              "left": "2025-12-16T11:41:38.89Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1143061,
+          "short_spans": [
+            {
+              "column": "In Review",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:27:55.21Z",
+              "dwell_minutes": 1.7
+            }
+          ]
+        },
+        {
+          "id": 1147395,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-01-12T14:53:25.003Z",
+              "left": "2026-01-12T15:10:11.773Z",
+              "dwell_minutes": 16.8
+            }
+          ]
+        },
+        {
+          "id": 1147416,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-01-23T10:28:10.79Z",
+              "left": "2026-01-23T10:28:11.2Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-11T10:05:01.19Z",
+              "left": "2026-03-11T10:05:05.05Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-16T15:34:09.59Z",
+              "left": "2026-06-16T15:41:19.46Z",
+              "dwell_minutes": 7.2
+            }
+          ]
+        },
+        {
+          "id": 1147602,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-01-28T16:10:17.497Z",
+              "left": "2026-01-28T16:10:17.843Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-02-19T09:27:21.783Z",
+              "left": "2026-02-19T09:27:22.553Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-05-20T09:45:27.753Z",
+              "left": "2026-05-20T09:45:28.21Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1148527,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-12T10:10:50.24Z",
+              "left": "2026-03-12T10:10:50.68Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-23T09:44:57.767Z",
+              "left": "2026-03-23T09:45:58.3Z",
+              "dwell_minutes": 1.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-06-03T13:24:59.963Z",
+              "left": "2026-06-03T13:47:20.23Z",
+              "dwell_minutes": 22.3
+            }
+          ]
+        },
+        {
+          "id": 1149786,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-13T12:01:52.983Z",
+              "left": "2026-01-13T12:16:04.053Z",
+              "dwell_minutes": 14.2
+            }
+          ]
+        },
+        {
+          "id": 1149911,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-13T14:53:20.25Z",
+              "left": "2026-01-13T14:53:26.92Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-01-15T09:44:15.8Z",
+              "left": "2026-01-15T10:09:42.03Z",
+              "dwell_minutes": 25.4
+            }
+          ]
+        },
+        {
+          "id": 1152374,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-15T14:48:38.69Z",
+              "left": "2026-01-15T14:48:45.137Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1152549,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-16T09:20:35.437Z",
+              "left": "2026-01-16T09:20:53.31Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1153269,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-03-16T10:14:09.063Z",
+              "left": "2026-03-16T11:08:21.533Z",
+              "dwell_minutes": 54.2
+            }
+          ]
+        },
+        {
+          "id": 1153270,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-04T15:20:21.89Z",
+              "left": "2026-02-04T15:20:22.35Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-02-25T15:53:33.787Z",
+              "left": "2026-02-25T16:04:37.49Z",
+              "dwell_minutes": 11.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-03T14:22:04.137Z",
+              "left": "2026-03-03T14:22:06.537Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-03-10T09:34:33.413Z",
+              "left": "2026-03-10T09:34:33.78Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-16T16:46:10.627Z",
+              "left": "2026-03-16T16:46:10.97Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-03-24T09:36:14.97Z",
+              "left": "2026-03-24T09:36:15.653Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1153271,
+          "short_spans": [
+            {
+              "column": "QA",
+              "entered": "2026-03-03T16:54:56.84Z",
+              "left": "2026-03-03T16:57:24.5Z",
+              "dwell_minutes": 2.5
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-13T17:29:36.107Z",
+              "left": "2026-03-13T17:29:39.817Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-03-16T10:14:09.823Z",
+              "left": "2026-03-16T11:08:16.443Z",
+              "dwell_minutes": 54.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-16T12:36:39.17Z",
+              "left": "2026-03-16T12:36:39.803Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1153705,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-19T16:03:00.703Z",
+              "left": "2026-01-19T16:03:00.993Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1156087,
+          "short_spans": [
+            {
+              "column": "QA",
+              "entered": "2026-02-11T14:31:29.167Z",
+              "left": "2026-02-11T15:09:40.7Z",
+              "dwell_minutes": 38.2
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-02-11T15:09:40.7Z",
+              "left": "2026-02-11T15:09:41.15Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-02-11T15:09:41.15Z",
+              "left": "2026-02-11T15:42:16.847Z",
+              "dwell_minutes": 32.6
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:36:30.877Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-02-24T11:18:26.077Z",
+              "left": "2026-02-24T11:18:30.123Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1156993,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-02T15:13:17.533Z",
+              "left": "2026-02-02T15:13:23.573Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1157034,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-01-28T09:18:16.323Z",
+              "left": "2026-01-28T09:18:19.56Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-01-28T09:18:19.56Z",
+              "left": "2026-01-28T09:18:36.823Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1157148,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-02T15:23:28.51Z",
+              "left": "2026-02-02T15:23:31.03Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:27:55.163Z",
+              "dwell_minutes": 1.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:27:55.163Z",
+              "left": "2026-02-16T10:39:41.317Z",
+              "dwell_minutes": 11.8
+            }
+          ]
+        },
+        {
+          "id": 1157155,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-02T15:23:28.51Z",
+              "left": "2026-02-02T15:23:32.1Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-02-19T15:28:28.09Z",
+              "left": "2026-02-19T15:28:29.937Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1164310,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-03T10:25:35.227Z",
+              "left": "2026-02-03T10:25:35.477Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-03T10:25:35.477Z",
+              "left": "2026-02-03T10:25:45.08Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-03T10:25:45.08Z",
+              "left": "2026-02-03T10:25:47.747Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-03T10:25:47.747Z",
+              "left": "2026-02-03T10:26:32.62Z",
+              "dwell_minutes": 0.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-03T10:26:32.62Z",
+              "left": "2026-02-03T10:26:37.21Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-03T10:26:37.21Z",
+              "left": "2026-02-03T10:31:48.367Z",
+              "dwell_minutes": 5.2
+            },
+            {
+              "column": "Backlog",
+              "entered": "2026-02-03T10:31:48.367Z",
+              "left": "2026-02-03T11:01:25.957Z",
+              "dwell_minutes": 29.6
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-11T15:15:49.167Z",
+              "left": "2026-02-11T15:15:51.583Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-03-24T09:38:50.99Z",
+              "left": "2026-03-24T09:38:51.567Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1164704,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-03T14:26:11.627Z",
+              "left": "2026-02-03T14:26:11.92Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-20T11:24:42.073Z",
+              "left": "2026-02-20T11:24:42.68Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1164765,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-03T15:51:30.75Z",
+              "left": "2026-02-03T16:13:16.74Z",
+              "dwell_minutes": 21.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-05T13:09:04.96Z",
+              "left": "2026-02-05T13:09:05.25Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-10T09:41:20.087Z",
+              "left": "2026-02-10T09:41:23.197Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-10T09:41:23.197Z",
+              "left": "2026-02-10T10:11:09.01Z",
+              "dwell_minutes": 29.8
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-06-24T08:46:42.463Z",
+              "left": "2026-06-24T08:46:44.617Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-06-26T08:37:33.1Z",
+              "left": "2026-06-26T08:37:33.74Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1165440,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-04T15:12:01.093Z",
+              "left": "2026-02-04T15:15:43.86Z",
+              "dwell_minutes": 3.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-02-16T10:36:23.71Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1166515,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-06T09:12:39.49Z",
+              "left": "2026-02-06T09:45:12.39Z",
+              "dwell_minutes": 32.5
+            }
+          ]
+        },
+        {
+          "id": 1166516,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-06T09:12:56.43Z",
+              "left": "2026-02-06T09:45:10.663Z",
+              "dwell_minutes": 32.2
+            },
+            {
+              "column": "QA",
+              "entered": "2026-03-12T11:58:55.25Z",
+              "left": "2026-03-12T12:10:47.99Z",
+              "dwell_minutes": 11.9
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-05-29T11:54:41.533Z",
+              "left": "2026-05-29T11:54:43.907Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-05-29T11:54:43.907Z",
+              "left": "2026-05-29T11:58:58.893Z",
+              "dwell_minutes": 4.2
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-06-02T10:57:09.677Z",
+              "left": "2026-06-02T10:57:13.503Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "QA",
+              "entered": "2026-06-02T10:57:13.503Z",
+              "left": "2026-06-02T11:01:05.71Z",
+              "dwell_minutes": 3.9
+            }
+          ]
+        },
+        {
+          "id": 1169001,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169002,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169004,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169007,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169009,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169010,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169075,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169077,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169078,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:11.12Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 10.3
+            }
+          ]
+        },
+        {
+          "id": 1169080,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:42.98Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 9.8
+            }
+          ]
+        },
+        {
+          "id": 1169081,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:42.98Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 9.8
+            }
+          ]
+        },
+        {
+          "id": 1169083,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:42.98Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 9.8
+            }
+          ]
+        },
+        {
+          "id": 1169084,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-16T10:26:42.98Z",
+              "left": "2026-02-16T10:36:32.077Z",
+              "dwell_minutes": 9.8
+            }
+          ]
+        },
+        {
+          "id": 1169546,
+          "short_spans": [
+            {
+              "column": "Backlog",
+              "entered": "2026-02-13T16:05:17.8Z",
+              "left": "2026-02-13T16:05:27.01Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1170800,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-25T10:36:03Z",
+              "left": "2026-02-25T10:56:00.163Z",
+              "dwell_minutes": 20.0
+            }
+          ]
+        },
+        {
+          "id": 1172395,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-02-18T16:35:30.517Z",
+              "left": "2026-02-18T16:36:03.463Z",
+              "dwell_minutes": 0.5
+            }
+          ]
+        },
+        {
+          "id": 1175154,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-02-27T14:31:07.56Z",
+              "left": "2026-02-27T14:31:08.123Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1176583,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-02-27T12:47:33.88Z",
+              "left": "2026-02-27T12:47:34.477Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1177428,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-02T14:54:50.983Z",
+              "left": "2026-03-02T14:54:56.803Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1178724,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-04T10:57:16.62Z",
+              "left": "2026-03-04T10:58:31.787Z",
+              "dwell_minutes": 1.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-04T13:57:07.017Z",
+              "left": "2026-03-04T13:57:07.533Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-03-05T09:24:42.087Z",
+              "left": "2026-03-05T09:24:45.39Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-23T16:38:59.817Z",
+              "left": "2026-03-23T16:46:04.237Z",
+              "dwell_minutes": 7.1
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-03-26T09:05:02.493Z",
+              "left": "2026-03-26T09:59:10.79Z",
+              "dwell_minutes": 54.1
+            }
+          ]
+        },
+        {
+          "id": 1178746,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-04T14:44:18.367Z",
+              "left": "2026-03-04T14:44:40.46Z",
+              "dwell_minutes": 0.4
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-04T14:44:40.46Z",
+              "left": "2026-03-04T14:44:40.757Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1178822,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-04T14:40:45.863Z",
+              "left": "2026-03-04T14:41:57.157Z",
+              "dwell_minutes": 1.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-04T14:41:57.157Z",
+              "left": "2026-03-04T14:42:29.603Z",
+              "dwell_minutes": 0.5
+            }
+          ]
+        },
+        {
+          "id": 1179991,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-09T09:26:19.28Z",
+              "left": "2026-03-09T09:37:36.46Z",
+              "dwell_minutes": 11.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-24T13:59:55.837Z",
+              "left": "2026-03-24T13:59:58.347Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-03-25T16:57:55.857Z",
+              "left": "2026-03-25T16:57:56.33Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1182722,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-16T13:22:35.737Z",
+              "left": "2026-03-16T13:22:36.047Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-16T13:22:36.047Z",
+              "left": "2026-03-16T13:41:24.04Z",
+              "dwell_minutes": 18.8
+            }
+          ]
+        },
+        {
+          "id": 1182725,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-03-26T16:16:12.263Z",
+              "left": "2026-03-26T16:27:06.593Z",
+              "dwell_minutes": 10.9
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-04-02T08:57:03.957Z",
+              "left": "2026-04-02T09:04:15.6Z",
+              "dwell_minutes": 7.2
+            }
+          ]
+        },
+        {
+          "id": 1182728,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-24T16:26:34.103Z",
+              "left": "2026-03-24T16:26:34.443Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1182729,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-24T16:26:36.083Z",
+              "left": "2026-03-24T16:26:36.403Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1182730,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-23T17:33:48.453Z",
+              "left": "2026-03-23T17:33:48.847Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1183229,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-09T17:27:13.327Z",
+              "left": "2026-03-09T17:27:31.09Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-12T11:53:04.363Z",
+              "left": "2026-03-12T11:58:12.677Z",
+              "dwell_minutes": 5.1
+            }
+          ]
+        },
+        {
+          "id": 1183760,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-10T10:50:47.883Z",
+              "left": "2026-03-10T10:55:38.177Z",
+              "dwell_minutes": 4.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-10T10:55:38.177Z",
+              "left": "2026-03-10T10:55:44.35Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-03-12T10:05:04.973Z",
+              "left": "2026-03-12T11:03:25.313Z",
+              "dwell_minutes": 58.3
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-12T11:03:25.313Z",
+              "left": "2026-03-12T11:03:28.417Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1186887,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-16T09:28:53.64Z",
+              "left": "2026-03-16T09:31:48.307Z",
+              "dwell_minutes": 2.9
+            }
+          ]
+        },
+        {
+          "id": 1187077,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-19T13:37:00Z",
+              "left": "2026-03-19T13:37:10.26Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-19T13:37:10.26Z",
+              "left": "2026-03-19T13:55:29.503Z",
+              "dwell_minutes": 18.3
+            }
+          ]
+        },
+        {
+          "id": 1187078,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-25T14:55:40.19Z",
+              "left": "2026-03-25T14:57:26.87Z",
+              "dwell_minutes": 1.8
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-03-26T09:10:56.927Z",
+              "left": "2026-03-26T09:33:43Z",
+              "dwell_minutes": 22.8
+            },
+            {
+              "column": "QA",
+              "entered": "2026-03-30T09:22:59.27Z",
+              "left": "2026-03-30T10:08:55.283Z",
+              "dwell_minutes": 45.9
+            }
+          ]
+        },
+        {
+          "id": 1187080,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-25T14:51:33.243Z",
+              "left": "2026-03-25T15:00:39.577Z",
+              "dwell_minutes": 9.1
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-25T15:00:39.577Z",
+              "left": "2026-03-25T15:14:52.71Z",
+              "dwell_minutes": 14.2
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-03-30T09:22:44.327Z",
+              "left": "2026-03-30T10:08:51.527Z",
+              "dwell_minutes": 46.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-30T14:37:50.167Z",
+              "left": "2026-03-30T15:30:52.933Z",
+              "dwell_minutes": 53.0
+            },
+            {
+              "column": "QA",
+              "entered": "2026-03-30T15:30:52.933Z",
+              "left": "2026-03-30T15:32:10.103Z",
+              "dwell_minutes": 1.3
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-03-30T15:32:10.103Z",
+              "left": "2026-03-30T15:39:05.62Z",
+              "dwell_minutes": 6.9
+            }
+          ]
+        },
+        {
+          "id": 1187082,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-26T09:12:44.507Z",
+              "left": "2026-03-26T09:35:13.68Z",
+              "dwell_minutes": 22.5
+            }
+          ]
+        },
+        {
+          "id": 1188997,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-20T11:36:52.64Z",
+              "left": "2026-03-20T11:36:57.527Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-03-20T11:36:57.527Z",
+              "left": "2026-03-20T11:51:42.323Z",
+              "dwell_minutes": 14.7
+            }
+          ]
+        },
+        {
+          "id": 1189786,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-24T13:30:25.49Z",
+              "left": "2026-03-24T13:30:29.87Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-04-01T12:22:13.057Z",
+              "left": "2026-04-01T12:22:15.247Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-04-09T08:14:47.693Z",
+              "left": "2026-04-09T09:13:26.61Z",
+              "dwell_minutes": 58.6
+            },
+            {
+              "column": "QA",
+              "entered": "2026-04-10T12:17:19.103Z",
+              "left": "2026-04-10T12:18:14.71Z",
+              "dwell_minutes": 0.9
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-04-10T12:18:14.71Z",
+              "left": "2026-04-10T12:18:15.01Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1189792,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-24T13:52:15.07Z",
+              "left": "2026-03-24T13:52:21.41Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "QA",
+              "entered": "2026-04-08T12:46:06.81Z",
+              "left": "2026-04-08T12:46:54.693Z",
+              "dwell_minutes": 0.8
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-04-08T12:46:54.693Z",
+              "left": "2026-04-08T13:29:09.747Z",
+              "dwell_minutes": 42.3
+            }
+          ]
+        },
+        {
+          "id": 1190076,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-25T09:16:06.363Z",
+              "left": "2026-03-25T09:16:18.483Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1190471,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-26T09:04:21.783Z",
+              "left": "2026-03-26T09:04:37.14Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1190473,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-26T09:05:24.163Z",
+              "left": "2026-03-26T09:05:28.707Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1190474,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-26T09:06:17.817Z",
+              "left": "2026-03-26T09:06:24.813Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1190683,
+          "short_spans": [
+            {
+              "column": "In Review",
+              "entered": "2026-08-05T08:15:18.03Z",
+              "left": "2026-08-05T09:14:17.963Z",
+              "dwell_minutes": 59.0
+            }
+          ]
+        },
+        {
+          "id": 1190732,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-31T12:10:11.59Z",
+              "left": "2026-03-31T12:10:14.727Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-04-02T08:23:18.13Z",
+              "left": "2026-04-02T08:26:20.34Z",
+              "dwell_minutes": 3.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-04-08T09:31:11.95Z",
+              "left": "2026-04-08T10:03:51.217Z",
+              "dwell_minutes": 32.7
+            }
+          ]
+        },
+        {
+          "id": 1190761,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-26T16:54:19.997Z",
+              "left": "2026-03-26T16:56:38.56Z",
+              "dwell_minutes": 2.3
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-04-14T08:14:07.137Z",
+              "left": "2026-04-14T08:54:54.693Z",
+              "dwell_minutes": 40.8
+            }
+          ]
+        },
+        {
+          "id": 1190829,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-03-31T12:55:51.657Z",
+              "left": "2026-03-31T13:35:39.763Z",
+              "dwell_minutes": 39.8
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-04-22T15:30:35.01Z",
+              "left": "2026-04-22T15:30:52.25Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-06-22T11:24:57.51Z",
+              "left": "2026-06-22T11:26:36.277Z",
+              "dwell_minutes": 1.6
+            }
+          ]
+        },
+        {
+          "id": 1190830,
+          "short_spans": [
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-18T09:36:15.4Z",
+              "left": "2026-05-18T09:36:31.103Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-20T08:53:36.613Z",
+              "left": "2026-05-20T09:39:42.827Z",
+              "dwell_minutes": 46.1
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-05-20T09:39:42.827Z",
+              "left": "2026-05-20T09:49:03.973Z",
+              "dwell_minutes": 9.4
+            }
+          ]
+        },
+        {
+          "id": 1190836,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-03-30T15:02:41.81Z",
+              "left": "2026-03-30T15:51:08.96Z",
+              "dwell_minutes": 48.5
+            },
+            {
+              "column": "QA",
+              "entered": "2026-04-02T08:53:08.15Z",
+              "left": "2026-04-02T09:04:12.23Z",
+              "dwell_minutes": 11.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-04-02T09:04:12.23Z",
+              "left": "2026-04-02T09:14:01.33Z",
+              "dwell_minutes": 9.8
+            }
+          ]
+        },
+        {
+          "id": 1191065,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-27T09:30:01.147Z",
+              "left": "2026-03-27T09:30:06.38Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1191553,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-04-28T15:53:55.55Z",
+              "left": "2026-04-28T16:00:07.48Z",
+              "dwell_minutes": 6.2
+            }
+          ]
+        },
+        {
+          "id": 1191895,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-03-30T14:01:03.727Z",
+              "left": "2026-03-30T14:23:16.46Z",
+              "dwell_minutes": 22.2
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-04-01T11:01:35.083Z",
+              "left": "2026-04-01T11:01:35.51Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1192521,
+          "short_spans": [
+            {
+              "column": "In Review",
+              "entered": "2026-04-16T14:17:54.91Z",
+              "left": "2026-04-16T14:36:37.65Z",
+              "dwell_minutes": 18.7
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-04-16T14:36:37.65Z",
+              "left": "2026-04-16T15:27:26.363Z",
+              "dwell_minutes": 50.8
+            }
+          ]
+        },
+        {
+          "id": 1196570,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-04-13T14:32:45.53Z",
+              "left": "2026-04-13T14:33:02.5Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-04-16T15:48:20.33Z",
+              "left": "2026-04-16T15:48:20.783Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1196572,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-13T14:10:23.62Z",
+              "left": "2026-04-13T14:32:43.46Z",
+              "dwell_minutes": 22.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-04-16T14:24:31.9Z",
+              "left": "2026-04-16T14:36:21.377Z",
+              "dwell_minutes": 11.8
+            }
+          ]
+        },
+        {
+          "id": 1196574,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-05-08T14:47:48.913Z",
+              "left": "2026-05-08T14:50:25.537Z",
+              "dwell_minutes": 2.6
+            },
+            {
+              "column": "Closed",
+              "entered": "2026-05-13T16:05:40.23Z",
+              "left": "2026-05-13T16:05:55.363Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1196575,
+          "short_spans": [
+            {
+              "column": "Closed",
+              "entered": "2026-05-14T14:22:28.623Z",
+              "left": "2026-05-14T14:22:28.983Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1196577,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-04-16T15:15:58.9Z",
+              "left": "2026-04-16T15:16:27.35Z",
+              "dwell_minutes": 0.5
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-05-05T13:33:56.837Z",
+              "left": "2026-05-05T13:34:00.26Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "New",
+              "entered": "2026-05-11T13:34:36.293Z",
+              "left": "2026-05-11T14:30:44.96Z",
+              "dwell_minutes": 56.1
+            }
+          ]
+        },
+        {
+          "id": 1196578,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-13T14:23:17.68Z",
+              "left": "2026-04-13T14:32:39.477Z",
+              "dwell_minutes": 9.4
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-05-08T14:47:39.35Z",
+              "left": "2026-05-08T14:49:08.893Z",
+              "dwell_minutes": 1.5
+            }
+          ]
+        },
+        {
+          "id": 1196580,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-13T14:28:22.153Z",
+              "left": "2026-04-13T14:32:38.44Z",
+              "dwell_minutes": 4.3
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-04-20T16:40:39.597Z",
+              "left": "2026-04-20T16:46:25.633Z",
+              "dwell_minutes": 5.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-05-08T14:47:42.463Z",
+              "left": "2026-05-08T14:48:14.37Z",
+              "dwell_minutes": 0.5
+            }
+          ]
+        },
+        {
+          "id": 1196597,
+          "short_spans": [
+            {
+              "column": "In Review",
+              "entered": "2026-05-07T08:27:39.787Z",
+              "left": "2026-05-07T09:24:54.857Z",
+              "dwell_minutes": 57.3
+            },
+            {
+              "column": "QA",
+              "entered": "2026-05-08T13:25:33.603Z",
+              "left": "2026-05-08T13:44:35.267Z",
+              "dwell_minutes": 19.0
+            }
+          ]
+        },
+        {
+          "id": 1196599,
+          "short_spans": [
+            {
+              "column": "QA",
+              "entered": "2026-05-13T13:12:35.5Z",
+              "left": "2026-05-13T13:12:37.427Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-05-13T13:12:37.427Z",
+              "left": "2026-05-13T13:27:13.45Z",
+              "dwell_minutes": 14.6
+            }
+          ]
+        },
+        {
+          "id": 1196603,
+          "short_spans": [
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-12T16:20:56.4Z",
+              "left": "2026-05-12T16:20:58.293Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1205150,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-24T15:12:13.067Z",
+              "left": "2026-04-24T15:12:22.257Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1207264,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-29T13:52:44.363Z",
+              "left": "2026-04-29T13:56:28.683Z",
+              "dwell_minutes": 3.7
+            }
+          ]
+        },
+        {
+          "id": 1207301,
+          "short_spans": [
+            {
+              "column": "QA",
+              "entered": "2026-05-13T13:12:52.793Z",
+              "left": "2026-05-13T13:13:52.49Z",
+              "dwell_minutes": 1.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-05-13T13:13:52.49Z",
+              "left": "2026-05-13T13:19:03.447Z",
+              "dwell_minutes": 5.2
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-14T10:44:47.777Z",
+              "left": "2026-05-14T10:51:21.73Z",
+              "dwell_minutes": 6.6
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-14T14:12:20.697Z",
+              "left": "2026-05-14T14:19:41.473Z",
+              "dwell_minutes": 7.3
+            }
+          ]
+        },
+        {
+          "id": 1207545,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-04-30T09:39:25.293Z",
+              "left": "2026-04-30T09:39:43.41Z",
+              "dwell_minutes": 0.3
+            }
+          ]
+        },
+        {
+          "id": 1207643,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-05-14T16:50:45.1Z",
+              "left": "2026-05-14T16:50:45.417Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1207645,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-05-08T10:38:31.41Z",
+              "left": "2026-05-08T10:39:43.13Z",
+              "dwell_minutes": 1.2
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-05-08T10:39:43.13Z",
+              "left": "2026-05-08T10:42:16.28Z",
+              "dwell_minutes": 2.6
+            }
+          ]
+        },
+        {
+          "id": 1207647,
+          "short_spans": [
+            {
+              "column": "QA",
+              "entered": "2026-05-12T15:21:40.003Z",
+              "left": "2026-05-12T16:20:21.95Z",
+              "dwell_minutes": 58.7
+            }
+          ]
+        },
+        {
+          "id": 1208566,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-05T10:26:20.237Z",
+              "left": "2026-05-05T10:26:27.857Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1210442,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-08T14:38:48.113Z",
+              "left": "2026-05-08T14:38:52.253Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-05-08T14:38:52.253Z",
+              "left": "2026-05-08T14:49:16.96Z",
+              "dwell_minutes": 10.4
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-05-08T14:49:16.96Z",
+              "left": "2026-05-08T15:35:50.973Z",
+              "dwell_minutes": 46.6
+            }
+          ]
+        },
+        {
+          "id": 1210911,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-05-11T15:39:42.227Z",
+              "left": "2026-05-11T16:21:23.297Z",
+              "dwell_minutes": 41.7
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-05-14T13:23:03.19Z",
+              "left": "2026-05-14T13:26:17.617Z",
+              "dwell_minutes": 3.2
+            }
+          ]
+        },
+        {
+          "id": 1211181,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-11T13:34:19.37Z",
+              "left": "2026-05-11T13:34:22.29Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-05-11T13:34:22.29Z",
+              "left": "2026-05-11T14:30:40.083Z",
+              "dwell_minutes": 56.3
+            }
+          ]
+        },
+        {
+          "id": 1211614,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-05-15T10:28:54.59Z",
+              "left": "2026-05-15T10:34:40.363Z",
+              "dwell_minutes": 5.8
+            }
+          ]
+        },
+        {
+          "id": 1211616,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-05-26T16:07:07.89Z",
+              "left": "2026-05-26T16:07:15.393Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1211619,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-05-15T12:49:24.44Z",
+              "left": "2026-05-15T12:52:17.423Z",
+              "dwell_minutes": 2.9
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-05-26T15:28:22.947Z",
+              "left": "2026-05-26T15:28:29.51Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-05-26T15:28:29.51Z",
+              "left": "2026-05-26T16:25:48.97Z",
+              "dwell_minutes": 57.3
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-05-28T15:58:10.917Z",
+              "left": "2026-05-28T15:58:11.263Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1215318,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-19T10:55:24.827Z",
+              "left": "2026-05-19T10:55:33.963Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-05-22T08:36:04.9Z",
+              "left": "2026-05-22T08:36:18.63Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1215972,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-20T09:22:12.477Z",
+              "left": "2026-05-20T09:41:02.513Z",
+              "dwell_minutes": 18.8
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-05-20T09:41:02.513Z",
+              "left": "2026-05-20T09:43:34.6Z",
+              "dwell_minutes": 2.5
+            }
+          ]
+        },
+        {
+          "id": 1216360,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-20T15:15:12.03Z",
+              "left": "2026-05-20T15:15:21.323Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-05-20T15:15:21.323Z",
+              "left": "2026-05-20T15:15:21.857Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-05-28T10:25:04.023Z",
+              "left": "2026-05-28T10:25:07.28Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "QA",
+              "entered": "2026-05-29T08:32:42.35Z",
+              "left": "2026-05-29T08:32:43.1Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1217166,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-26T08:17:18.253Z",
+              "left": "2026-05-26T08:26:08.367Z",
+              "dwell_minutes": 8.8
+            }
+          ]
+        },
+        {
+          "id": 1218600,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-06-01T08:51:10.69Z",
+              "left": "2026-06-01T08:51:20.07Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1218625,
+          "short_spans": [
+            {
+              "column": "In Development",
+              "entered": "2026-06-01T08:51:12.32Z",
+              "left": "2026-06-01T08:51:12.817Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-01T13:48:36.403Z",
+              "left": "2026-06-01T14:28:14.227Z",
+              "dwell_minutes": 39.6
+            }
+          ]
+        },
+        {
+          "id": 1218636,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-05-27T13:51:04.667Z",
+              "left": "2026-05-27T13:54:53.49Z",
+              "dwell_minutes": 3.8
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-05-28T14:23:05.457Z",
+              "left": "2026-05-28T15:18:45.987Z",
+              "dwell_minutes": 55.7
+            },
+            {
+              "column": "QA",
+              "entered": "2026-06-01T08:16:54.84Z",
+              "left": "2026-06-01T08:16:55.483Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1220640,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-06-01T14:13:58.313Z",
+              "left": "2026-06-01T14:46:32.14Z",
+              "dwell_minutes": 32.6
+            }
+          ]
+        },
+        {
+          "id": 1221014,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-02T08:13:38.553Z",
+              "left": "2026-06-02T08:13:51.557Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-06-02T08:13:51.557Z",
+              "left": "2026-06-02T08:17:38.83Z",
+              "dwell_minutes": 3.8
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-16T10:43:06.993Z",
+              "left": "2026-06-16T10:43:07.527Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1221222,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-02T10:59:12.273Z",
+              "left": "2026-06-02T10:59:31.41Z",
+              "dwell_minutes": 0.3
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-06-03T08:34:33.46Z",
+              "left": "2026-06-03T09:24:38.657Z",
+              "dwell_minutes": 50.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-06-08T12:16:05.45Z",
+              "left": "2026-06-08T12:16:05.973Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1221667,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-03T10:13:00.397Z",
+              "left": "2026-06-03T10:13:08.91Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1224402,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-06-22T08:46:16.497Z",
+              "left": "2026-06-22T08:46:16.9Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1224502,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-06-22T08:01:04.743Z",
+              "left": "2026-06-22T08:01:05.94Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-22T12:18:57.35Z",
+              "left": "2026-07-22T12:19:01.32Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1224504,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-22T14:52:51.03Z",
+              "left": "2026-07-22T14:52:57.1Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1224505,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-07T15:24:55.687Z",
+              "left": "2026-07-07T15:24:58.1Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1224507,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-20T09:47:30.363Z",
+              "left": "2026-07-20T09:47:34.31Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1224643,
+          "short_spans": [
+            {
+              "column": "External Review",
+              "entered": "2026-06-29T13:54:27.93Z",
+              "left": "2026-06-29T13:54:28.453Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1224665,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-10T08:55:59.593Z",
+              "left": "2026-06-10T08:56:08.51Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-10T08:56:08.51Z",
+              "left": "2026-06-10T09:03:03.317Z",
+              "dwell_minutes": 6.9
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-06-10T09:03:03.317Z",
+              "left": "2026-06-10T09:28:20.89Z",
+              "dwell_minutes": 25.3
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-06-19T10:37:00.29Z",
+              "left": "2026-06-19T10:37:02.513Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-03T13:29:22.25Z",
+              "left": "2026-07-03T13:29:24.117Z",
+              "dwell_minutes": 0.0
+            }
+          ]
+        },
+        {
+          "id": 1224999,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-10T15:42:57.827Z",
+              "left": "2026-06-10T15:43:11.62Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-30T12:40:45.58Z",
+              "left": "2026-06-30T12:51:26.067Z",
+              "dwell_minutes": 10.7
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-07-01T07:58:16.757Z",
+              "left": "2026-07-01T08:05:30.303Z",
+              "dwell_minutes": 7.2
+            },
+            {
+              "column": "New",
+              "entered": "2026-07-01T08:05:30.303Z",
+              "left": "2026-07-01T08:05:36.23Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1225043,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-10T16:22:24.813Z",
+              "left": "2026-06-10T16:30:23.577Z",
+              "dwell_minutes": 8.0
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-11T15:10:20.6Z",
+              "left": "2026-06-11T15:47:20.243Z",
+              "dwell_minutes": 37.0
+            }
+          ]
+        },
+        {
+          "id": 1227440,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-17T10:44:32.09Z",
+              "left": "2026-06-17T10:52:54.473Z",
+              "dwell_minutes": 8.4
+            }
+          ]
+        },
+        {
+          "id": 1229879,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-28T14:18:24.197Z",
+              "left": "2026-07-28T14:18:27.32Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1231368,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-25T14:35:39.723Z",
+              "left": "2026-06-25T14:40:46.937Z",
+              "dwell_minutes": 5.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-13T08:12:11.91Z",
+              "left": "2026-07-13T08:12:16.147Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1231376,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-25T14:52:07.67Z",
+              "left": "2026-06-25T14:52:08.113Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-07-03T08:54:21.77Z",
+              "left": "2026-07-03T08:54:28.1Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1231749,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-26T10:39:23.993Z",
+              "left": "2026-06-26T10:39:28.817Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1231843,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-26T13:44:27.797Z",
+              "left": "2026-06-26T13:45:14.163Z",
+              "dwell_minutes": 0.8
+            }
+          ]
+        },
+        {
+          "id": 1232243,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-29T09:52:43.65Z",
+              "left": "2026-06-29T09:53:56.02Z",
+              "dwell_minutes": 1.2
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-06-29T09:53:56.02Z",
+              "left": "2026-06-29T09:55:01.157Z",
+              "dwell_minutes": 1.1
+            },
+            {
+              "column": "External Review",
+              "entered": "2026-07-06T14:25:09.58Z",
+              "left": "2026-07-06T14:32:53.237Z",
+              "dwell_minutes": 7.7
+            }
+          ]
+        },
+        {
+          "id": 1232498,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-06-29T15:52:32.693Z",
+              "left": "2026-06-29T15:52:38.103Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1234363,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-27T14:29:29.773Z",
+              "left": "2026-07-27T14:29:34.967Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1235564,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-20T13:39:41.687Z",
+              "left": "2026-07-20T13:39:44.4Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-29T09:22:31.26Z",
+              "left": "2026-07-29T09:22:34.767Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-07T09:08:28.24Z",
+              "left": "2026-08-07T09:08:59.35Z",
+              "dwell_minutes": 0.5
+            }
+          ]
+        },
+        {
+          "id": 1235567,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-21T09:51:59.377Z",
+              "left": "2026-07-21T09:52:03.097Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-30T10:52:02.757Z",
+              "left": "2026-07-30T10:57:34.88Z",
+              "dwell_minutes": 5.5
+            }
+          ]
+        },
+        {
+          "id": 1235569,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-22T08:14:33.31Z",
+              "left": "2026-07-22T08:14:36.277Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-30T08:25:34.803Z",
+              "left": "2026-07-30T08:25:40.26Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1235572,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-07-30T08:25:37.12Z",
+              "left": "2026-07-30T08:25:42.643Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1235581,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-08-04T14:05:31.74Z",
+              "left": "2026-08-04T14:05:36.97Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1235582,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-08-06T08:48:44.19Z",
+              "left": "2026-08-06T08:48:49.58Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1235960,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-07-14T09:14:54.36Z",
+              "left": "2026-07-14T09:15:00.693Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-07-14T09:15:00.693Z",
+              "left": "2026-07-14T09:37:50.19Z",
+              "dwell_minutes": 22.8
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-07-14T09:37:50.19Z",
+              "left": "2026-07-14T09:46:51.287Z",
+              "dwell_minutes": 9.0
+            },
+            {
+              "column": "In Review",
+              "entered": "2026-07-14T14:21:22.9Z",
+              "left": "2026-07-14T14:31:57.443Z",
+              "dwell_minutes": 10.6
+            }
+          ]
+        },
+        {
+          "id": 1237447,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-03T08:48:32.993Z",
+              "left": "2026-08-03T09:13:05.49Z",
+              "dwell_minutes": 24.5
+            }
+          ]
+        },
+        {
+          "id": 1237448,
+          "short_spans": [
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-03T08:48:37.37Z",
+              "left": "2026-08-03T09:13:07.123Z",
+              "dwell_minutes": 24.5
+            }
+          ]
+        },
+        {
+          "id": 1240640,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-08-03T09:07:30.767Z",
+              "left": "2026-08-03T09:07:41.153Z",
+              "dwell_minutes": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1242588,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-28T14:40:05.077Z",
+              "left": "2026-07-28T14:42:51.91Z",
+              "dwell_minutes": 2.8
+            }
+          ]
+        },
+        {
+          "id": 1243080,
+          "short_spans": [
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-07-28T14:42:51.3Z",
+              "left": "2026-07-28T14:42:53.99Z",
+              "dwell_minutes": 0.0
+            },
+            {
+              "column": "Ready for release",
+              "entered": "2026-07-28T14:42:53.99Z",
+              "left": "2026-07-28T14:43:00.413Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1245551,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-07-31T13:46:03.297Z",
+              "left": "2026-07-31T13:46:08.333Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        }
+      ],
+      "note": "Short dwell spans are likely accidental moves. Consider ignoring these when evaluating regressions."
+    },
+    "future_column_timestamps": {
+      "count": 0,
+      "items": [],
+      "note": "Items with future 'entered' timestamps produce negative days_in_current_column. Fix the source timestamp in ADO or exclude the affected column span."
+    },
+    "unassigned_in_progress": {
+      "count": 6,
+      "items": [
+        {
+          "id": 1235570,
+          "column": "Ready for Dev"
+        },
+        {
+          "id": 1240640,
+          "column": "Ready for Dev"
+        },
+        {
+          "id": 1242588,
+          "column": "Ready for Dev"
+        },
+        {
+          "id": 1244470,
+          "column": "In Development"
+        },
+        {
+          "id": 1245551,
+          "column": "Ready for Dev"
+        },
+        {
+          "id": 1245552,
+          "column": "Ready for Dev"
+        }
+      ]
+    },
+    "broken_parent_references": {
+      "count": 221,
+      "items": [
+        {
+          "id": 999105,
+          "parent_id": 977166
+        },
+        {
+          "id": 1006158,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1029039,
+          "parent_id": 1091151
+        },
+        {
+          "id": 1044484,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1053521,
+          "parent_id": 1053344
+        },
+        {
+          "id": 1063313,
+          "parent_id": 1091214
+        },
+        {
+          "id": 1090671,
+          "parent_id": 1090670
+        },
+        {
+          "id": 1090683,
+          "parent_id": 1090670
+        },
+        {
+          "id": 1090684,
+          "parent_id": 1090670
+        },
+        {
+          "id": 1091001,
+          "parent_id": 1090670
+        },
+        {
+          "id": 1091126,
+          "parent_id": 1091137
+        },
+        {
+          "id": 1091160,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1091162,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1091163,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1091166,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1091170,
+          "parent_id": 1091140
+        },
+        {
+          "id": 1091190,
+          "parent_id": 1091144
+        },
+        {
+          "id": 1091191,
+          "parent_id": 1091143
+        },
+        {
+          "id": 1091199,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1091200,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1091206,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1091207,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1091209,
+          "parent_id": 1091151
+        },
+        {
+          "id": 1091210,
+          "parent_id": 1091151
+        },
+        {
+          "id": 1092813,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1096547,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1096549,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1098356,
+          "parent_id": 1098785
+        },
+        {
+          "id": 1099138,
+          "parent_id": 1091218
+        },
+        {
+          "id": 1101459,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1102420,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1102423,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1103329,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103333,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103334,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103335,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103336,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103337,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103338,
+          "parent_id": 1103324
+        },
+        {
+          "id": 1103706,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1108347,
+          "parent_id": 1091151
+        },
+        {
+          "id": 1108952,
+          "parent_id": 1108951
+        },
+        {
+          "id": 1109015,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1109017,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1109090,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1109163,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1109166,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1111818,
+          "parent_id": 1093085
+        },
+        {
+          "id": 1119876,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1119878,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1119892,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1122562,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1122572,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1123823,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1123884,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1124782,
+          "parent_id": 1091151
+        },
+        {
+          "id": 1124898,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1124900,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1128397,
+          "parent_id": 1111143
+        },
+        {
+          "id": 1129092,
+          "parent_id": 1091144
+        },
+        {
+          "id": 1130631,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1132714,
+          "parent_id": 1091217
+        },
+        {
+          "id": 1132717,
+          "parent_id": 1091137
+        },
+        {
+          "id": 1132720,
+          "parent_id": 1091217
+        },
+        {
+          "id": 1135089,
+          "parent_id": 1091217
+        },
+        {
+          "id": 1135107,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1135111,
+          "parent_id": 1091214
+        },
+        {
+          "id": 1135598,
+          "parent_id": 1091139
+        },
+        {
+          "id": 1137669,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137670,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137671,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137672,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137673,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137674,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137675,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1137857,
+          "parent_id": 1091217
+        },
+        {
+          "id": 1137860,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1141398,
+          "parent_id": 1141397
+        },
+        {
+          "id": 1141399,
+          "parent_id": 1141397
+        },
+        {
+          "id": 1141400,
+          "parent_id": 1141397
+        },
+        {
+          "id": 1141401,
+          "parent_id": 1141397
+        },
+        {
+          "id": 1143407,
+          "parent_id": 1143334
+        },
+        {
+          "id": 1143432,
+          "parent_id": 1141397
+        },
+        {
+          "id": 1146745,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1147395,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1147416,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1147589,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1147602,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1148527,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1149911,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1152374,
+          "parent_id": 1146744
+        },
+        {
+          "id": 1153269,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1153270,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1153271,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1153272,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1153705,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1156087,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1156993,
+          "parent_id": 1156495
+        },
+        {
+          "id": 1157148,
+          "parent_id": 1156495
+        },
+        {
+          "id": 1157155,
+          "parent_id": 1156495
+        },
+        {
+          "id": 1164704,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1165440,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1169001,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169002,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169004,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169007,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169009,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169010,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169075,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169077,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169078,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169080,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169081,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169083,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1169084,
+          "parent_id": 1168604
+        },
+        {
+          "id": 1175947,
+          "parent_id": 1153267
+        },
+        {
+          "id": 1178746,
+          "parent_id": 1152959
+        },
+        {
+          "id": 1178822,
+          "parent_id": 1152959
+        },
+        {
+          "id": 1179991,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182716,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182722,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182725,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182728,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182729,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1182730,
+          "parent_id": 1177299
+        },
+        {
+          "id": 1187077,
+          "parent_id": 1182743
+        },
+        {
+          "id": 1187078,
+          "parent_id": 1182743
+        },
+        {
+          "id": 1187080,
+          "parent_id": 1182743
+        },
+        {
+          "id": 1187082,
+          "parent_id": 1182743
+        },
+        {
+          "id": 1190732,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1190808,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1190829,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1190830,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1190836,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1196570,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196572,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196574,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196575,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196577,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196578,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196580,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196597,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196599,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1196603,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1203573,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1207301,
+          "parent_id": 1192224
+        },
+        {
+          "id": 1207643,
+          "parent_id": 1192224
+        },
+        {
+          "id": 1207645,
+          "parent_id": 1192224
+        },
+        {
+          "id": 1207647,
+          "parent_id": 1192224
+        },
+        {
+          "id": 1210442,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1210911,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1211181,
+          "parent_id": 1182650
+        },
+        {
+          "id": 1211614,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1211616,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1211619,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1211620,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1212325,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1213380,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1215318,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1216360,
+          "parent_id": 1192224
+        },
+        {
+          "id": 1217166,
+          "parent_id": 1203086
+        },
+        {
+          "id": 1218600,
+          "parent_id": 1217174
+        },
+        {
+          "id": 1218625,
+          "parent_id": 1217174
+        },
+        {
+          "id": 1220222,
+          "parent_id": 1217174
+        },
+        {
+          "id": 1224402,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224501,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224502,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224504,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224505,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224507,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1224643,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1225384,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1225388,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1225389,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1225390,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1225393,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1225394,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1226211,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1230940,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1231368,
+          "parent_id": 1091149
+        },
+        {
+          "id": 1231376,
+          "parent_id": 1091217
+        },
+        {
+          "id": 1231749,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1231843,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1232243,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1234360,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1234363,
+          "parent_id": 1182652
+        },
+        {
+          "id": 1235564,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235567,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235569,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235570,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1235572,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235575,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235578,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235581,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235582,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1235844,
+          "parent_id": 1217162
+        },
+        {
+          "id": 1235960,
+          "parent_id": 1235954
+        },
+        {
+          "id": 1235961,
+          "parent_id": 1235954
+        },
+        {
+          "id": 1235962,
+          "parent_id": 1235954
+        },
+        {
+          "id": 1235963,
+          "parent_id": 1235954
+        },
+        {
+          "id": 1237447,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1237448,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1241120,
+          "parent_id": 1197855
+        },
+        {
+          "id": 1242400,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1242403,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1242404,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1242405,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1242588,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1243080,
+          "parent_id": 1243514
+        },
+        {
+          "id": 1243090,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1243096,
+          "parent_id": 1243532
+        },
+        {
+          "id": 1243815,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1244470,
+          "parent_id": 1243532
+        },
+        {
+          "id": 1244628,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1244909,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1245086,
+          "parent_id": 1243532
+        },
+        {
+          "id": 1245550,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1245554,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1245556,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1245558,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1245941,
+          "parent_id": 1182670
+        }
+      ]
+    },
+    "broken_child_references": {
+      "count": 0,
+      "items": []
+    },
+    "broken_dependency_references": {
+      "count": 9,
+      "items": [
+        {
+          "id": 999105,
+          "dependency_id": 985867
+        },
+        {
+          "id": 1006158,
+          "dependency_id": 999877
+        },
+        {
+          "id": 1029039,
+          "dependency_id": 1029040
+        },
+        {
+          "id": 1063313,
+          "dependency_id": 1063315
+        },
+        {
+          "id": 1063313,
+          "dependency_id": 1063314
+        },
+        {
+          "id": 1063313,
+          "dependency_id": 1063316
+        },
+        {
+          "id": 1090671,
+          "dependency_id": 1063309
+        },
+        {
+          "id": 1130631,
+          "dependency_id": 1116093
+        },
+        {
+          "id": 1130631,
+          "dependency_id": 1062943
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1099138,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1128365,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1135107,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1135111,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1135596,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1135598,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1142534,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1142853,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1142965,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1143061,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1147589,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1148527,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1156993,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1157148,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1157155,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1164310,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1166516,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1170800,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1176254,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1179991,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1182722,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1182725,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1182730,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1183229,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1186887,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1187077,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1187078,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1187080,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1187082,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1188997,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1189786,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1189792,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190076,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190471,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190473,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190474,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190732,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190761,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190808,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190829,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190830,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1190836,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1191065,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1191553,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1192521,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196570,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196572,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196574,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196575,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196577,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196578,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196580,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196597,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196599,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1196603,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1197933,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1203573,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1205150,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207264,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207301,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207545,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207643,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207645,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1207647,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1208566,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1210442,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1210911,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1211614,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1211616,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1211619,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1211620,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1212325,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1213380,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1215318,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1215972,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1217166,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1218007,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1218600,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1218625,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1218636,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1220640,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1221014,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1221222,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1221667,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1224402,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1224643,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1224999,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1225043,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1226211,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1227440,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1231368,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1231376,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1231749,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1231843,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1232243,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  },
+  {
+    "id": 1232498,
+    "source": "data_quality",
+    "reasons": [
+      "unknown_swimlane"
+    ]
+  }
+]

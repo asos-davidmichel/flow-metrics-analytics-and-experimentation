@@ -1,0 +1,3887 @@
+[
+  {
+    "work_item_id": 999105,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9122.8,
+      "time_in_revisited_columns_hours": 4992.5
+    }
+  },
+  {
+    "work_item_id": 1006158,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9122.8,
+      "time_in_revisited_columns_hours": 4992.4
+    }
+  },
+  {
+    "work_item_id": 1029039,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 12459.3,
+      "time_in_revisited_columns_hours": 6400.8
+    }
+  },
+  {
+    "work_item_id": 1044484,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 10850.2,
+      "time_in_revisited_columns_hours": 6719.9
+    }
+  },
+  {
+    "work_item_id": 1053521,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 10487.1,
+      "time_in_revisited_columns_hours": 6356.8
+    }
+  },
+  {
+    "work_item_id": 1059955,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1062713,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1063313,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1077639,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1078632,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1080472,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1089190,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 7923.8,
+      "time_in_revisited_columns_hours": 3793.4
+    }
+  },
+  {
+    "work_item_id": 1089764,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1089898,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1090665,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1090671,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1090683,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1090684,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091001,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091126,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 8812.0,
+      "time_in_revisited_columns_hours": 4681.7
+    }
+  },
+  {
+    "work_item_id": 1091160,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091162,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091163,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091166,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091170,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091190,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091191,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091199,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 5113.6,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091200,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 4375.1,
+      "time_in_revisited_columns_hours": 97.7
+    }
+  },
+  {
+    "work_item_id": 1091206,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9244.1,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091207,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9244.1,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091209,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9244.1,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091210,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 9244.1,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1091541,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1092014,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 7923.8,
+      "time_in_revisited_columns_hours": 3793.4
+    }
+  },
+  {
+    "work_item_id": 1092813,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1096541,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 3355.8,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1096547,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 4538.7,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1096549,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1098312,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 7613.8,
+      "time_in_revisited_columns_hours": 1087.3
+    }
+  },
+  {
+    "work_item_id": 1098356,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 8739.7,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1099138,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Backlog",
+        "Closed",
+        "In Development",
+        "QA",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 3078.6,
+      "time_in_revisited_columns_hours": 1701.7
+    }
+  },
+  {
+    "work_item_id": 1101459,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 4179.0,
+      "time_in_revisited_columns_hours": 4179.0
+    }
+  },
+  {
+    "work_item_id": 1102420,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 4343.0,
+      "time_in_revisited_columns_hours": 4127.5
+    }
+  },
+  {
+    "work_item_id": 1102423,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 4343.0,
+      "time_in_revisited_columns_hours": 3596.6
+    }
+  },
+  {
+    "work_item_id": 1103329,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103333,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103334,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103335,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103336,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103337,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103338,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1103706,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1108347,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "In Development",
+        "In Review",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 3813.5,
+      "time_in_revisited_columns_hours": 692.4
+    }
+  },
+  {
+    "work_item_id": 1108952,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1109015,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1109017,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 2060.9,
+      "time_in_revisited_columns_hours": 41.7
+    }
+  },
+  {
+    "work_item_id": 1109090,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1109163,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 2.8,
+      "time_in_revisited_columns_hours": 0.5
+    }
+  },
+  {
+    "work_item_id": 1109166,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 3023.6,
+      "time_in_revisited_columns_hours": 17.8
+    }
+  },
+  {
+    "work_item_id": 1109235,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 3765.6,
+      "time_in_revisited_columns_hours": 3765.6
+    }
+  },
+  {
+    "work_item_id": 1111818,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1115689,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1118699,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1119876,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 3023.4,
+      "time_in_revisited_columns_hours": 5.2
+    }
+  },
+  {
+    "work_item_id": 1119878,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 3023.4,
+      "time_in_revisited_columns_hours": 141.9
+    }
+  },
+  {
+    "work_item_id": 1119892,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 363.3,
+      "time_in_revisited_columns_hours": 136.9
+    }
+  },
+  {
+    "work_item_id": 1119893,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 363.3,
+      "time_in_revisited_columns_hours": 25.4
+    }
+  },
+  {
+    "work_item_id": 1121990,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 6987.2,
+      "time_in_revisited_columns_hours": 2856.8
+    }
+  },
+  {
+    "work_item_id": 1122562,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1122565,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1122572,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 2761.2,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1122580,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 2855.6,
+      "time_in_revisited_columns_hours": 23.9
+    }
+  },
+  {
+    "work_item_id": 1123823,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 2518.8,
+      "time_in_revisited_columns_hours": 45.6
+    }
+  },
+  {
+    "work_item_id": 1123884,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1124782,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1124898,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 1924.4,
+      "time_in_revisited_columns_hours": 3.9
+    }
+  },
+  {
+    "work_item_id": 1124900,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1127036,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 6480.2,
+      "time_in_revisited_columns_hours": 2111.6
+    }
+  },
+  {
+    "work_item_id": 1127383,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 670.5,
+      "time_in_revisited_columns_hours": 650.0
+    }
+  },
+  {
+    "work_item_id": 1128365,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "External Review",
+        "QA / External Review",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1035.6,
+      "time_in_revisited_columns_hours": 2164.4
+    }
+  },
+  {
+    "work_item_id": 1128397,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 889.1,
+      "time_in_revisited_columns_hours": 1057.0
+    }
+  },
+  {
+    "work_item_id": 1128716,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1129092,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 6466.1,
+      "time_in_revisited_columns_hours": 1521.2
+    }
+  },
+  {
+    "work_item_id": 1129355,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 1893.1,
+      "time_in_revisited_columns_hours": 359.8
+    }
+  },
+  {
+    "work_item_id": 1129688,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1130631,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 2257.8,
+      "time_in_revisited_columns_hours": 240.7
+    }
+  },
+  {
+    "work_item_id": 1130681,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 6434.7,
+      "time_in_revisited_columns_hours": 2298.8
+    }
+  },
+  {
+    "work_item_id": 1131289,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA / External Review",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1630.8,
+      "time_in_revisited_columns_hours": 376.5
+    }
+  },
+  {
+    "work_item_id": 1132714,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 2181.6,
+      "time_in_revisited_columns_hours": 695.1
+    }
+  },
+  {
+    "work_item_id": 1132717,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "QA / External Review"
+      ],
+      "time_after_first_backward_move_hours": 2181.6,
+      "time_in_revisited_columns_hours": 1415.7
+    }
+  },
+  {
+    "work_item_id": 1132720,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 2181.6,
+      "time_in_revisited_columns_hours": 18.1
+    }
+  },
+  {
+    "work_item_id": 1133407,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 1824.1,
+      "time_in_revisited_columns_hours": 1824.1
+    }
+  },
+  {
+    "work_item_id": 1133408,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1134081,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1135089,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1135107,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "QA",
+        "QA / External Review"
+      ],
+      "time_after_first_backward_move_hours": 3388.4,
+      "time_in_revisited_columns_hours": 1963.4
+    }
+  },
+  {
+    "work_item_id": 1135111,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 3388.4,
+      "time_in_revisited_columns_hours": 405.4
+    }
+  },
+  {
+    "work_item_id": 1135306,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 930.3,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1135590,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1135592,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 1796.8,
+      "time_in_revisited_columns_hours": 1796.8
+    }
+  },
+  {
+    "work_item_id": 1135596,
+    "rework_summary": {
+      "backward_column_moves": 15,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 3220.4,
+      "time_in_revisited_columns_hours": 2486.3
+    }
+  },
+  {
+    "work_item_id": 1135598,
+    "rework_summary": {
+      "backward_column_moves": 8,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog",
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 4606.6,
+      "time_in_revisited_columns_hours": 3704.5
+    }
+  },
+  {
+    "work_item_id": 1137669,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "In Development",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 2333.7,
+      "time_in_revisited_columns_hours": 341.6
+    }
+  },
+  {
+    "work_item_id": 1137670,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137671,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137672,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137673,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137674,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137675,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137857,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 1798.7,
+      "time_in_revisited_columns_hours": 52.6
+    }
+  },
+  {
+    "work_item_id": 1137860,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1137862,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 4802.8,
+      "time_in_revisited_columns_hours": 1516.3
+    }
+  },
+  {
+    "work_item_id": 1137978,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1139563,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1140237,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Backlog"
+      ],
+      "time_after_first_backward_move_hours": 5138.3,
+      "time_in_revisited_columns_hours": 0.2
+    }
+  },
+  {
+    "work_item_id": 1140549,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 1004.9,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1141398,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1141399,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1141400,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1141401,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1142534,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1142843,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1142853,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 2188.7,
+      "time_in_revisited_columns_hours": 269.0
+    }
+  },
+  {
+    "work_item_id": 1142961,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1142965,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 1397.7,
+      "time_in_revisited_columns_hours": 221.1
+    }
+  },
+  {
+    "work_item_id": 1143060,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1143061,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 1465.1,
+      "time_in_revisited_columns_hours": 241.1
+    }
+  },
+  {
+    "work_item_id": 1143407,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1143412,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1143432,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1146745,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1147395,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 43.3,
+      "time_in_revisited_columns_hours": 18.9
+    }
+  },
+  {
+    "work_item_id": 1147416,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 4731.4,
+      "time_in_revisited_columns_hours": 1726.9
+    }
+  },
+  {
+    "work_item_id": 1147589,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1147602,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 4243.7,
+      "time_in_revisited_columns_hours": 862.3
+    }
+  },
+  {
+    "work_item_id": 1148527,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 2357.2,
+      "time_in_revisited_columns_hours": 1948.7
+    }
+  },
+  {
+    "work_item_id": 1149786,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1149911,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1152374,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 600.8,
+      "time_in_revisited_columns_hours": 575.9
+    }
+  },
+  {
+    "work_item_id": 1152549,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1153269,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1470.5,
+      "time_in_revisited_columns_hours": 1167.2
+    }
+  },
+  {
+    "work_item_id": 1153270,
+    "rework_summary": {
+      "backward_column_moves": 7,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1146.3,
+      "time_in_revisited_columns_hours": 1470.1
+    }
+  },
+  {
+    "work_item_id": 1153271,
+    "rework_summary": {
+      "backward_column_moves": 7,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1511.3,
+      "time_in_revisited_columns_hours": 1206.3
+    }
+  },
+  {
+    "work_item_id": 1153272,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 1366.1,
+      "time_in_revisited_columns_hours": 187.4
+    }
+  },
+  {
+    "work_item_id": 1153705,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1156087,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1513.0,
+      "time_in_revisited_columns_hours": 1494.5
+    }
+  },
+  {
+    "work_item_id": 1156993,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 1728.9,
+      "time_in_revisited_columns_hours": 240.8
+    }
+  },
+  {
+    "work_item_id": 1157034,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1157148,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 1728.8,
+      "time_in_revisited_columns_hours": 394.5
+    }
+  },
+  {
+    "work_item_id": 1157155,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 1728.8,
+      "time_in_revisited_columns_hours": 354.3
+    }
+  },
+  {
+    "work_item_id": 1164310,
+    "rework_summary": {
+      "backward_column_moves": 6,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Backlog",
+        "Closed",
+        "In Development",
+        "QA",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 1175.2,
+      "time_in_revisited_columns_hours": 1102.3
+    }
+  },
+  {
+    "work_item_id": 1164704,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 1397.6,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1164765,
+    "rework_summary": {
+      "backward_column_moves": 5,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 3769.7,
+      "time_in_revisited_columns_hours": 3054.3
+    }
+  },
+  {
+    "work_item_id": 1165440,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA"
+      ],
+      "time_after_first_backward_move_hours": 1397.6,
+      "time_in_revisited_columns_hours": 166.5
+    }
+  },
+  {
+    "work_item_id": 1165757,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1166515,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 4205.0,
+      "time_in_revisited_columns_hours": 74.7
+    }
+  },
+  {
+    "work_item_id": 1166516,
+    "rework_summary": {
+      "backward_column_moves": 8,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 2970.6,
+      "time_in_revisited_columns_hours": 2249.5
+    }
+  },
+  {
+    "work_item_id": 1169001,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169002,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169004,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169007,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169009,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169010,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169075,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169077,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169078,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169080,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169081,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169083,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169084,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1169546,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": 4130.4,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1170800,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1172395,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 1202.7,
+      "time_in_revisited_columns_hours": 1202.7
+    }
+  },
+  {
+    "work_item_id": 1173817,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1173818,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1175154,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 3862.5,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1175947,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1176254,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1176583,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1177428,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1177917,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1178069,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1178724,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 504.6,
+      "time_in_revisited_columns_hours": 244.9
+    }
+  },
+  {
+    "work_item_id": 1178746,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 3742.2,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1178822,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 1009.5,
+      "time_in_revisited_columns_hours": 985.1
+    }
+  },
+  {
+    "work_item_id": 1179991,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 318.5,
+      "time_in_revisited_columns_hours": 503.2
+    }
+  },
+  {
+    "work_item_id": 1182716,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1182722,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 722.5,
+      "time_in_revisited_columns_hours": 21.7
+    }
+  },
+  {
+    "work_item_id": 1182725,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 479.7,
+      "time_in_revisited_columns_hours": 160.5
+    }
+  },
+  {
+    "work_item_id": 1182728,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 3260.5,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1182729,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 3260.5,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1182730,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1183229,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 820.2,
+      "time_in_revisited_columns_hours": 192.1
+    }
+  },
+  {
+    "work_item_id": 1183760,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1186887,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1187077,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 23.0
+    }
+  },
+  {
+    "work_item_id": 1187078,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1187080,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 505.2,
+      "time_in_revisited_columns_hours": 391.9
+    }
+  },
+  {
+    "work_item_id": 1187082,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1188997,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1189786,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "External Review",
+        "In Development",
+        "QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 215.9,
+      "time_in_revisited_columns_hours": 311.1
+    }
+  },
+  {
+    "work_item_id": 1189792,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 789.4,
+      "time_in_revisited_columns_hours": 23.5
+    }
+  },
+  {
+    "work_item_id": 1190076,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1190471,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1190473,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1190474,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1190683,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 2740.6,
+      "time_in_revisited_columns_hours": 2687.9
+    }
+  },
+  {
+    "work_item_id": 1190732,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 982.0,
+      "time_in_revisited_columns_hours": 189.3
+    }
+  },
+  {
+    "work_item_id": 1190761,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "In Review",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 335.5,
+      "time_in_revisited_columns_hours": 316.7
+    }
+  },
+  {
+    "work_item_id": 1190808,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1190829,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 95.0,
+      "time_in_revisited_columns_hours": 95.0
+    }
+  },
+  {
+    "work_item_id": 1190830,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Closed",
+        "External Review",
+        "In Review",
+        "QA",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 216.9,
+      "time_in_revisited_columns_hours": 216.9
+    }
+  },
+  {
+    "work_item_id": 1190836,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 121.5,
+      "time_in_revisited_columns_hours": 2.4
+    }
+  },
+  {
+    "work_item_id": 1191065,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1191553,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1191895,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1191902,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1192521,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Review",
+        "QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 312.1,
+      "time_in_revisited_columns_hours": 46.5
+    }
+  },
+  {
+    "work_item_id": 1196570,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 16.7,
+      "time_in_revisited_columns_hours": 16.7
+    }
+  },
+  {
+    "work_item_id": 1196572,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1196574,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 385.5,
+      "time_in_revisited_columns_hours": 329.8
+    }
+  },
+  {
+    "work_item_id": 1196575,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "In Review",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 173.5,
+      "time_in_revisited_columns_hours": 27.1
+    }
+  },
+  {
+    "work_item_id": 1196577,
+    "rework_summary": {
+      "backward_column_moves": 7,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "External Review",
+        "In Development",
+        "In Review",
+        "New",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 669.8,
+      "time_in_revisited_columns_hours": 461.4
+    }
+  },
+  {
+    "work_item_id": 1196578,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 142.2,
+      "time_in_revisited_columns_hours": 142.2
+    }
+  },
+  {
+    "work_item_id": 1196580,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 526.4,
+      "time_in_revisited_columns_hours": 160.7
+    }
+  },
+  {
+    "work_item_id": 1196597,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 201.3,
+      "time_in_revisited_columns_hours": 169.5
+    }
+  },
+  {
+    "work_item_id": 1196599,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA",
+        "Ready for Dev",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 358.3,
+      "time_in_revisited_columns_hours": 30.8
+    }
+  },
+  {
+    "work_item_id": 1196603,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 44.9,
+      "time_in_revisited_columns_hours": 21.0
+    }
+  },
+  {
+    "work_item_id": 1197933,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1200360,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1202307,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1203573,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1205150,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 506.6,
+      "time_in_revisited_columns_hours": 311.1
+    }
+  },
+  {
+    "work_item_id": 1207264,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 631.9,
+      "time_in_revisited_columns_hours": 474.7
+    }
+  },
+  {
+    "work_item_id": 1207301,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA",
+        "Ready for QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 25.1,
+      "time_in_revisited_columns_hours": 25.0
+    }
+  },
+  {
+    "work_item_id": 1207545,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1207643,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1207645,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "QA",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 244.0,
+      "time_in_revisited_columns_hours": 195.0
+    }
+  },
+  {
+    "work_item_id": 1207647,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 141.7,
+      "time_in_revisited_columns_hours": 72.6
+    }
+  },
+  {
+    "work_item_id": 1208566,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1209289,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1210442,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1210911,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 19.6,
+      "time_in_revisited_columns_hours": 19.6
+    }
+  },
+  {
+    "work_item_id": 1211181,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 2110.5,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1211305,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1211614,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1211616,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 127.9,
+      "time_in_revisited_columns_hours": 127.9
+    }
+  },
+  {
+    "work_item_id": 1211619,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for Dev",
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 668.5,
+      "time_in_revisited_columns_hours": 549.2
+    }
+  },
+  {
+    "work_item_id": 1211620,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1212325,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1212553,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 72.0
+    }
+  },
+  {
+    "work_item_id": 1213380,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1215318,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review"
+      ],
+      "time_after_first_backward_move_hours": 102.6,
+      "time_in_revisited_columns_hours": 1.2
+    }
+  },
+  {
+    "work_item_id": 1215972,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1216360,
+    "rework_summary": {
+      "backward_column_moves": 4,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "New"
+      ],
+      "time_after_first_backward_move_hours": 1708.5,
+      "time_in_revisited_columns_hours": 302.0
+    }
+  },
+  {
+    "work_item_id": 1217166,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.1
+    }
+  },
+  {
+    "work_item_id": 1218007,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 529.5,
+      "time_in_revisited_columns_hours": 1.4
+    }
+  },
+  {
+    "work_item_id": 1218600,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 582.6,
+      "time_in_revisited_columns_hours": 25.1
+    }
+  },
+  {
+    "work_item_id": 1218625,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": 23.3,
+      "time_in_revisited_columns_hours": 0.7
+    }
+  },
+  {
+    "work_item_id": 1218636,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1219722,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1220222,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1220640,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1221014,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 69.9,
+      "time_in_revisited_columns_hours": 4.5
+    }
+  },
+  {
+    "work_item_id": 1221222,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1221667,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1224402,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1224501,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1224502,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Closed",
+        "In Development",
+        "In Review",
+        "New",
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 674.0,
+      "time_in_revisited_columns_hours": 446.9
+    }
+  },
+  {
+    "work_item_id": 1224504,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 861.7,
+      "time_in_revisited_columns_hours": 598.2
+    }
+  },
+  {
+    "work_item_id": 1224505,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 506.3,
+      "time_in_revisited_columns_hours": 100.1
+    }
+  },
+  {
+    "work_item_id": 1224507,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1224643,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 289.8,
+      "time_in_revisited_columns_hours": 103.2
+    }
+  },
+  {
+    "work_item_id": 1224665,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "External Review",
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 1182.0,
+      "time_in_revisited_columns_hours": 809.6
+    }
+  },
+  {
+    "work_item_id": 1224999,
+    "rework_summary": {
+      "backward_column_moves": 3,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 405.0,
+      "time_in_revisited_columns_hours": 404.8
+    }
+  },
+  {
+    "work_item_id": 1225043,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Closed"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225384,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development"
+      ],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225388,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225389,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225390,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225393,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225394,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1225814,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1226050,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1226211,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1227440,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1229879,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1229881,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1229892,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1230940,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1231368,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1231376,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1231749,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1231843,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1232243,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1232498,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1234360,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 143.5,
+      "time_in_revisited_columns_hours": 143.5
+    }
+  },
+  {
+    "work_item_id": 1234363,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235564,
+    "rework_summary": {
+      "backward_column_moves": 2,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "In Development",
+        "In Review",
+        "QA",
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 172.3,
+      "time_in_revisited_columns_hours": 168.5
+    }
+  },
+  {
+    "work_item_id": 1235567,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235569,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235570,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235572,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235575,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235578,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235581,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235582,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235844,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235960,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": true,
+      "revisited_columns": [
+        "Closed",
+        "In Review"
+      ],
+      "time_after_first_backward_move_hours": 0.2,
+      "time_in_revisited_columns_hours": 18.2
+    }
+  },
+  {
+    "work_item_id": 1235961,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235962,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1235963,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1237447,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1237448,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1240640,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "New",
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 99.8,
+      "time_in_revisited_columns_hours": 52.9
+    }
+  },
+  {
+    "work_item_id": 1240641,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1241120,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1242400,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1242403,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1242404,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1242405,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1242588,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for Dev"
+      ],
+      "time_after_first_backward_move_hours": 167.4,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1243080,
+    "rework_summary": {
+      "backward_column_moves": 1,
+      "reopened_after_done": false,
+      "revisited_columns": [
+        "Ready for release"
+      ],
+      "time_after_first_backward_move_hours": 142.8,
+      "time_in_revisited_columns_hours": 76.5
+    }
+  },
+  {
+    "work_item_id": 1243090,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1243096,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1243815,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1244470,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1244628,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1244909,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245086,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245550,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245551,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245552,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245554,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245556,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245558,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245799,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1245941,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  }
+]
