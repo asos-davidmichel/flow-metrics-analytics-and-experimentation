@@ -1,0 +1,39 @@
+name: Update Dashboard
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install requests jinja2 -q
+      - name: Fetch data
+        env:
+          ADO_PAT: ${{ secrets.ADO_PAT }}
+        run: python scripts/fetch_data.py "${{ vars.BOARD_URL }}"
+      - name: Check data
+        run: python scripts/check_data.py
+      - name: Calculate metrics
+        run: |
+          python scripts/calc_columns.py
+          python scripts/calc_cycle_time.py
+          python scripts/calc_lead_time.py
+      - name: Generate dashboard
+        run: python scripts/create_dashboard.py --force
+      - name: Update index.html
+        run: cp output/dashboard.html index.html
+      - name: Commit and push
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Dashboard updated $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
