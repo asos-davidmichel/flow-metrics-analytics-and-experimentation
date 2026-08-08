@@ -1500,8 +1500,8 @@ def auto_interpret(summary):
 
     # GitHub Models (free, uses GITHUB_TOKEN) is the default; override with AI_API_KEY + AI_API_ENDPOINT.
     token = os.environ.get('AI_API_KEY') or os.environ.get('GITHUB_TOKEN')
-    endpoint = os.environ.get('AI_API_ENDPOINT', 'https://models.inference.ai.azure.com')
-    model = os.environ.get('AI_MODEL', 'gpt-4o')
+    endpoint = os.environ.get('AI_API_ENDPOINT') or 'https://models.inference.ai.azure.com'
+    model = os.environ.get('AI_MODEL') or 'gpt-4o'
 
     if not token:
         print("Skipping AI interpretation: GITHUB_TOKEN or AI_API_KEY must be set.", file=sys.stderr)
