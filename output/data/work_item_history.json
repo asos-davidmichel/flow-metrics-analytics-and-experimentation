@@ -23845,6 +23845,11 @@
       {
         "value": "In Review",
         "entered": "2026-08-06T11:47:10.913Z",
+        "left": "2026-08-07T13:05:27.247Z"
+      },
+      {
+        "value": "External Review",
+        "entered": "2026-08-07T13:05:27.247Z",
         "left": null
       }
     ],
@@ -23857,6 +23862,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-04T14:05:36.97Z",
+        "left": "2026-08-07T13:05:27.247Z"
+      },
+      {
+        "value": "Resolved",
+        "entered": "2026-08-07T13:05:27.247Z",
         "left": null
       }
     ],
@@ -23887,11 +23897,11 @@
       {
         "value": "In Development",
         "entered": "2026-08-06T08:48:49.58Z",
-        "left": "2026-08-06T14:15:09.303Z"
+        "left": "2026-08-07T13:05:28.603Z"
       },
       {
-        "value": "In Review",
-        "entered": "2026-08-06T14:15:09.303Z",
+        "value": "External Review",
+        "entered": "2026-08-07T13:05:28.603Z",
         "left": null
       }
     ],
@@ -23904,6 +23914,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-06T08:48:49.58Z",
+        "left": "2026-08-07T13:05:28.603Z"
+      },
+      {
+        "value": "Resolved",
+        "entered": "2026-08-07T13:05:28.603Z",
         "left": null
       }
     ],
@@ -25152,6 +25167,33 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-08-04T13:57:13.887Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1247604,
+    "board_entry_date": "2026-08-07T13:22:38.52Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-07T13:22:38.52Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-07T13:22:38.52Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Data Layer",
+        "changed_at": "2026-08-07T13:22:38.52Z"
       }
     ],
     "regressions": []

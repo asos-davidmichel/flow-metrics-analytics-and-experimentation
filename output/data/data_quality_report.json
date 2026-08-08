@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T12:58:13.093147+00:00",
-  "total_items": 339,
+  "generated_at": "2026-08-08T00:09:07.982349+00:00",
+  "total_items": 340,
   "excluded_item_ids": [
     {
       "id": 1099138,
@@ -5546,7 +5546,7 @@
       ]
     },
     "broken_parent_references": {
-      "count": 221,
+      "count": 222,
       "items": [
         {
           "id": 999105,
@@ -6430,6 +6430,10 @@
         },
         {
           "id": 1245941,
+          "parent_id": 1182670
+        },
+        {
+          "id": 1247604,
           "parent_id": 1182670
         }
       ]
