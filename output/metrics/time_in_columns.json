@@ -1,10 +1,10 @@
 {
   "metric": "time_in_columns",
-  "calculated_at": "2026-08-09T09:58:53.624181+00:00",
+  "calculated_at": "2026-08-09T10:18:23.335779+00:00",
   "window": {
     "parameter": "6m",
-    "start": "2026-02-10T09:58:53.624181+00:00",
-    "end": "2026-08-09T09:58:53.624181+00:00"
+    "start": "2026-02-10T10:18:23.335779+00:00",
+    "end": "2026-08-09T10:18:23.335779+00:00"
   },
   "source_files": [
     "output/data/work_item_history.json",
@@ -472,561 +472,561 @@
       "column_type": "incoming",
       "order": 0,
       "n": 181,
-      "total_hours": 437823.33,
-      "mean_hours": 2418.91,
-      "median_hours": 3647.05,
+      "total_hours": 437867.28,
+      "mean_hours": 2419.16,
+      "median_hours": 3647.38,
       "items": [
         {
           "id": 1143412,
           "title": "Mix&Match PDP - Add variant_selected schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 999105,
           "title": "Implement the evar9 event",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1006158,
           "title": "Event-Tracking-Bridge: Now cypress is working, we should aim to have tests running CI",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1029039,
           "title": "Sitechrome - Customer Student Data",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1044484,
           "title": "Hook up test harness to new GTM test env",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1053521,
           "title": "Enable MixpanelJs with First Party API",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1059955,
           "title": "Impact analysis - new Adobe VRS -> data estate",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1062713,
           "title": "Analytics Bot Filtering",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1063313,
           "title": "Build wrapper for Saved Lists to access pushToDataLayer",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1078632,
           "title": "PDP - add product category at item level",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1089190,
           "title": "Remove PLP Event Mappings from GTM Event Map",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1089898,
           "title": "Update linting rules in event-tracking-bridge",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1090665,
           "title": "Schema Analysis",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1090671,
           "title": "PDP - Add To Bag Variables",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1090683,
           "title": "Saved Lists - Add To Bag Variables",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1090684,
           "title": "Checkout - Add To Bag Variables",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091001,
           "title": "Bag - Add To Bag Variables",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091126,
           "title": "Bag - Build wrapper for Bag to access pushToDataLayer",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091160,
           "title": "Initialise event-tracking-bridge and get pushToDataLayer ready",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091166,
           "title": "Customer Loyalty Data - My Account",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091190,
           "title": "Events to implement",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091191,
           "title": "Events to Implement",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091206,
           "title": "Customer Student Data",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091207,
           "title": "Customer Premier Data",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091209,
           "title": "Customer Student Data",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091210,
           "title": "Customer Premier Data",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1091541,
           "title": "Investigate missing 'items' type in view_item_list type",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1092014,
           "title": "Remove ASOSBag Event Mappings from GTM Event Map",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1092813,
           "title": "Saved Lists - Look to set item size on page load with redux",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1096547,
           "title": "Remove dependency on core-js",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1098356,
           "title": "Create Account / Registration",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103329,
           "title": "Duplicate the existing datalayer",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103333,
           "title": "Consume on sitechrome",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103334,
           "title": "Consume on checkout",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103335,
           "title": "Consume on identity-pages",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103336,
           "title": "Consume on my account",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103337,
           "title": "Consume on topshop",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103338,
           "title": "Do the move now all apps are consuming duplicate versions",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1103706,
           "title": "Show error warnings on some events",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1109090,
           "title": "Identity Welcome page - CTA - continue button response",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1111818,
           "title": "EnabledFeatures - Schema",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1115689,
           "title": "Spike: Find out what the mechanism is for knowing when we've landed on a page and just logged in/registered",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1118699,
           "title": "We should enforce deduping on key events",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1121990,
           "title": "Investigate and add reset buffer for SPA routing",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1122562,
           "title": "Customer Loyalty Data - Checkout",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1122565,
           "title": "Re-Add firstName to pageData customerData on checkout",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1124782,
           "title": "Consume customerIdentityData work",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1124900,
           "title": "Consume customerIdentityData work - My Account",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1129688,
           "title": "asos-web-gtm to export the name of the datalayer",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1130681,
           "title": "SPIKE - Identity Welcome page - Investigate external link tracking",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1135089,
           "title": "Implement new view item dtc/afs fields on PDP view_item event",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137670,
           "title": "All techdocs need to live in backstage",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137671,
           "title": "Far more can be brought into middleware",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137672,
           "title": "Cannonising what is a datalayer event vs what is an analytics events",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137673,
           "title": "We should could be coming up with far more generic solutions to capture lots of events",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137674,
           "title": "Better monitoring is needed to cover failed requests",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137675,
           "title": "e2e test coverage is basically 0",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137860,
           "title": "Delivery restriction tracking",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1137862,
           "title": "Track parcel link click tracking",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1140237,
           "title": "Create cancel_order event schema for Order Details page",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1141398,
           "title": "Buy the look - view_item_list event",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1141399,
           "title": "Buy the look - variant_selected",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1141400,
           "title": "Buy the look - add_to_cart",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1141401,
           "title": "Buy the look - add_to_wishlist",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1143407,
           "title": "PDP - variant_selected",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1143432,
           "title": "Buy the look - Sitechrome update with DL version containing schema updates",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1165757,
           "title": "Missing view_item event on PDP page",
           "type": "Bug",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1166515,
           "title": "Checkout - Failing purchase event",
           "type": "Bug",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169001,
           "title": "Create detailed migration runbook and architecture documentation",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169002,
           "title": "Create platform-agnostic asosDataLayer (separate from gtmDataLayer)",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169004,
           "title": "Move generic event buffering from GTM to data layer package",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169007,
           "title": "Consolidate push logic in data layer package (push to asosDataLayer)",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169009,
           "title": "Update GTM to read from asosDataLayer instead of owning gtmDataLayer",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169010,
           "title": "Update ETB to use direct data layer without callback injection",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169075,
           "title": "Deploy new data layer to Identity Pages app",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169077,
           "title": "Deploy new data layer to My Account app",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169078,
           "title": "Deploy new data layer to Chameleon app",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169080,
           "title": "Deploy new data layer to Sitechrome app",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169081,
           "title": "Deploy new data layer to Checkout",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169083,
           "title": "Delete old data layer implementation code",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169084,
           "title": "Final documentation update and team knowledge sharing",
           "type": "Product Backlog Item",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1169546,
           "title": "Sitechrome - Legacy Adobe Cookie Consent Submission event has outdated consent statuses",
           "type": "Spike",
-          "hours": 4175.37
+          "hours": 4175.7
         },
         {
           "id": 1173817,
           "title": "Remove from saved event not being triggered",
           "type": "Bug",
-          "hours": 4075.65
+          "hours": 4075.98
         },
         {
           "id": 1175154,
           "title": "Improve Datalayer event description",
           "type": "Product Backlog Item",
-          "hours": 3981.03
+          "hours": 3981.35
         },
         {
           "id": 1177917,
           "title": "PDP - Add pushToDataLayerWrapper",
           "type": "Product Backlog Item",
-          "hours": 3811.39
+          "hours": 3811.71
         },
         {
           "id": 1178069,
           "title": "pushToDataLayerSitechromeWrapper causes unhandled rejection during SSR",
           "type": "Bug",
-          "hours": 3810.92
+          "hours": 3811.24
         },
         {
           "id": 1178746,
           "title": "Ensure new descriptions from add_to_cart are in ADE and Atlan",
           "type": "Product Backlog Item",
-          "hours": 3790.63
+          "hours": 3790.95
         },
         {
           "id": 1182728,
           "title": "PDP - add notify_me_button_load event",
           "type": "Product Backlog Item",
-          "hours": 3667.09
+          "hours": 3667.41
         },
         {
           "id": 1182729,
           "title": "SavedList - add notify_me_button_load event",
           "type": "Product Backlog Item",
-          "hours": 3666.65
+          "hours": 3666.98
         },
         {
           "id": 1175947,
           "title": "Investigate the not initialized state when there is no initial interaction with the consent banner",
           "type": "Bug",
-          "hours": 3647.05
+          "hours": 3647.38
         },
         {
           "id": 1182716,
           "title": "SCHEMA - update existing schemas to allow",
           "type": "Product Backlog Item",
-          "hours": 3647.05
+          "hours": 3647.38
         },
         {
           "id": 1098312,
           "title": "Google Tag Gateway",
           "type": "Product Backlog Item",
-          "hours": 3500.37
+          "hours": 3500.69
         },
         {
           "id": 1190683,
@@ -1038,61 +1038,61 @@
           "id": 1200360,
           "title": "Invstigate New Relic alerting for missing eVar204 values in Adobe requests",
           "type": "Spike",
-          "hours": 2736.51
+          "hours": 2736.84
         },
         {
           "id": 1202307,
           "title": "Failed event - purchase, begin_checkout, add_payment_info - negative discount",
           "type": "Bug",
-          "hours": 2662.77
+          "hours": 2663.1
         },
         {
           "id": 1209289,
           "title": "User_id's being set to Nil in Mixpanel",
           "type": "Bug",
-          "hours": 2274.46
+          "hours": 2274.79
         },
         {
           "id": 1211181,
           "title": "Add page_type and page_id to asos-web-two-step-unsubscribe",
           "type": "Product Backlog Item",
-          "hours": 2155.47
+          "hours": 2155.8
         },
         {
           "id": 1127036,
           "title": "Add onChange callback to datalayer",
           "type": "Product Backlog Item",
-          "hours": 2058.51
+          "hours": 2058.83
         },
         {
           "id": 1129092,
           "title": "view_article_list - Customer care",
           "type": "Product Backlog Item",
-          "hours": 2058.5
+          "hours": 2058.83
         },
         {
           "id": 1137669,
           "title": "Middleware currently builds a syncronous queue",
           "type": "Product Backlog Item",
-          "hours": 1967.57
+          "hours": 1967.9
         },
         {
           "id": 1147416,
           "title": "PDP - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 1896.28
+          "hours": 1896.61
         },
         {
           "id": 1219722,
           "title": "Resolve '\"@asosteam/asos-web-mixpanel\" dependency is missing' errors",
           "type": "Bug",
-          "hours": 1728.02
+          "hours": 1728.34
         },
         {
           "id": 1220222,
           "title": "[TBC] PDP - Push view_item_list events for remaining recommendation carousels",
           "type": "Product Backlog Item",
-          "hours": 1723.03
+          "hours": 1723.36
         },
         {
           "id": 1212553,
@@ -1110,55 +1110,55 @@
           "id": 1224501,
           "title": "Landing page - push product_component_impression event to datalayer",
           "type": "Product Backlog Item",
-          "hours": 1441.56
+          "hours": 1441.88
         },
         {
           "id": 1216360,
           "title": "Experiment_Started event is incorrect in the ADE Ingest Contract",
           "type": "Bug",
-          "hours": 1434.26
+          "hours": 1434.59
         },
         {
           "id": 1225388,
           "title": "Build script to flatten schemas into single ADE-compatible JSON",
           "type": "Product Backlog Item",
-          "hours": 1412.7
+          "hours": 1413.03
         },
         {
           "id": 1225814,
           "title": "available_components is incorrectly named in the ADE Ingest Contract",
           "type": "Bug",
-          "hours": 1389.17
+          "hours": 1389.5
         },
         {
           "id": 1226050,
           "title": "Remove Mixpanel package versioning from Sitechrome and ensure ETB provides the latest version",
           "type": "Product Backlog Item",
-          "hours": 1320.89
+          "hours": 1321.21
         },
         {
           "id": 1225389,
           "title": "Automatically detect current ADE schema version and create next minor version",
           "type": "Product Backlog Item",
-          "hours": 1297.36
+          "hours": 1297.68
         },
         {
           "id": 1225390,
           "title": "Generate sampledata from event schemas for ADE sync and test harness",
           "type": "Product Backlog Item",
-          "hours": 1297.36
+          "hours": 1297.68
         },
         {
           "id": 1225393,
           "title": "GitHub Action to raise PR in ADE ingest contracts repo",
           "type": "Product Backlog Item",
-          "hours": 1297.36
+          "hours": 1297.68
         },
         {
           "id": 1225394,
           "title": "Generate human-readable change summary for PR body",
           "type": "Product Backlog Item",
-          "hours": 1297.36
+          "hours": 1297.68
         },
         {
           "id": 1225384,
@@ -1176,25 +1176,25 @@
           "id": 1147602,
           "title": "Bag - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 1169.81
+          "hours": 1170.13
         },
         {
           "id": 1229881,
           "title": "Log events on page failures",
           "type": "Product Backlog Item",
-          "hours": 1128.52
+          "hours": 1128.84
         },
         {
           "id": 1229892,
           "title": "Set up alerting when a failed_event threshold is met",
           "type": "Product Backlog Item",
-          "hours": 1128.22
+          "hours": 1128.55
         },
         {
           "id": 1230940,
           "title": "PLP - Send flexibleSalesChannel values on add_to_wishlist",
           "type": "Product Backlog Item",
-          "hours": 1079.12
+          "hours": 1079.45
         },
         {
           "id": 1224507,
@@ -1224,19 +1224,19 @@
           "id": 1240641,
           "title": "Failed event - view_item and add_to_cart - No size present breaks validation",
           "type": "Bug",
-          "hours": 479.35
+          "hours": 479.68
         },
         {
           "id": 1235844,
           "title": "Detect breaking schema changes and trigger major version bump",
           "type": "Product Backlog Item",
-          "hours": 409.38
+          "hours": 409.71
         },
         {
           "id": 1242400,
           "title": "iOS - Fix Incorrect SessionID Property Capitalisation",
           "type": "Bug",
-          "hours": 403.89
+          "hours": 404.22
         },
         {
           "id": 1240640,
@@ -1257,22 +1257,22 @@
           "hours": 318.15
         },
         {
-          "id": 1234363,
-          "title": "Checkout - Test sourceId and SellerId is implemented correctly",
-          "type": "Product Backlog Item",
-          "hours": 288.74
-        },
-        {
           "id": 1243096,
           "title": "ADE Raw event_name column has unknown event name values",
           "type": "Bug",
-          "hours": 288.5
+          "hours": 288.82
         },
         {
           "id": 1243090,
           "title": "iOS - unexpected values in page_type",
           "type": "Bug",
-          "hours": 288.47
+          "hours": 288.79
+        },
+        {
+          "id": 1234363,
+          "title": "Checkout - Test sourceId and SellerId is implemented correctly",
+          "type": "Product Backlog Item",
+          "hours": 288.74
         },
         {
           "id": 1235564,
@@ -1290,49 +1290,49 @@
           "id": 1235575,
           "title": "Track view_item_list for Homepage recommendation carousels",
           "type": "Product Backlog Item",
-          "hours": 259.38
+          "hours": 259.7
         },
         {
           "id": 1235578,
           "title": "Track user interactions from Homepage recommendations",
           "type": "Product Backlog Item",
-          "hours": 259.38
+          "hours": 259.7
         },
         {
           "id": 1235961,
           "title": "Add dependabot to asos-web-mixpanel",
           "type": "Product Backlog Item",
-          "hours": 259.38
+          "hours": 259.7
         },
         {
           "id": 1235962,
           "title": "Add dependabot to asos-web-gtm",
           "type": "Product Backlog Item",
-          "hours": 259.38
+          "hours": 259.7
         },
         {
           "id": 1235963,
           "title": "Add dependabot to asos-web-event-tracking-bridge",
           "type": "Product Backlog Item",
-          "hours": 259.38
+          "hours": 259.7
         },
         {
           "id": 1244628,
           "title": "iOS - Add Missing Ecommerce Properties",
           "type": "Product Backlog Item",
-          "hours": 212.41
+          "hours": 212.74
         },
         {
           "id": 1244909,
           "title": "iOS - Investigate/Document All Recs Carousels",
           "type": "Product Backlog Item",
-          "hours": 212.41
+          "hours": 212.74
         },
         {
           "id": 1245550,
           "title": "Store source recommendations request id on homepage recommendation clicks",
           "type": "Product Backlog Item",
-          "hours": 212.18
+          "hours": 212.5
         },
         {
           "id": 1235572,
@@ -1386,31 +1386,31 @@
           "id": 1245799,
           "title": "Failed event - view_item_list - Missing product information in carousels on PDP",
           "type": "Bug",
-          "hours": 143.4
+          "hours": 143.73
+        },
+        {
+          "id": 1245554,
+          "title": "Store source recommendations request id on bag recommendation clicks",
+          "type": "Product Backlog Item",
+          "hours": 139.6
+        },
+        {
+          "id": 1245556,
+          "title": "Store source recommendations request id on Saved Items similar-items clicks",
+          "type": "Product Backlog Item",
+          "hours": 139.57
+        },
+        {
+          "id": 1245558,
+          "title": "Store source recommendations request id on PLP recommendation clicks",
+          "type": "Product Backlog Item",
+          "hours": 139.52
         },
         {
           "id": 1173818,
           "title": "Page load server call is sent as not initiated when OneTrust cookie is delayed",
           "type": "Bug",
           "hours": 139.33
-        },
-        {
-          "id": 1245554,
-          "title": "Store source recommendations request id on bag recommendation clicks",
-          "type": "Product Backlog Item",
-          "hours": 139.27
-        },
-        {
-          "id": 1245556,
-          "title": "Store source recommendations request id on Saved Items similar-items clicks",
-          "type": "Product Backlog Item",
-          "hours": 139.24
-        },
-        {
-          "id": 1245558,
-          "title": "Store source recommendations request id on PLP recommendation clicks",
-          "type": "Product Backlog Item",
-          "hours": 139.2
         },
         {
           "id": 1245086,
@@ -1422,7 +1422,7 @@
           "id": 1245941,
           "title": "PDP - Fire add_to_wishlist with source_recommendations_request_id when saving from a recommendations carousel",
           "type": "Product Backlog Item",
-          "hours": 116.03
+          "hours": 116.35
         },
         {
           "id": 1224505,
@@ -1440,7 +1440,7 @@
           "id": 1247604,
           "title": "Add source_recommendations_request_id to PLP add_to_wishlist event for recommended products",
           "type": "Product Backlog Item",
-          "hours": 44.6
+          "hours": 44.93
         },
         {
           "id": 1243080,
@@ -1569,8 +1569,8 @@
       "column_type": "inProgress",
       "order": 1,
       "n": 45,
-      "total_hours": 5490.35,
-      "mean_hours": 122.01,
+      "total_hours": 5491.66,
+      "mean_hours": 122.04,
       "median_hours": 31.19,
       "items": [
         {
@@ -1589,13 +1589,13 @@
           "id": 1242403,
           "title": "iOS - Add Missing ViewItemList Properties",
           "type": "Product Backlog Item",
-          "hours": 283.31
+          "hours": 283.64
         },
         {
           "id": 1242404,
           "title": "iOS - Add NotifyMeButtonClick Missing Property",
           "type": "Bug",
-          "hours": 283.31
+          "hours": 283.64
         },
         {
           "id": 1153270,
@@ -1613,19 +1613,19 @@
           "id": 1242588,
           "title": "iOS - Investigate Null/Nil Page_Type Properties",
           "type": "Bug",
-          "hours": 212.46
+          "hours": 212.78
         },
         {
           "id": 1245551,
           "title": "notify_me_button_click add component_name",
           "type": "Bug",
-          "hours": 212.21
+          "hours": 212.54
         },
         {
           "id": 1245552,
           "title": "Update view_Item_List",
           "type": "Bug",
-          "hours": 212.19
+          "hours": 212.52
         },
         {
           "id": 1153272,
@@ -1658,34 +1658,34 @@
           "hours": 147.01
         },
         {
+          "id": 1235570,
+          "title": "Add PR Policies to Analytics Engineering Owned Repos",
+          "type": "Product Backlog Item",
+          "hours": 145.19
+        },
+        {
           "id": 1234360,
           "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
           "type": "Product Backlog Item",
           "hours": 144.97
         },
         {
-          "id": 1235570,
-          "title": "Add PR Policies to Analytics Engineering Owned Repos",
-          "type": "Product Backlog Item",
-          "hours": 144.86
-        },
-        {
           "id": 1096547,
           "title": "Remove dependency on core-js",
           "type": "Spike",
-          "hours": 144.63
+          "hours": 144.3
         },
         {
           "id": 1164704,
           "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
           "type": "Product Backlog Item",
-          "hours": 144.63
+          "hours": 144.3
         },
         {
           "id": 1240640,
           "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
           "type": "Bug",
-          "hours": 91.95
+          "hours": 92.28
         },
         {
           "id": 1166515,
@@ -1736,12 +1736,6 @@
           "hours": 6.83
         },
         {
-          "id": 1137669,
-          "title": "Middleware currently builds a syncronous queue",
-          "type": "Product Backlog Item",
-          "hours": 4.01
-        },
-        {
           "id": 1129092,
           "title": "view_article_list - Customer care",
           "type": "Product Backlog Item",
@@ -1752,6 +1746,12 @@
           "title": "ADE - Update product_component_impression schema to also include recently viewed",
           "type": "Product Backlog Item",
           "hours": 3.88
+        },
+        {
+          "id": 1137669,
+          "title": "Middleware currently builds a syncronous queue",
+          "type": "Product Backlog Item",
+          "hours": 3.68
         },
         {
           "id": 1191902,
@@ -1850,9 +1850,9 @@
       "column_type": "inProgress",
       "order": 2,
       "n": 55,
-      "total_hours": 8869.14,
-      "mean_hours": 161.26,
-      "median_hours": 93.23,
+      "total_hours": 8866.01,
+      "mean_hours": 161.2,
+      "median_hours": 93.55,
       "items": [
         {
           "id": 1129092,
@@ -1918,13 +1918,13 @@
           "id": 1153270,
           "title": "Implement Consent Status Flag in Checkout",
           "type": "Product Backlog Item",
-          "hours": 208.57
+          "hours": 208.24
         },
         {
           "id": 1147602,
           "title": "Bag - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 198.98
+          "hours": 198.65
         },
         {
           "id": 1224665,
@@ -1948,31 +1948,31 @@
           "id": 1133407,
           "title": "SPIKE - PDP - Missing events",
           "type": "Spike",
-          "hours": 144.48
+          "hours": 144.16
         },
         {
           "id": 1133408,
           "title": "SPIKE - PDP - Inconsistent add_to_cart calls",
           "type": "Spike",
-          "hours": 144.48
+          "hours": 144.16
         },
         {
           "id": 1102423,
           "title": "Improve descriptions",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1108952,
           "title": "Add PLP Add to Wishlist Tracking",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1152374,
           "title": "Update sitechrome with latest badge updates",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1235564,
@@ -1984,7 +1984,7 @@
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
-          "hours": 119.29
+          "hours": 119.09
         },
         {
           "id": 1172395,
@@ -2005,22 +2005,22 @@
           "hours": 100.82
         },
         {
+          "id": 1225384,
+          "title": "Add Mixpanel super properties schema for ADE sync",
+          "type": "Product Backlog Item",
+          "hours": 93.87
+        },
+        {
           "id": 1212553,
           "title": "Test Events are being pushed to the Mixpanel Prod Container",
           "type": "Bug",
           "hours": 93.81
         },
         {
-          "id": 1225384,
-          "title": "Add Mixpanel super properties schema for ADE sync",
-          "type": "Product Backlog Item",
-          "hours": 93.55
-        },
-        {
           "id": 1244470,
           "title": "purchase event missing session id on all platforms",
           "type": "Bug",
-          "hours": 93.23
+          "hours": 93.55
         },
         {
           "id": 1242405,
@@ -2038,13 +2038,13 @@
           "id": 1166515,
           "title": "Checkout - Failing purchase event",
           "type": "Bug",
-          "hours": 69.94
+          "hours": 69.62
         },
         {
           "id": 1153271,
           "title": "Implement Consent Status Flag in Identity Pages",
           "type": "Product Backlog Item",
-          "hours": 67.25
+          "hours": 66.92
         },
         {
           "id": 1190683,
@@ -2083,16 +2083,16 @@
           "hours": 42.96
         },
         {
-          "id": 1153272,
-          "title": "Implement Consent Status Flag in My Account",
-          "type": "Product Backlog Item",
-          "hours": 30.92
-        },
-        {
           "id": 1235567,
           "title": "Track view_item_list for PDP recommendation carousels",
           "type": "Product Backlog Item",
           "hours": 30.83
+        },
+        {
+          "id": 1153272,
+          "title": "Implement Consent Status Flag in My Account",
+          "type": "Product Backlog Item",
+          "hours": 30.59
         },
         {
           "id": 1235582,
@@ -2128,7 +2128,7 @@
           "id": 1156087,
           "title": "Implement Consent Status Flag in shared-libs",
           "type": "Product Backlog Item",
-          "hours": 6.51
+          "hours": 6.18
         },
         {
           "id": 1245086,
@@ -2191,15 +2191,15 @@
       "column_type": "inProgress",
       "order": 3,
       "n": 55,
-      "total_hours": 10823.65,
-      "mean_hours": 196.79,
-      "median_hours": 144.45,
+      "total_hours": 10816.15,
+      "mean_hours": 196.66,
+      "median_hours": 144.13,
       "items": [
         {
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
-          "hours": 2911.64
+          "hours": 2911.52
         },
         {
           "id": 1176583,
@@ -2211,7 +2211,7 @@
           "id": 1127036,
           "title": "Add onChange callback to datalayer",
           "type": "Product Backlog Item",
-          "hours": 1035.62
+          "hours": 1035.29
         },
         {
           "id": 1098312,
@@ -2259,127 +2259,127 @@
           "id": 1153705,
           "title": "SPIKE - Scope Consent Status Flags work",
           "type": "Spike",
-          "hours": 144.48
+          "hours": 144.16
         },
         {
           "id": 1096549,
           "title": "Events that fail validation should push a 'failed_event' error in datalayer",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1101459,
           "title": "Centralise sitechrome pushtodatalayer wrapper code",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1102420,
           "title": "Middleware on datalayer",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1109166,
           "title": "Successful registration Schema",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1109235,
           "title": "New lint rule to ensure schema is listed in root schemas.json",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1122580,
           "title": "Spike - Customer Loyalty Data - middleware possibility",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1123884,
           "title": "Datalayer events to have ueid",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1128716,
           "title": "EventBus consent being re added",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1132720,
           "title": "Expand items schema",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1134081,
           "title": "variant_selected Schema",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1135592,
           "title": "order_details Schema",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1137978,
           "title": "Populate flexibleSalesChannel data in middleware",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1139563,
           "title": "Fix critical vulnerability in datalayer",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1142843,
           "title": "DL - Buy the look variant_selected event",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1142961,
           "title": "DL - Buy the look add_to_cart event",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1143060,
           "title": "DL - Buy the look add_to_wishlist event",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1146745,
           "title": "Add user story info to items object",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1149786,
           "title": "Skip GTM script loading for mockIDs",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1149911,
           "title": "Datalayer - Implement Data Layer Middleware to Transform Badge Data into Standard Format",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1157034,
           "title": "Improve datalayer docs",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1137669,
@@ -2439,7 +2439,7 @@
           "id": 1165440,
           "title": "Implement Consent Status Flag in web-analytics",
           "type": "Product Backlog Item",
-          "hours": 47.49
+          "hours": 47.16
         },
         {
           "id": 1183760,
@@ -2532,8 +2532,8 @@
       "column_type": "inProgress",
       "order": 4,
       "n": 35,
-      "total_hours": 6730.83,
-      "mean_hours": 192.31,
+      "total_hours": 6730.2,
+      "mean_hours": 192.29,
       "median_hours": 41.93,
       "items": [
         {
@@ -2546,13 +2546,13 @@
           "id": 1080472,
           "title": "Cypress identity issues blocking Saved Lists work",
           "type": "Bug",
-          "hours": 1542.19
+          "hours": 1541.86
         },
         {
           "id": 1147416,
           "title": "PDP - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 696.1
+          "hours": 695.78
         },
         {
           "id": 1241120,
@@ -2588,7 +2588,7 @@
           "id": 1135306,
           "title": "Checkout reporting local not working on the back of a datalayer release",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1216360,
@@ -2630,13 +2630,13 @@
           "id": 1235581,
           "title": "Track view_item_list for Similar Items recommendations",
           "type": "Product Backlog Item",
-          "hours": 44.89
+          "hours": 45.22
         },
         {
           "id": 1235582,
           "title": "Track source_recommendations_request_id for Saved Items interactions",
           "type": "Product Backlog Item",
-          "hours": 44.89
+          "hours": 45.22
         },
         {
           "id": 1235569,
@@ -2660,7 +2660,7 @@
           "id": 1129092,
           "title": "view_article_list - Customer care",
           "type": "Product Backlog Item",
-          "hours": 29.74
+          "hours": 29.42
         },
         {
           "id": 1224505,
@@ -2753,8 +2753,8 @@
       "column_type": "inProgress",
       "order": 5,
       "n": 28,
-      "total_hours": 2902.66,
-      "mean_hours": 103.67,
+      "total_hours": 2903.31,
+      "mean_hours": 103.69,
       "median_hours": 0.41,
       "items": [
         {
@@ -2767,7 +2767,7 @@
           "id": 1212553,
           "title": "Test Events are being pushed to the Mixpanel Prod Container",
           "type": "Bug",
-          "hours": 261.14
+          "hours": 261.47
         },
         {
           "id": 1191895,
@@ -2809,7 +2809,7 @@
           "id": 1224507,
           "title": "Saved List - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 45.16
+          "hours": 45.48
         },
         {
           "id": 1153269,
@@ -2932,9 +2932,9 @@
       "column_type": "inProgress",
       "order": 6,
       "n": 36,
-      "total_hours": 5507.35,
-      "mean_hours": 152.98,
-      "median_hours": 144.45,
+      "total_hours": 5506.74,
+      "mean_hours": 152.97,
+      "median_hours": 144.13,
       "items": [
         {
           "id": 1224665,
@@ -3024,49 +3024,55 @@
           "id": 1237447,
           "title": "Track view_item_list with recommendations_request_id for Category pages",
           "type": "Product Backlog Item",
-          "hours": 144.76
+          "hours": 145.09
         },
         {
           "id": 1237448,
           "title": "Track view_item_list with recommendations_request_id for Search pages",
           "type": "Product Backlog Item",
-          "hours": 144.76
+          "hours": 145.09
         },
         {
           "id": 1077639,
           "title": "Update changelog on asos-web-event-tracking-bridge",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1089764,
           "title": "Fixed array types to use 'items' key",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1108347,
           "title": "Sitechrome - experiment_activation",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1122572,
           "title": "Re-Add firstName to pageData on checkout",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1140237,
           "title": "Create cancel_order event schema for Order Details page",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1147416,
           "title": "PDP - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
           "hours": 143.36
+        },
+        {
+          "id": 1235564,
+          "title": "Capture recommendation request ID on Product Details Page",
+          "type": "Product Backlog Item",
+          "hours": 96.44
         },
         {
           "id": 1235569,
@@ -3079,12 +3085,6 @@
           "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
           "type": "Product Backlog Item",
           "hours": 96.38
-        },
-        {
-          "id": 1235564,
-          "title": "Capture recommendation request ID on Product Details Page",
-          "type": "Product Backlog Item",
-          "hours": 96.11
         },
         {
           "id": 1183760,
@@ -3159,9 +3159,9 @@
       "column_type": "inProgress",
       "order": 7,
       "n": 35,
-      "total_hours": 11647.99,
-      "mean_hours": 332.8,
-      "median_hours": 144.45,
+      "total_hours": 11645.13,
+      "mean_hours": 332.72,
+      "median_hours": 144.13,
       "items": [
         {
           "id": 1156087,
@@ -3221,13 +3221,13 @@
           "id": 1098312,
           "title": "Google Tag Gateway",
           "type": "Product Backlog Item",
-          "hours": 320.51
+          "hours": 320.19
         },
         {
           "id": 1243815,
           "title": "iOS - Ecommerce itemID Property Fix",
           "type": "Bug",
-          "hours": 237.18
+          "hours": 237.5
         },
         {
           "id": 1224665,
@@ -3239,7 +3239,7 @@
           "id": 1242405,
           "title": "iOS - PageData Firing Rework",
           "type": "Product Backlog Item",
-          "hours": 212.41
+          "hours": 212.74
         },
         {
           "id": 1229879,
@@ -3263,67 +3263,67 @@
           "id": 1096541,
           "title": "Remove dependency on core-js",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1119876,
           "title": "middleware customerIdentityData",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1119878,
           "title": "Event-tracking-bridge - Expand datalayer to add customer identity calls",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1123823,
           "title": "Customer Segments Data",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1128397,
           "title": "Middleware - ctaRef in pageData",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1130631,
           "title": "Checkout - Feature Branch - Critical",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1132714,
           "title": "PDP - Expand view_item to cover flexibleSalesChannels",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1132717,
           "title": "Bag - Expand view_cart to cover DTC",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1137857,
           "title": "Consume 'variant_selected' schema",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1140549,
           "title": "Bag - Push add_to_cart event when increasing product quantity",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1152549,
           "title": "Ueid release tracker",
           "type": "Product Backlog Item",
-          "hours": 144.45
+          "hours": 144.13
         },
         {
           "id": 1243080,
@@ -3335,7 +3335,7 @@
           "id": 1190683,
           "title": "Failed event - view_item_list breadCrumb property failing validation",
           "type": "Bug",
-          "hours": 67.69
+          "hours": 68.02
         },
         {
           "id": 1234363,
@@ -3380,9 +3380,9 @@
       "column_type": "outgoing",
       "order": 8,
       "n": 92,
-      "total_hours": 296602.93,
-      "mean_hours": 3223.94,
-      "median_hours": 4175.55,
+      "total_hours": 296628.74,
+      "mean_hours": 3224.23,
+      "median_hours": 4175.87,
       "items": [
         {
           "id": 1091200,
@@ -3454,481 +3454,481 @@
           "id": 1077639,
           "title": "Update changelog on asos-web-event-tracking-bridge",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1089764,
           "title": "Fixed array types to use 'items' key",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1091162,
           "title": "Page Timing",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1091163,
           "title": "Customer Identity Data",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1091170,
           "title": "Customer Identity Data",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1091199,
           "title": "Page TIming",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1096541,
           "title": "Remove dependency on core-js",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1096549,
           "title": "Events that fail validation should push a 'failed_event' error in datalayer",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1101459,
           "title": "Centralise sitechrome pushtodatalayer wrapper code",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1102420,
           "title": "Middleware on datalayer",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1102423,
           "title": "Improve descriptions",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1108347,
           "title": "Sitechrome - experiment_activation",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1108952,
           "title": "Add PLP Add to Wishlist Tracking",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1109015,
           "title": "successful_authentication event schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1109166,
           "title": "Successful registration Schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1109235,
           "title": "New lint rule to ensure schema is listed in root schemas.json",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1119876,
           "title": "middleware customerIdentityData",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1119878,
           "title": "Event-tracking-bridge - Expand datalayer to add customer identity calls",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1122572,
           "title": "Re-Add firstName to pageData on checkout",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1122580,
           "title": "Spike - Customer Loyalty Data - middleware possibility",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1123823,
           "title": "Customer Segments Data",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1123884,
           "title": "Datalayer events to have ueid",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1128397,
           "title": "Middleware - ctaRef in pageData",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1128716,
           "title": "EventBus consent being re added",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1130631,
           "title": "Checkout - Feature Branch - Critical",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1132714,
           "title": "PDP - Expand view_item to cover flexibleSalesChannels",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1132717,
           "title": "Bag - Expand view_cart to cover DTC",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1132720,
           "title": "Expand items schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1134081,
           "title": "variant_selected Schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1135306,
           "title": "Checkout reporting local not working on the back of a datalayer release",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1135592,
           "title": "order_details Schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1137857,
           "title": "Consume 'variant_selected' schema",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1137978,
           "title": "Populate flexibleSalesChannel data in middleware",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1139563,
           "title": "Fix critical vulnerability in datalayer",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1140549,
           "title": "Bag - Push add_to_cart event when increasing product quantity",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1142843,
           "title": "DL - Buy the look variant_selected event",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1142961,
           "title": "DL - Buy the look add_to_cart event",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1143060,
           "title": "DL - Buy the look add_to_wishlist event",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1146745,
           "title": "Add user story info to items object",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1149786,
           "title": "Skip GTM script loading for mockIDs",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1149911,
           "title": "Datalayer - Implement Data Layer Middleware to Transform Badge Data into Standard Format",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1152374,
           "title": "Update sitechrome with latest badge updates",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1152549,
           "title": "Ueid release tracker",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1157034,
           "title": "Improve datalayer docs",
           "type": "Product Backlog Item",
-          "hours": 4175.55
+          "hours": 4175.87
         },
         {
           "id": 1133407,
           "title": "SPIKE - PDP - Missing events",
           "type": "Spike",
-          "hours": 4175.52
+          "hours": 4175.84
         },
         {
           "id": 1133408,
           "title": "SPIKE - PDP - Inconsistent add_to_cart calls",
           "type": "Spike",
-          "hours": 4175.52
+          "hours": 4175.84
         },
         {
           "id": 1153705,
           "title": "SPIKE - Scope Consent Status Flags work",
           "type": "Spike",
-          "hours": 4175.52
+          "hours": 4175.84
         },
         {
           "id": 1173818,
           "title": "Page load server call is sent as not initiated when OneTrust cookie is delayed",
           "type": "Bug",
-          "hours": 3670.64
+          "hours": 3670.96
         },
         {
           "id": 1178724,
           "title": "Revert Google Tag Gateway Changes",
           "type": "Product Backlog Item",
-          "hours": 3264.0
+          "hours": 3264.32
         },
         {
           "id": 1153272,
           "title": "Implement Consent Status Flag in My Account",
           "type": "Product Backlog Item",
-          "hours": 2922.94
+          "hours": 2923.26
         },
         {
           "id": 1080472,
           "title": "Cypress identity issues blocking Saved Lists work",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1153269,
           "title": "Implement Consent Status Flag in Sitechrome",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1153270,
           "title": "Implement Consent Status Flag in Checkout",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1153271,
           "title": "Implement Consent Status Flag in Identity Pages",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1156087,
           "title": "Implement Consent Status Flag in shared-libs",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1164704,
           "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1165440,
           "title": "Implement Consent Status Flag in web-analytics",
           "type": "Product Backlog Item",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1172395,
           "title": "SPIKE -  pageData",
           "type": "Spike",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1176583,
           "title": "ES5 build contains optional chaining causing build failures",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1177428,
           "title": "Customer Analytics Availability SLO Fauilure",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1178822,
           "title": "Check if descriptions make it to the client and find out if we can exclude them",
           "type": "Spike",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1183760,
           "title": "shared-libs - Resolve minified file issue",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1191895,
           "title": "Investigate discrepancy in Consent Flags in tracked links in My Account and 2 Step Unsubscribe",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1191902,
           "title": "Investigate discrepancy in Consent Status Flags in page views",
           "type": "Bug",
-          "hours": 2777.81
+          "hours": 2778.14
         },
         {
           "id": 1235960,
           "title": "Add dependabot to asos-web-datalayer",
           "type": "Product Backlog Item",
-          "hours": 624.02
+          "hours": 624.35
         },
         {
           "id": 1211305,
           "title": "PLP Performance Issue",
           "type": "Bug",
-          "hours": 594.57
+          "hours": 594.9
         },
         {
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
-          "hours": 573.68
+          "hours": 574.01
         },
         {
           "id": 1224505,
           "title": "PLP - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 405.24
+          "hours": 405.56
         },
         {
           "id": 1234360,
           "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
           "type": "Product Backlog Item",
-          "hours": 290.24
+          "hours": 290.56
         },
         {
           "id": 1224504,
           "title": "BAG - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 261.14
+          "hours": 261.46
         },
         {
           "id": 1224665,
           "title": "PLP client side navigation is not updating super properties and not firing pageData event",
           "type": "Bug",
-          "hours": 258.5
+          "hours": 258.83
         },
         {
           "id": 1224502,
           "title": "PDP - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 255.22
+          "hours": 255.54
         },
         {
           "id": 1234363,
           "title": "Checkout - Test sourceId and SellerId is implemented correctly",
           "type": "Product Backlog Item",
-          "hours": 234.62
+          "hours": 234.94
         },
         {
           "id": 1243080,
           "title": "UUIDs sent instead of SKUs in add_to_cart on Android",
           "type": "Bug",
-          "hours": 140.43
+          "hours": 140.75
         },
         {
           "id": 1235569,
           "title": "Track view_item_list for Bag recommendation carousel",
           "type": "Product Backlog Item",
-          "hours": 116.69
+          "hours": 117.01
         },
         {
           "id": 1235572,
           "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
           "type": "Product Backlog Item",
-          "hours": 116.69
+          "hours": 117.01
         },
         {
           "id": 1235567,
           "title": "Track view_item_list for PDP recommendation carousels",
           "type": "Product Backlog Item",
-          "hours": 66.74
+          "hours": 67.06
         },
         {
           "id": 1241120,
           "title": "ADE - Update product_component_impression schema to also include recently viewed",
           "type": "Product Backlog Item",
-          "hours": 49.56
+          "hours": 49.89
         },
         {
           "id": 1245086,
           "title": "$app_version_string missing from all iOS events in ADE",
           "type": "Bug",
-          "hours": 49.25
+          "hours": 49.58
         },
         {
           "id": 1229879,
           "title": "Failed event - pageData - Missing hashed first and last name - missing",
           "type": "Bug",
-          "hours": 48.66
+          "hours": 48.99
         },
         {
           "id": 1137669,
@@ -3945,7 +3945,7 @@
       "title": "Implement the evar9 event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -3957,7 +3957,7 @@
       "title": "Event-Tracking-Bridge: Now cypress is working, we should aim to have tests running CI",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -3969,7 +3969,7 @@
       "title": "Sitechrome - Customer Student Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -3981,7 +3981,7 @@
       "title": "Hook up test harness to new GTM test env",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -3993,7 +3993,7 @@
       "title": "Enable MixpanelJs with First Party API",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4005,7 +4005,7 @@
       "title": "Impact analysis - new Adobe VRS -> data estate",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4017,7 +4017,7 @@
       "title": "Analytics Bot Filtering",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4029,7 +4029,7 @@
       "title": "Build wrapper for Saved Lists to access pushToDataLayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4041,8 +4041,8 @@
       "title": "Update changelog on asos-web-event-tracking-bridge",
       "type": "Product Backlog Item",
       "column_hours": {
-        "QA": 144.45,
-        "Closed": 4175.55
+        "QA": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4053,7 +4053,7 @@
       "title": "PDP - add product category at item level",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4065,8 +4065,8 @@
       "title": "Cypress identity issues blocking Saved Lists work",
       "type": "Bug",
       "column_hours": {
-        "External Review": 1542.19,
-        "Closed": 2777.81
+        "External Review": 1541.86,
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -4077,7 +4077,7 @@
       "title": "Remove PLP Event Mappings from GTM Event Map",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4089,8 +4089,8 @@
       "title": "Fixed array types to use 'items' key",
       "type": "Product Backlog Item",
       "column_hours": {
-        "QA": 144.45,
-        "Closed": 4175.55
+        "QA": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4101,7 +4101,7 @@
       "title": "Update linting rules in event-tracking-bridge",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4113,7 +4113,7 @@
       "title": "Schema Analysis",
       "type": "Spike",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4125,7 +4125,7 @@
       "title": "PDP - Add To Bag Variables",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4137,7 +4137,7 @@
       "title": "Saved Lists - Add To Bag Variables",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4149,7 +4149,7 @@
       "title": "Checkout - Add To Bag Variables",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4161,7 +4161,7 @@
       "title": "Bag - Add To Bag Variables",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4173,7 +4173,7 @@
       "title": "Bag - Build wrapper for Bag to access pushToDataLayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4185,7 +4185,7 @@
       "title": "Initialise event-tracking-bridge and get pushToDataLayer ready",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4197,7 +4197,7 @@
       "title": "Page Timing",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Closed": 4175.55
+        "Closed": 4175.87
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4209,7 +4209,7 @@
       "title": "Customer Identity Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Closed": 4175.55
+        "Closed": 4175.87
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4221,7 +4221,7 @@
       "title": "Customer Loyalty Data - My Account",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4233,7 +4233,7 @@
       "title": "Customer Identity Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Closed": 4175.55
+        "Closed": 4175.87
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4245,7 +4245,7 @@
       "title": "Events to implement",
       "type": "Spike",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4257,7 +4257,7 @@
       "title": "Events to Implement",
       "type": "Spike",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4269,7 +4269,7 @@
       "title": "Page TIming",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Closed": 4175.55
+        "Closed": 4175.87
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4292,7 +4292,7 @@
       "title": "Customer Student Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4304,7 +4304,7 @@
       "title": "Customer Premier Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4316,7 +4316,7 @@
       "title": "Customer Student Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4328,7 +4328,7 @@
       "title": "Customer Premier Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4340,7 +4340,7 @@
       "title": "Investigate missing 'items' type in view_item_list type",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4352,7 +4352,7 @@
       "title": "Remove ASOSBag Event Mappings from GTM Event Map",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4364,7 +4364,7 @@
       "title": "Saved Lists - Look to set item size on page load with redux",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4376,8 +4376,8 @@
       "title": "Remove dependency on core-js",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4388,8 +4388,8 @@
       "title": "Remove dependency on core-js",
       "type": "Spike",
       "column_hours": {
-        "Ready for Dev": 144.63,
-        "New": 4175.37
+        "Ready for Dev": 144.3,
+        "New": 4175.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4400,8 +4400,8 @@
       "title": "Events that fail validation should push a 'failed_event' error in datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4412,10 +4412,10 @@
       "title": "Google Tag Gateway",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 320.51,
+        "Ready for release": 320.19,
         "External Review": 165.81,
         "In Review": 333.31,
-        "New": 3500.37
+        "New": 3500.69
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-03-16): capped at now (2026-08-09)"
@@ -4426,7 +4426,7 @@
       "title": "Create Account / Registration",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4438,8 +4438,8 @@
       "title": "Centralise sitechrome pushtodatalayer wrapper code",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4450,8 +4450,8 @@
       "title": "Middleware on datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4462,8 +4462,8 @@
       "title": "Improve descriptions",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 144.45,
-        "Closed": 4175.55
+        "In Development": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4474,7 +4474,7 @@
       "title": "Duplicate the existing datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4486,7 +4486,7 @@
       "title": "Consume on sitechrome",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4498,7 +4498,7 @@
       "title": "Consume on checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4510,7 +4510,7 @@
       "title": "Consume on identity-pages",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4522,7 +4522,7 @@
       "title": "Consume on my account",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4534,7 +4534,7 @@
       "title": "Consume on topshop",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4546,7 +4546,7 @@
       "title": "Do the move now all apps are consuming duplicate versions",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4558,7 +4558,7 @@
       "title": "Show error warnings on some events",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4570,8 +4570,8 @@
       "title": "Sitechrome - experiment_activation",
       "type": "Product Backlog Item",
       "column_hours": {
-        "QA": 144.45,
-        "Closed": 4175.55
+        "QA": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4582,8 +4582,8 @@
       "title": "Add PLP Add to Wishlist Tracking",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 144.45,
-        "Closed": 4175.55
+        "In Development": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4594,7 +4594,7 @@
       "title": "successful_authentication event schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Closed": 4175.55
+        "Closed": 4175.87
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4617,7 +4617,7 @@
       "title": "Identity Welcome page - CTA - continue button response",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4640,8 +4640,8 @@
       "title": "Successful registration Schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4652,8 +4652,8 @@
       "title": "New lint rule to ensure schema is listed in root schemas.json",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4664,7 +4664,7 @@
       "title": "EnabledFeatures - Schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4676,7 +4676,7 @@
       "title": "Spike: Find out what the mechanism is for knowing when we've landed on a page and just logged in/registered",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4688,7 +4688,7 @@
       "title": "We should enforce deduping on key events",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4700,8 +4700,8 @@
       "title": "middleware customerIdentityData",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4712,8 +4712,8 @@
       "title": "Event-tracking-bridge - Expand datalayer to add customer identity calls",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4746,7 +4746,7 @@
       "title": "Investigate and add reset buffer for SPA routing",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4758,7 +4758,7 @@
       "title": "Customer Loyalty Data - Checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4770,7 +4770,7 @@
       "title": "Re-Add firstName to pageData customerData on checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4782,8 +4782,8 @@
       "title": "Re-Add firstName to pageData on checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "QA": 144.45,
-        "Closed": 4175.55
+        "QA": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4794,8 +4794,8 @@
       "title": "Spike - Customer Loyalty Data - middleware possibility",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4806,8 +4806,8 @@
       "title": "Customer Segments Data",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4818,8 +4818,8 @@
       "title": "Datalayer events to have ueid",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4830,7 +4830,7 @@
       "title": "Consume customerIdentityData work",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4853,7 +4853,7 @@
       "title": "Consume customerIdentityData work - My Account",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4865,9 +4865,9 @@
       "title": "Add onChange callback to datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 1035.62,
+        "In Review": 1035.29,
         "In Development": 675.15,
-        "New": 2058.51
+        "New": 2058.83
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-09)"
@@ -4889,8 +4889,8 @@
       "title": "Middleware - ctaRef in pageData",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4901,8 +4901,8 @@
       "title": "EventBus consent being re added",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4913,12 +4913,12 @@
       "title": "view_article_list - Customer care",
       "type": "Product Backlog Item",
       "column_hours": {
-        "External Review": 29.74,
+        "External Review": 29.42,
         "QA": 491.75,
         "In Development": 1085.24,
         "Ready for Dev": 3.95,
         "Ready for QA": 99.99,
-        "New": 2058.5
+        "New": 2058.83
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-09)"
@@ -4940,7 +4940,7 @@
       "title": "asos-web-gtm to export the name of the datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4952,8 +4952,8 @@
       "title": "Checkout - Feature Branch - Critical",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4964,7 +4964,7 @@
       "title": "SPIKE - Identity Welcome page - Investigate external link tracking",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -4987,8 +4987,8 @@
       "title": "PDP - Expand view_item to cover flexibleSalesChannels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -4999,8 +4999,8 @@
       "title": "Bag - Expand view_cart to cover DTC",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5011,8 +5011,8 @@
       "title": "Expand items schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5023,8 +5023,8 @@
       "title": "SPIKE - PDP - Missing events",
       "type": "Spike",
       "column_hours": {
-        "In Development": 144.48,
-        "Closed": 4175.52
+        "In Development": 144.16,
+        "Closed": 4175.84
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5035,8 +5035,8 @@
       "title": "SPIKE - PDP - Inconsistent add_to_cart calls",
       "type": "Spike",
       "column_hours": {
-        "In Development": 144.48,
-        "Closed": 4175.52
+        "In Development": 144.16,
+        "Closed": 4175.84
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5047,8 +5047,8 @@
       "title": "variant_selected Schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5059,7 +5059,7 @@
       "title": "Implement new view item dtc/afs fields on PDP view_item event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5071,8 +5071,8 @@
       "title": "Checkout reporting local not working on the back of a datalayer release",
       "type": "Product Backlog Item",
       "column_hours": {
-        "External Review": 144.45,
-        "Closed": 4175.55
+        "External Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5094,8 +5094,8 @@
       "title": "order_details Schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5106,14 +5106,14 @@
       "title": "Middleware currently builds a syncronous queue",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for Dev": 4.01,
+        "Ready for Dev": 3.68,
         "In Development": 0.2,
         "In Review": 137.78,
         "QA": 344.07,
         "Ready for QA": 1847.34,
         "Closed": 0.0,
         "External Review": 19.03,
-        "New": 1967.57
+        "New": 1967.9
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-19): capped at now (2026-08-09)"
@@ -5124,7 +5124,7 @@
       "title": "All techdocs need to live in backstage",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5136,7 +5136,7 @@
       "title": "Far more can be brought into middleware",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5148,7 +5148,7 @@
       "title": "Cannonising what is a datalayer event vs what is an analytics events",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5160,7 +5160,7 @@
       "title": "We should could be coming up with far more generic solutions to capture lots of events",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5172,7 +5172,7 @@
       "title": "Better monitoring is needed to cover failed requests",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5184,7 +5184,7 @@
       "title": "e2e test coverage is basically 0",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5196,8 +5196,8 @@
       "title": "Consume 'variant_selected' schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5208,7 +5208,7 @@
       "title": "Delivery restriction tracking",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5220,7 +5220,7 @@
       "title": "Track parcel link click tracking",
       "type": "Spike",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5232,8 +5232,8 @@
       "title": "Populate flexibleSalesChannel data in middleware",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5244,8 +5244,8 @@
       "title": "Fix critical vulnerability in datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5256,8 +5256,8 @@
       "title": "Create cancel_order event schema for Order Details page",
       "type": "Product Backlog Item",
       "column_hours": {
-        "QA": 144.45,
-        "New": 4175.37
+        "QA": 144.13,
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5269,8 +5269,8 @@
       "title": "Bag - Push add_to_cart event when increasing product quantity",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5281,7 +5281,7 @@
       "title": "Buy the look - view_item_list event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5293,7 +5293,7 @@
       "title": "Buy the look - variant_selected",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5305,7 +5305,7 @@
       "title": "Buy the look - add_to_cart",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5317,7 +5317,7 @@
       "title": "Buy the look - add_to_wishlist",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5329,8 +5329,8 @@
       "title": "DL - Buy the look variant_selected event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5341,8 +5341,8 @@
       "title": "DL - Buy the look add_to_cart event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5353,8 +5353,8 @@
       "title": "DL - Buy the look add_to_wishlist event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5365,7 +5365,7 @@
       "title": "PDP - variant_selected",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5377,7 +5377,7 @@
       "title": "Mix&Match PDP - Add variant_selected schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.55
+        "New": 4175.87
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5388,7 +5388,7 @@
       "title": "Buy the look - Sitechrome update with DL version containing schema updates",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5400,8 +5400,8 @@
       "title": "Add user story info to items object",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5423,11 +5423,11 @@
       "title": "PDP - Extend view_item to cover Badges",
       "type": "Product Backlog Item",
       "column_hours": {
-        "External Review": 696.1,
+        "External Review": 695.78,
         "Ready for QA": 0.0,
         "QA": 143.36,
         "Ready for Dev": 1584.14,
-        "New": 1896.28,
+        "New": 1896.61,
         "In Development": 0.12
       },
       "warnings": [
@@ -5439,11 +5439,11 @@
       "title": "Bag - Extend view_item to cover Badges",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 198.98,
+        "In Development": 198.65,
         "Ready for Dev": 186.53,
         "In Review": 0.0,
         "External Review": 2553.9,
-        "New": 1169.81,
+        "New": 1170.13,
         "Ready for QA": 122.34,
         "QA": 88.44
       },
@@ -5456,8 +5456,8 @@
       "title": "Skip GTM script loading for mockIDs",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5468,8 +5468,8 @@
       "title": "Datalayer - Implement Data Layer Middleware to Transform Badge Data into Standard Format",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5480,8 +5480,8 @@
       "title": "Update sitechrome with latest badge updates",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 144.45,
-        "Closed": 4175.55
+        "In Development": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5492,8 +5492,8 @@
       "title": "Ueid release tracker",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for release": 144.45,
-        "Closed": 4175.55
+        "Ready for release": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5512,7 +5512,7 @@
         "In Review": 136.33,
         "External Review": 5.7,
         "Ready for QA": 27.76,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5524,7 +5524,7 @@
       "title": "Implement Consent Status Flag in Checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 208.57,
+        "In Development": 208.24,
         "Ready for Dev": 282.11,
         "New": 23.11,
         "Ready for release": 643.15,
@@ -5532,7 +5532,7 @@
         "External Review": 148.82,
         "Ready for QA": 0.0,
         "QA": 168.11,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5543,7 +5543,7 @@
       "title": "Implement Consent Status Flag in Identity Pages",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 67.25,
+        "In Development": 66.92,
         "Ready for Dev": 332.39,
         "New": 23.11,
         "Ready for release": 718.27,
@@ -5551,7 +5551,7 @@
         "External Review": 24.58,
         "QA": 196.49,
         "Ready for QA": 1.61,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5562,12 +5562,12 @@
       "title": "Implement Consent Status Flag in My Account",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 30.92,
+        "In Development": 30.59,
         "Ready for Dev": 187.4,
         "New": 23.11,
         "QA": 77.14,
         "Ready for release": 1078.5,
-        "Closed": 2922.94
+        "Closed": 2923.26
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-09): capped at now (2026-08-09)"
@@ -5578,8 +5578,8 @@
       "title": "SPIKE - Scope Consent Status Flags work",
       "type": "Spike",
       "column_hours": {
-        "In Review": 144.48,
-        "Closed": 4175.52
+        "In Review": 144.16,
+        "Closed": 4175.84
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5590,12 +5590,12 @@
       "title": "Implement Consent Status Flag in shared-libs",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 6.51,
+        "In Development": 6.18,
         "In Review": 22.04,
         "QA": 264.06,
         "External Review": 0.54,
         "Ready for release": 1249.04,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5606,8 +5606,8 @@
       "title": "Improve datalayer docs",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 144.45,
-        "Closed": 4175.55
+        "In Review": 144.13,
+        "Closed": 4175.87
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5618,11 +5618,11 @@
       "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for Dev": 144.63,
+        "Ready for Dev": 144.3,
         "New": 96.8,
         "QA": 77.14,
         "Ready for release": 1223.62,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5633,13 +5633,13 @@
       "title": "Investigate datalayer GTM event sequence",
       "type": "Bug",
       "column_hours": {
-        "In Development": 119.29,
-        "In Review": 2911.64,
+        "In Review": 2911.52,
+        "In Development": 119.09,
         "Ready for QA": 0.0,
         "QA": 47.85,
         "External Review": 0.0,
         "Ready for release": 483.67,
-        "Closed": 573.68
+        "Closed": 574.01
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-16): capped at now (2026-08-09)"
@@ -5650,12 +5650,12 @@
       "title": "Implement Consent Status Flag in web-analytics",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 47.49,
+        "In Review": 47.16,
         "External Review": 24.17,
         "QA": 239.49,
         "In Development": 0.0,
         "Ready for release": 1231.04,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5666,7 +5666,7 @@
       "title": "Missing view_item event on PDP page",
       "type": "Bug",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5678,9 +5678,9 @@
       "title": "Checkout - Failing purchase event",
       "type": "Bug",
       "column_hours": {
-        "In Development": 69.94,
+        "In Development": 69.62,
         "Ready for Dev": 74.69,
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-09)"
@@ -5691,7 +5691,7 @@
       "title": "Create detailed migration runbook and architecture documentation",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5703,7 +5703,7 @@
       "title": "Create platform-agnostic asosDataLayer (separate from gtmDataLayer)",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5715,7 +5715,7 @@
       "title": "Move generic event buffering from GTM to data layer package",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5727,7 +5727,7 @@
       "title": "Consolidate push logic in data layer package (push to asosDataLayer)",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5739,7 +5739,7 @@
       "title": "Update GTM to read from asosDataLayer instead of owning gtmDataLayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5751,7 +5751,7 @@
       "title": "Update ETB to use direct data layer without callback injection",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5763,7 +5763,7 @@
       "title": "Deploy new data layer to Identity Pages app",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5775,7 +5775,7 @@
       "title": "Deploy new data layer to My Account app",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5787,7 +5787,7 @@
       "title": "Deploy new data layer to Chameleon app",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5799,7 +5799,7 @@
       "title": "Deploy new data layer to Sitechrome app",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5811,7 +5811,7 @@
       "title": "Deploy new data layer to Checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5823,7 +5823,7 @@
       "title": "Delete old data layer implementation code",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5835,7 +5835,7 @@
       "title": "Final documentation update and team knowledge sharing",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5848,7 +5848,7 @@
       "type": "Spike",
       "column_hours": {
         "Ready for Dev": 66.52,
-        "New": 4175.37
+        "New": 4175.7
       },
       "warnings": [
         "Column 'Backlog' not on current board \u2014 visit excluded",
@@ -5863,7 +5863,7 @@
         "New": 1202.71,
         "Ready for Dev": 24.0,
         "In Development": 116.87,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5874,7 +5874,7 @@
       "title": "Remove from saved event not being triggered",
       "type": "Bug",
       "column_hours": {
-        "New": 4075.65
+        "New": 4075.98
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-02-20): capped at now (2026-08-09)"
@@ -5887,7 +5887,7 @@
       "column_hours": {
         "New": 139.33,
         "In Development": 265.6,
-        "Closed": 3670.64
+        "Closed": 3670.96
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-03-09): capped at now (2026-08-09)"
@@ -5898,7 +5898,7 @@
       "title": "Improve Datalayer event description",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3981.03,
+        "New": 3981.35,
         "Ready for Dev": 0.0
       },
       "warnings": [
@@ -5910,7 +5910,7 @@
       "title": "Investigate the not initialized state when there is no initial interaction with the consent banner",
       "type": "Bug",
       "column_hours": {
-        "New": 3647.05
+        "New": 3647.38
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-09)"
@@ -5924,7 +5924,7 @@
         "New": 3.39,
         "In Development": 0.0,
         "In Review": 1131.38,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5937,7 +5937,7 @@
       "column_hours": {
         "New": 0.0,
         "In Development": 1057.26,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -5948,7 +5948,7 @@
       "title": "PDP - Add pushToDataLayerWrapper",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3811.39
+        "New": 3811.71
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-09)"
@@ -5959,7 +5959,7 @@
       "title": "pushToDataLayerSitechromeWrapper causes unhandled rejection during SSR",
       "type": "Bug",
       "column_hours": {
-        "New": 3810.92
+        "New": 3811.24
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-09)"
@@ -5976,7 +5976,7 @@
         "External Review": 0.9,
         "Ready for QA": 67.27,
         "QA": 175.03,
-        "Closed": 3264.0
+        "Closed": 3264.32
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-03-26): capped at now (2026-08-09)"
@@ -5987,7 +5987,7 @@
       "title": "Ensure new descriptions from add_to_cart are in ADE and Atlan",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3790.63,
+        "New": 3790.95,
         "In Development": 0.01,
         "Ready for Dev": 0.0
       },
@@ -6003,7 +6003,7 @@
         "New": 0.02,
         "In Development": 985.16,
         "Ready for Dev": 24.32,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -6014,7 +6014,7 @@
       "title": "SCHEMA - update existing schemas to allow",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3647.05
+        "New": 3647.38
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-09)"
@@ -6025,7 +6025,7 @@
       "title": "PDP - add notify_me_button_load event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3667.09,
+        "New": 3667.41,
         "Ready for Dev": 0.0
       },
       "warnings": [
@@ -6037,7 +6037,7 @@
       "title": "SavedList - add notify_me_button_load event",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3666.65,
+        "New": 3666.98,
         "Ready for Dev": 0.0
       },
       "warnings": [
@@ -6056,7 +6056,7 @@
         "Ready for QA": 0.0,
         "QA": 94.48,
         "Ready for release": 726.63,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -6074,7 +6074,7 @@
         "External Review": 4.73,
         "Ready for QA": 19.31,
         "QA": 5.01,
-        "Ready for release": 67.69
+        "Ready for release": 68.02
       },
       "warnings": [
         "Open visit in 'Ready for release' (entered 2026-08-06): capped at now (2026-08-09)"
@@ -6092,7 +6092,7 @@
         "Ready for QA": 165.54,
         "QA": 174.32,
         "Ready for release": 1.29,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -6106,7 +6106,7 @@
         "New": 21.86,
         "Ready for Dev": 3.65,
         "In Development": 360.26,
-        "Closed": 2777.81
+        "Closed": 2778.14
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-09)"
@@ -6117,7 +6117,7 @@
       "title": "Invstigate New Relic alerting for missing eVar204 values in Adobe requests",
       "type": "Spike",
       "column_hours": {
-        "New": 2736.51
+        "New": 2736.84
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-04-17): capped at now (2026-08-09)"
@@ -6128,7 +6128,7 @@
       "title": "Failed event - purchase, begin_checkout, add_payment_info - negative discount",
       "type": "Bug",
       "column_hours": {
-        "New": 2662.77
+        "New": 2663.1
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-04-20): capped at now (2026-08-09)"
@@ -6139,7 +6139,7 @@
       "title": "User_id's being set to Nil in Mixpanel",
       "type": "Bug",
       "column_hours": {
-        "New": 2274.46
+        "New": 2274.79
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-06): capped at now (2026-08-09)"
@@ -6150,7 +6150,7 @@
       "title": "Add page_type and page_id to asos-web-two-step-unsubscribe",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 2155.47,
+        "New": 2155.8,
         "In Development": 0.94
       },
       "warnings": [
@@ -6163,7 +6163,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 1560.72,
-        "Closed": 594.57
+        "Closed": 594.9
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-09)"
@@ -6179,7 +6179,7 @@
         "In Development": 93.81,
         "In Review": 22.44,
         "External Review": 3.56,
-        "Ready for QA": 261.14
+        "Ready for QA": 261.47
       },
       "warnings": [
         "Open visit in 'Ready for QA' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6190,7 +6190,7 @@
       "title": "Experiment_Started event is incorrect in the ADE Ingest Contract",
       "type": "Bug",
       "column_hours": {
-        "New": 1434.26,
+        "New": 1434.59,
         "Ready for Dev": 0.0,
         "In Development": 320.81,
         "In Review": 25.69,
@@ -6207,7 +6207,7 @@
       "title": "Resolve '\"@asosteam/asos-web-mixpanel\" dependency is missing' errors",
       "type": "Bug",
       "column_hours": {
-        "New": 1728.02
+        "New": 1728.34
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-09)"
@@ -6218,7 +6218,7 @@
       "title": "[TBC] PDP - Push view_item_list events for remaining recommendation carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1723.03
+        "New": 1723.36
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-09)"
@@ -6229,7 +6229,7 @@
       "title": "Landing page - push product_component_impression event to datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1441.56
+        "New": 1441.88
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-09)"
@@ -6248,7 +6248,7 @@
         "Ready for QA": 124.91,
         "QA": 283.31,
         "Ready for release": 31.78,
-        "Closed": 255.22
+        "Closed": 255.54
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-09)"
@@ -6267,7 +6267,7 @@
         "Ready for QA": 0.0,
         "QA": 162.58,
         "Ready for release": 3.38,
-        "Closed": 261.14
+        "Closed": 261.46
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6286,7 +6286,7 @@
         "Ready for QA": 0.0,
         "QA": 192.7,
         "Ready for release": 188.62,
-        "Closed": 405.24
+        "Closed": 405.56
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-23): capped at now (2026-08-09)"
@@ -6302,7 +6302,7 @@
         "In Development": 172.45,
         "In Review": 162.57,
         "External Review": 100.01,
-        "Ready for QA": 45.16
+        "Ready for QA": 45.48
       },
       "warnings": [
         "Open visit in 'Ready for QA' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6320,7 +6320,7 @@
         "Ready for QA": 0.0,
         "QA": 503.63,
         "Ready for release": 222.88,
-        "Closed": 258.5
+        "Closed": 258.83
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6333,7 +6333,7 @@
       "column_hours": {
         "New": 1267.92,
         "Ready for Dev": 51.3,
-        "In Development": 93.55
+        "In Development": 93.87
       },
       "warnings": [
         "Open visit in 'In Development' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6344,7 +6344,7 @@
       "title": "Build script to flatten schemas into single ADE-compatible JSON",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1412.7
+        "New": 1413.03
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-11): capped at now (2026-08-09)"
@@ -6355,7 +6355,7 @@
       "title": "Automatically detect current ADE schema version and create next minor version",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1297.36
+        "New": 1297.68
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-09)"
@@ -6366,7 +6366,7 @@
       "title": "Generate sampledata from event schemas for ADE sync and test harness",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1297.36
+        "New": 1297.68
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-09)"
@@ -6377,7 +6377,7 @@
       "title": "GitHub Action to raise PR in ADE ingest contracts repo",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1297.36
+        "New": 1297.68
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-09)"
@@ -6388,7 +6388,7 @@
       "title": "Generate human-readable change summary for PR body",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1297.36
+        "New": 1297.68
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-09)"
@@ -6399,7 +6399,7 @@
       "title": "available_components is incorrectly named in the ADE Ingest Contract",
       "type": "Bug",
       "column_hours": {
-        "New": 1389.17
+        "New": 1389.5
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-12): capped at now (2026-08-09)"
@@ -6410,7 +6410,7 @@
       "title": "Remove Mixpanel package versioning from Sitechrome and ensure ETB provides the latest version",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1320.89
+        "New": 1321.21
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-15): capped at now (2026-08-09)"
@@ -6429,7 +6429,7 @@
         "Ready for QA": 0.0,
         "QA": 24.77,
         "Ready for release": 210.24,
-        "Closed": 48.66
+        "Closed": 48.99
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6440,7 +6440,7 @@
       "title": "Log events on page failures",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1128.52
+        "New": 1128.84
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-09)"
@@ -6451,7 +6451,7 @@
       "title": "Set up alerting when a failed_event threshold is met",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1128.22
+        "New": 1128.55
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-09)"
@@ -6462,7 +6462,7 @@
       "title": "PLP - Send flexibleSalesChannel values on add_to_wishlist",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1079.12
+        "New": 1079.45
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-06-25): capped at now (2026-08-09)"
@@ -6477,7 +6477,7 @@
         "Ready for Dev": 144.97,
         "Ready for QA": 102.14,
         "QA": 208.05,
-        "Closed": 290.24
+        "Closed": 290.56
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-28): capped at now (2026-08-09)"
@@ -6496,7 +6496,7 @@
         "Ready for QA": 0.0,
         "QA": 24.51,
         "Ready for release": 48.36,
-        "Closed": 234.62
+        "Closed": 234.94
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-09)"
@@ -6513,7 +6513,7 @@
         "In Review": 234.0,
         "External Review": 17.54,
         "Ready for QA": 0.01,
-        "QA": 96.11
+        "QA": 96.44
       },
       "warnings": [
         "Open visit in 'QA' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6532,7 +6532,7 @@
         "Ready for QA": 0.09,
         "QA": 3.05,
         "Ready for release": 169.23,
-        "Closed": 66.74
+        "Closed": 67.06
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-06): capped at now (2026-08-09)"
@@ -6551,7 +6551,7 @@
         "Ready for QA": 0.0,
         "QA": 96.38,
         "Ready for release": 28.49,
-        "Closed": 116.69
+        "Closed": 117.01
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-09)"
@@ -6563,7 +6563,7 @@
       "type": "Product Backlog Item",
       "column_hours": {
         "New": 642.8,
-        "Ready for Dev": 144.86
+        "Ready for Dev": 145.19
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6582,7 +6582,7 @@
         "Ready for QA": 0.0,
         "QA": 96.38,
         "Ready for release": 28.49,
-        "Closed": 116.69
+        "Closed": 117.01
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-09)"
@@ -6593,7 +6593,7 @@
       "title": "Track view_item_list for Homepage recommendation carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 259.38
+        "New": 259.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6604,7 +6604,7 @@
       "title": "Track user interactions from Homepage recommendations",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 259.38
+        "New": 259.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6619,7 +6619,7 @@
         "Ready for Dev": 0.0,
         "In Development": 45.69,
         "In Review": 25.3,
-        "External Review": 44.89
+        "External Review": 45.22
       },
       "warnings": [
         "Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6633,7 +6633,7 @@
         "New": 714.38,
         "Ready for Dev": 0.0,
         "In Development": 28.28,
-        "External Review": 44.89
+        "External Review": 45.22
       },
       "warnings": [
         "Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6644,7 +6644,7 @@
       "title": "Detect breaking schema changes and trigger major version bump",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 409.38
+        "New": 409.71
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-09)"
@@ -6658,7 +6658,7 @@
         "New": 0.0,
         "In Development": 0.38,
         "In Review": 0.33,
-        "Closed": 624.02
+        "Closed": 624.35
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-09)"
@@ -6669,7 +6669,7 @@
       "title": "Add dependabot to asos-web-mixpanel",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 259.38
+        "New": 259.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6680,7 +6680,7 @@
       "title": "Add dependabot to asos-web-gtm",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 259.38
+        "New": 259.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6691,7 +6691,7 @@
       "title": "Add dependabot to asos-web-event-tracking-bridge",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 259.38
+        "New": 259.7
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-09)"
@@ -6707,7 +6707,7 @@
         "In Review": 5.49,
         "External Review": 67.08,
         "Ready for QA": 0.41,
-        "QA": 144.76
+        "QA": 145.09
       },
       "warnings": [
         "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6723,7 +6723,7 @@
         "In Review": 5.48,
         "External Review": 67.08,
         "Ready for QA": 0.41,
-        "QA": 144.76
+        "QA": 145.09
       },
       "warnings": [
         "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6735,7 +6735,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 387.42,
-        "Ready for Dev": 91.95
+        "Ready for Dev": 92.28
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-08-05): capped at now (2026-08-09)"
@@ -6746,7 +6746,7 @@
       "title": "Failed event - view_item and add_to_cart - No size present breaks validation",
       "type": "Bug",
       "column_hours": {
-        "New": 479.35
+        "New": 479.68
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-20): capped at now (2026-08-09)"
@@ -6762,7 +6762,7 @@
         "In Development": 23.07,
         "In Review": 50.16,
         "External Review": 185.44,
-        "Closed": 49.56
+        "Closed": 49.89
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6773,7 +6773,7 @@
       "title": "iOS - Fix Incorrect SessionID Property Capitalisation",
       "type": "Bug",
       "column_hours": {
-        "New": 403.89
+        "New": 404.22
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-09)"
@@ -6785,7 +6785,7 @@
       "type": "Product Backlog Item",
       "column_hours": {
         "New": 1.35,
-        "Ready for Dev": 283.31
+        "Ready for Dev": 283.64
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-09)"
@@ -6797,7 +6797,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 5.12,
-        "Ready for Dev": 283.31
+        "Ready for Dev": 283.64
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-09)"
@@ -6810,7 +6810,7 @@
       "column_hours": {
         "New": 1.37,
         "In Development": 70.9,
-        "Ready for release": 212.41
+        "Ready for release": 212.74
       },
       "warnings": [
         "Open visit in 'Ready for release' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6822,7 +6822,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 5.13,
-        "Ready for Dev": 212.46,
+        "Ready for Dev": 212.78,
         "In Development": 70.86
       },
       "warnings": [
@@ -6838,7 +6838,7 @@
         "Ready for Dev": 0.0,
         "Ready for release": 76.48,
         "QA": 66.36,
-        "Closed": 140.43
+        "Closed": 140.75
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6849,7 +6849,7 @@
       "title": "iOS - unexpected values in page_type",
       "type": "Bug",
       "column_hours": {
-        "New": 288.47
+        "New": 288.79
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-09)"
@@ -6860,7 +6860,7 @@
       "title": "ADE Raw event_name column has unknown event name values",
       "type": "Bug",
       "column_hours": {
-        "New": 288.5
+        "New": 288.82
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-09)"
@@ -6873,7 +6873,7 @@
       "column_hours": {
         "New": 1.08,
         "In Development": 46.04,
-        "Ready for release": 237.18
+        "Ready for release": 237.5
       },
       "warnings": [
         "Open visit in 'Ready for release' (entered 2026-07-30): capped at now (2026-08-09)"
@@ -6885,7 +6885,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 147.39,
-        "In Development": 93.23
+        "In Development": 93.55
       },
       "warnings": [
         "Open visit in 'In Development' (entered 2026-08-05): capped at now (2026-08-09)"
@@ -6896,7 +6896,7 @@
       "title": "iOS - Add Missing Ecommerce Properties",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 212.41
+        "New": 212.74
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6907,7 +6907,7 @@
       "title": "iOS - Investigate/Document All Recs Carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 212.41
+        "New": 212.74
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6921,7 +6921,7 @@
         "New": 119.06,
         "In Development": 5.86,
         "In Review": 41.23,
-        "Closed": 49.25
+        "Closed": 49.58
       },
       "warnings": [
         "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-09)"
@@ -6932,7 +6932,7 @@
       "title": "Store source recommendations request id on homepage recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 212.18
+        "New": 212.5
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6944,7 +6944,7 @@
       "type": "Bug",
       "column_hours": {
         "New": 0.0,
-        "Ready for Dev": 212.21
+        "Ready for Dev": 212.54
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6955,7 +6955,7 @@
       "title": "Update view_Item_List",
       "type": "Bug",
       "column_hours": {
-        "Ready for Dev": 212.19
+        "Ready for Dev": 212.52
       },
       "warnings": [
         "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-09)"
@@ -6966,7 +6966,7 @@
       "title": "Store source recommendations request id on bag recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 139.27
+        "New": 139.6
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6977,7 +6977,7 @@
       "title": "Store source recommendations request id on Saved Items similar-items clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 139.24
+        "New": 139.57
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6988,7 +6988,7 @@
       "title": "Store source recommendations request id on PLP recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 139.2
+        "New": 139.52
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -6999,7 +6999,7 @@
       "title": "Failed event - view_item_list - Missing product information in carousels on PDP",
       "type": "Bug",
       "column_hours": {
-        "New": 143.4
+        "New": 143.73
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-09)"
@@ -7010,7 +7010,7 @@
       "title": "PDP - Fire add_to_wishlist with source_recommendations_request_id when saving from a recommendations carousel",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 116.03
+        "New": 116.35
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-04): capped at now (2026-08-09)"
@@ -7021,7 +7021,7 @@
       "title": "Add source_recommendations_request_id to PLP add_to_wishlist event for recommended products",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 44.6
+        "New": 44.93
       },
       "warnings": [
         "Open visit in 'New' (entered 2026-08-07): capped at now (2026-08-09)"
