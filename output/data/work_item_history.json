@@ -21724,11 +21724,16 @@
       {
         "value": "External Review",
         "entered": "2026-08-03T08:48:46.577Z",
-        "left": "2026-08-07T12:49:28.5Z"
+        "left": "2026-08-10T08:46:34.783Z"
       },
       {
         "value": "Ready for QA",
-        "entered": "2026-08-07T12:49:28.5Z",
+        "entered": "2026-08-10T08:46:34.783Z",
+        "left": "2026-08-10T08:46:37.733Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-10T08:46:37.733Z",
         "left": null
       }
     ],
@@ -23662,11 +23667,21 @@
       {
         "value": "New",
         "entered": "2026-07-07T14:19:10.72Z",
-        "left": "2026-08-03T09:07:11.34Z"
+        "left": "2026-08-10T09:12:42.383Z"
       },
       {
         "value": "Ready for Dev",
-        "entered": "2026-08-03T09:07:11.34Z",
+        "entered": "2026-08-10T09:12:42.383Z",
+        "left": "2026-08-10T09:12:45.707Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-10T09:12:45.707Z",
+        "left": "2026-08-10T09:35:58.26Z"
+      },
+      {
+        "value": "Ready for Dev",
+        "entered": "2026-08-10T09:35:58.26Z",
         "left": null
       }
     ],
@@ -23674,6 +23689,16 @@
       {
         "value": "New",
         "entered": "2026-07-07T14:19:10.72Z",
+        "left": "2026-08-10T09:12:45.707Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-10T09:12:45.707Z",
+        "left": "2026-08-10T09:35:58.26Z"
+      },
+      {
+        "value": "New",
+        "entered": "2026-08-10T09:35:58.26Z",
         "left": null
       }
     ],
@@ -23685,7 +23710,13 @@
         "changed_at": "2026-07-07T14:19:10.72Z"
       }
     ],
-    "regressions": []
+    "regressions": [
+      {
+        "from_column": "In Development",
+        "to_column": "Ready for Dev",
+        "at": "2026-08-10T09:35:58.26Z"
+      }
+    ]
   },
   {
     "id": 1235572,
@@ -24279,6 +24310,11 @@
       {
         "value": "Ready for Dev",
         "entered": "2026-08-05T14:02:03.42Z",
+        "left": "2026-08-10T09:36:14.88Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-10T09:36:14.88Z",
         "left": null
       }
     ],
@@ -24286,6 +24322,11 @@
       {
         "value": "New",
         "entered": "2026-07-20T10:36:50.98Z",
+        "left": "2026-08-10T09:36:14.88Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-10T09:36:14.88Z",
         "left": null
       }
     ],
@@ -25093,6 +25134,12 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-08-03T14:44:17.657Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-10T08:43:33.51Z"
       }
     ],
     "regressions": []
