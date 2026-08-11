@@ -19972,6 +19972,16 @@
       {
         "value": "Ready for QA",
         "entered": "2026-07-29T12:50:26.257Z",
+        "left": "2026-08-10T12:59:54.557Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-10T12:59:54.557Z",
+        "left": "2026-08-11T08:36:42.287Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-11T08:36:42.287Z",
         "left": null
       }
     ],
@@ -20003,7 +20013,13 @@
       }
     ],
     "tag_history": [],
-    "regressions": []
+    "regressions": [
+      {
+        "from_column": "QA",
+        "to_column": "Ready for QA",
+        "at": "2026-08-11T08:36:42.287Z"
+      }
+    ]
   },
   {
     "id": 1213380,
@@ -22250,8 +22266,13 @@
         "left": "2026-08-07T12:31:43.29Z"
       },
       {
-        "value": "In Development",
+        "value": "Ready for Dev",
         "entered": "2026-08-07T12:31:43.29Z",
+        "left": "2026-08-10T15:31:36.39Z"
+      },
+      {
+        "value": "In Review",
+        "entered": "2026-08-10T15:31:36.39Z",
         "left": null
       }
     ],
@@ -22269,11 +22290,11 @@
       {
         "value": "New",
         "entered": "2026-08-07T12:31:43.29Z",
-        "left": "2026-08-07T12:31:43.29Z"
+        "left": "2026-08-10T15:31:36.39Z"
       },
       {
         "value": "In Progress",
-        "entered": "2026-08-07T12:31:43.29Z",
+        "entered": "2026-08-10T15:31:36.39Z",
         "left": null
       }
     ],
@@ -22291,7 +22312,13 @@
         "changed_at": "2026-07-15T14:53:03.14Z"
       }
     ],
-    "regressions": []
+    "regressions": [
+      {
+        "from_column": "In Development",
+        "to_column": "Ready for Dev",
+        "at": "2026-08-07T12:31:43.29Z"
+      }
+    ]
   },
   {
     "id": 1225388,
@@ -22387,7 +22414,13 @@
         "field": "System.Tags",
         "old_value": "",
         "new_value": "Data Layer",
-        "changed_at": "2026-07-08T08:25:42.41Z"
+        "changed_at": "2026-08-11T10:54:11.29Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-11T10:54:11.29Z"
       }
     ],
     "regressions": []
@@ -22420,7 +22453,13 @@
         "field": "System.Tags",
         "old_value": "",
         "new_value": "Data Layer",
-        "changed_at": "2026-07-08T10:04:28.36Z"
+        "changed_at": "2026-08-11T10:54:22.55Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-11T10:54:22.55Z"
       }
     ],
     "regressions": []
@@ -22453,7 +22492,13 @@
         "field": "System.Tags",
         "old_value": "",
         "new_value": "Data Layer",
-        "changed_at": "2026-07-08T10:04:33.137Z"
+        "changed_at": "2026-08-11T10:54:30.56Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-11T10:54:30.56Z"
       }
     ],
     "regressions": []
@@ -23439,6 +23484,11 @@
       {
         "value": "QA",
         "entered": "2026-08-07T09:08:59.35Z",
+        "left": "2026-08-10T11:45:53.707Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-10T11:45:53.707Z",
         "left": null
       }
     ],
@@ -23682,6 +23732,11 @@
       {
         "value": "Ready for Dev",
         "entered": "2026-08-10T09:35:58.26Z",
+        "left": "2026-08-11T09:29:07.427Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-11T09:29:07.427Z",
         "left": null
       }
     ],
@@ -23699,6 +23754,11 @@
       {
         "value": "New",
         "entered": "2026-08-10T09:35:58.26Z",
+        "left": "2026-08-11T09:29:07.427Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-11T09:29:07.427Z",
         "left": null
       }
     ],
@@ -23986,6 +24046,12 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-07-23T08:36:00.86Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-11T10:54:02.437Z"
       }
     ],
     "regressions": []
@@ -24315,6 +24381,11 @@
       {
         "value": "In Development",
         "entered": "2026-08-10T09:36:14.88Z",
+        "left": "2026-08-11T09:29:01.653Z"
+      },
+      {
+        "value": "In Review",
+        "entered": "2026-08-11T09:29:01.653Z",
         "left": null
       }
     ],
@@ -25167,6 +25238,12 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-08-03T14:46:57.033Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "Data Layer; Ready For Refinement",
+        "changed_at": "2026-08-11T10:05:44.873Z"
       }
     ],
     "regressions": []
@@ -25241,6 +25318,459 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-08-07T13:22:38.52Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248004,
+    "board_entry_date": "2026-08-10T10:16:26.167Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-10T10:16:26.167Z",
+        "left": "2026-08-10T10:16:47.813Z"
+      },
+      {
+        "value": "Ready for Dev",
+        "entered": "2026-08-10T10:16:47.813Z",
+        "left": "2026-08-10T10:29:00.743Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-10T10:29:00.743Z",
+        "left": "2026-08-10T13:39:44.513Z"
+      },
+      {
+        "value": "In Review",
+        "entered": "2026-08-10T13:39:44.513Z",
+        "left": "2026-08-10T14:44:54.19Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-10T14:44:54.19Z",
+        "left": "2026-08-10T14:44:58.213Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-10T14:44:58.213Z",
+        "left": "2026-08-11T10:37:59.253Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-11T10:37:59.253Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-10T10:16:26.167Z",
+        "left": "2026-08-10T10:29:00.743Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-10T10:29:00.743Z",
+        "left": "2026-08-10T14:44:54.19Z"
+      },
+      {
+        "value": "Resolved",
+        "entered": "2026-08-10T14:44:54.19Z",
+        "left": null
+      }
+    ],
+    "tag_history": [],
+    "regressions": []
+  },
+  {
+    "id": 1248587,
+    "board_entry_date": "2026-08-11T08:20:04.39Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:20:04.39Z",
+        "left": "2026-08-11T08:20:08.837Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-11T08:20:08.837Z",
+        "left": "2026-08-11T08:53:12.263Z"
+      },
+      {
+        "value": "In Review",
+        "entered": "2026-08-11T08:53:12.263Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:20:04.39Z",
+        "left": "2026-08-11T08:20:08.837Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-11T08:20:08.837Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "iOS Gap Analysis",
+        "changed_at": "2026-08-11T08:20:04.39Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248590,
+    "board_entry_date": "2026-08-11T08:51:24.03Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:51:24.03Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:51:24.03Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:51:24.03Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248591,
+    "board_entry_date": "2026-08-11T08:46:28.72Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:46:28.72Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:46:28.72Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:46:28.72Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248594,
+    "board_entry_date": "2026-08-11T08:40:08.38Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:40:08.38Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:40:08.38Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:40:08.38Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248595,
+    "board_entry_date": "2026-08-11T08:26:03.727Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:26:03.727Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:26:03.727Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:26:03.727Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248597,
+    "board_entry_date": "2026-08-11T08:26:38.903Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:26:38.903Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:26:38.903Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:26:38.903Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248598,
+    "board_entry_date": "2026-08-11T08:27:17.47Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:27:17.47Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:27:17.47Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:27:17.47Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248599,
+    "board_entry_date": "2026-08-11T08:28:05.633Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:28:05.633Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:28:05.633Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:28:05.633Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248610,
+    "board_entry_date": "2026-08-11T08:28:47.607Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:28:47.607Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:28:47.607Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:28:47.607Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248611,
+    "board_entry_date": "2026-08-11T08:29:18.913Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:29:18.913Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:29:18.913Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:29:18.913Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248612,
+    "board_entry_date": "2026-08-11T08:29:50.12Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:29:50.12Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:29:50.12Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:29:50.12Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248613,
+    "board_entry_date": "2026-08-11T08:30:13.75Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:13.75Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:13.75Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:30:13.75Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248614,
+    "board_entry_date": "2026-08-11T08:30:32.607Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:32.607Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:32.607Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:30:32.607Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1248615,
+    "board_entry_date": "2026-08-11T08:30:51.423Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:51.423Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T08:30:51.423Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Contentsquare",
+        "changed_at": "2026-08-11T08:30:51.423Z"
       }
     ],
     "regressions": []

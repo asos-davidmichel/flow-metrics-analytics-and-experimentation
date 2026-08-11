@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T10:11:31.925306+00:00",
-  "total_items": 340,
+  "generated_at": "2026-08-11T12:39:02.107295+00:00",
+  "total_items": 355,
   "excluded_item_ids": [
     {
       "id": 1099138,
@@ -2087,7 +2087,7 @@
     },
     "short_dwell_spans": {
       "threshold_minutes": 60,
-      "count": 200,
+      "count": 202,
       "items": [
         {
           "id": 1053521,
@@ -5530,6 +5530,46 @@
               "dwell_minutes": 0.1
             }
           ]
+        },
+        {
+          "id": 1248004,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-08-10T10:16:26.167Z",
+              "left": "2026-08-10T10:16:47.813Z",
+              "dwell_minutes": 0.4
+            },
+            {
+              "column": "Ready for Dev",
+              "entered": "2026-08-10T10:16:47.813Z",
+              "left": "2026-08-10T10:29:00.743Z",
+              "dwell_minutes": 12.2
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-10T14:44:54.19Z",
+              "left": "2026-08-10T14:44:58.213Z",
+              "dwell_minutes": 0.1
+            }
+          ]
+        },
+        {
+          "id": 1248587,
+          "short_spans": [
+            {
+              "column": "New",
+              "entered": "2026-08-11T08:20:04.39Z",
+              "left": "2026-08-11T08:20:08.837Z",
+              "dwell_minutes": 0.1
+            },
+            {
+              "column": "In Development",
+              "entered": "2026-08-11T08:20:08.837Z",
+              "left": "2026-08-11T08:53:12.263Z",
+              "dwell_minutes": 33.1
+            }
+          ]
         }
       ],
       "note": "Short dwell spans are likely accidental moves. Consider ignoring these when evaluating regressions."
@@ -5540,10 +5580,14 @@
       "note": "Items with future 'entered' timestamps produce negative days_in_current_column. Fix the source timestamp in ADO or exclude the affected column span."
     },
     "unassigned_in_progress": {
-      "count": 5,
+      "count": 6,
       "items": [
         {
-          "id": 1235570,
+          "id": 1242403,
+          "column": "Ready for Dev"
+        },
+        {
+          "id": 1242404,
           "column": "Ready for Dev"
         },
         {
@@ -5565,7 +5609,7 @@
       ]
     },
     "broken_parent_references": {
-      "count": 222,
+      "count": 236,
       "items": [
         {
           "id": 999105,
@@ -6454,6 +6498,62 @@
         {
           "id": 1247604,
           "parent_id": 1182670
+        },
+        {
+          "id": 1248587,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1248590,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248591,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248594,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248595,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248597,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248598,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248599,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248610,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248611,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248612,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248613,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248614,
+          "parent_id": 1248588
+        },
+        {
+          "id": 1248615,
+          "parent_id": 1248588
         }
       ]
     },

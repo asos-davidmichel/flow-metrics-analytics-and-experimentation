@@ -1,10 +1,10 @@
 {
   "metric": "lead_time",
-  "calculated_at": "2026-08-10T10:11:32.123079+00:00",
+  "calculated_at": "2026-08-11T12:39:02.286583+00:00",
   "window": {
-    "parameter": "6m",
-    "start": "2026-02-11T10:11:32.123079+00:00",
-    "end": "2026-08-10T10:11:32.123079+00:00"
+    "parameter": "3m",
+    "start": "2026-05-13T12:39:02.286583+00:00",
+    "end": "2026-08-11T12:39:02.286583+00:00"
   },
   "config_used": {
     "clock_start": {
@@ -135,97 +135,20 @@
     1232243,
     1232498
   ],
-  "item_count": 30,
+  "item_count": 15,
   "warnings": [
-    "Item 1077639: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1080472: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1089764: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1091162: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1091163: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1091170: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1096541: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1096549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1102420: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1102423: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1108347: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1108952: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1109015: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1109166: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1109235: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1119876: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1119878: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1122572: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1122580: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1123823: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1123884: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1128716: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1130631: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1132714: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1132717: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1132720: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1133407: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1133408: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1134081: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1135306: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1135592: Reached 'Closed' but no 'New' visit found \u2014 excluded",
     "Item 1137669: Clock start (2026-05-19) is after clock end (2026-05-18) \u2014 data anomaly; excluded",
-    "Item 1137857: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1137978: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1139563: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1140549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1142843: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1142961: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1143060: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1146745: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1149786: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1149911: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1152374: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1152549: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1153705: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1156087: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1157034: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1164765: Reached 'Closed' but no 'New' visit found \u2014 excluded",
-    "Item 1165440: Reached 'Closed' but no 'New' visit found \u2014 excluded"
+    "Item 1164765: Reached 'Closed' but no 'New' visit found \u2014 excluded"
   ],
   "overall": {
-    "n": 30,
-    "mean_days": 40.7,
-    "median_days": 39.1,
-    "p85_days": 58.2,
+    "n": 15,
+    "mean_days": 29.9,
+    "median_days": 27.3,
+    "p85_days": 48.4,
     "min_days": 0.0,
-    "max_days": 213.1
+    "max_days": 65.0
   },
   "weekly_stats": [
-    {
-      "week_start": "2026-02-16",
-      "n": 1,
-      "mean_days": 213.1,
-      "median_days": 213.1
-    },
-    {
-      "week_start": "2026-03-09",
-      "n": 1,
-      "mean_days": 16.9,
-      "median_days": 16.9
-    },
-    {
-      "week_start": "2026-03-23",
-      "n": 2,
-      "mean_days": 29.0,
-      "median_days": 29.0
-    },
-    {
-      "week_start": "2026-04-06",
-      "n": 1,
-      "mean_days": 52.2,
-      "median_days": 52.2
-    },
-    {
-      "week_start": "2026-04-13",
-      "n": 10,
-      "mean_days": 43.2,
-      "median_days": 45.7
-    },
     {
       "week_start": "2026-07-13",
       "n": 2,
@@ -252,126 +175,6 @@
     }
   ],
   "items": [
-    {
-      "id": 1091199,
-      "title": "Page TIming",
-      "type": "Product Backlog Item",
-      "lead_time_days": 213.07,
-      "started_at": "2025-07-18T08:49:51.233000+00:00",
-      "completed_at": "2026-02-16T10:26:11.120000+00:00"
-    },
-    {
-      "id": 1153269,
-      "title": "Implement Consent Status Flag in Sitechrome",
-      "type": "Product Backlog Item",
-      "lead_time_days": 58.23,
-      "started_at": "2026-02-16T10:36:32.077000+00:00",
-      "completed_at": "2026-04-15T16:10:14.390000+00:00"
-    },
-    {
-      "id": 1153270,
-      "title": "Implement Consent Status Flag in Checkout",
-      "type": "Product Backlog Item",
-      "lead_time_days": 35.96,
-      "started_at": "2026-02-16T10:36:32.077000+00:00",
-      "completed_at": "2026-03-24T09:36:14.970000+00:00"
-    },
-    {
-      "id": 1153271,
-      "title": "Implement Consent Status Flag in Identity Pages",
-      "type": "Product Backlog Item",
-      "lead_time_days": 58.23,
-      "started_at": "2026-02-16T10:36:32.077000+00:00",
-      "completed_at": "2026-04-15T16:10:14.390000+00:00"
-    },
-    {
-      "id": 1153272,
-      "title": "Implement Consent Status Flag in My Account",
-      "type": "Product Backlog Item",
-      "lead_time_days": 52.18,
-      "started_at": "2026-02-16T10:36:32.077000+00:00",
-      "completed_at": "2026-04-09T15:02:40.543000+00:00"
-    },
-    {
-      "id": 1164704,
-      "title": "Implement Consent Status Flag in 2 Step Unsubscribe",
-      "type": "Product Backlog Item",
-      "lead_time_days": 58.23,
-      "started_at": "2026-02-16T10:36:32.077000+00:00",
-      "completed_at": "2026-04-15T16:10:14.850000+00:00"
-    },
-    {
-      "id": 1172395,
-      "title": "SPIKE -  pageData",
-      "type": "Spike",
-      "lead_time_days": 55.98,
-      "started_at": "2026-02-18T16:35:30.517000+00:00",
-      "completed_at": "2026-04-15T16:10:15.727000+00:00"
-    },
-    {
-      "id": 1173818,
-      "title": "Page load server call is sent as not initiated when OneTrust cookie is delayed",
-      "type": "Bug",
-      "lead_time_days": 16.87,
-      "started_at": "2026-02-20T14:24:52.147000+00:00",
-      "completed_at": "2026-03-09T11:20:41.810000+00:00"
-    },
-    {
-      "id": 1176583,
-      "title": "ES5 build contains optional chaining causing build failures",
-      "type": "Bug",
-      "lead_time_days": 47.28,
-      "started_at": "2026-02-27T09:23:58.850000+00:00",
-      "completed_at": "2026-04-15T16:10:15.727000+00:00"
-    },
-    {
-      "id": 1177428,
-      "title": "Customer Analytics Availability SLO Fauilure",
-      "type": "Bug",
-      "lead_time_days": 44.05,
-      "started_at": "2026-03-02T14:54:50.983000+00:00",
-      "completed_at": "2026-04-15T16:10:15.727000+00:00"
-    },
-    {
-      "id": 1178724,
-      "title": "Revert Google Tag Gateway Changes",
-      "type": "Product Backlog Item",
-      "lead_time_days": 21.96,
-      "started_at": "2026-03-04T10:57:16.620000+00:00",
-      "completed_at": "2026-03-26T09:59:10.790000+00:00"
-    },
-    {
-      "id": 1178822,
-      "title": "Check if descriptions make it to the client and find out if we can exclude them",
-      "type": "Spike",
-      "lead_time_days": 42.06,
-      "started_at": "2026-03-04T14:40:45.863000+00:00",
-      "completed_at": "2026-04-15T16:10:16.283000+00:00"
-    },
-    {
-      "id": 1183760,
-      "title": "shared-libs - Resolve minified file issue",
-      "type": "Bug",
-      "lead_time_days": 36.22,
-      "started_at": "2026-03-10T10:50:47.883000+00:00",
-      "completed_at": "2026-04-15T16:10:16.283000+00:00"
-    },
-    {
-      "id": 1191895,
-      "title": "Investigate discrepancy in Consent Flags in tracked links in My Account and 2 Step Unsubscribe",
-      "type": "Bug",
-      "lead_time_days": 16.09,
-      "started_at": "2026-03-30T14:01:03.727000+00:00",
-      "completed_at": "2026-04-15T16:10:16.690000+00:00"
-    },
-    {
-      "id": 1191902,
-      "title": "Investigate discrepancy in Consent Status Flags in page views",
-      "type": "Bug",
-      "lead_time_days": 16.07,
-      "started_at": "2026-03-30T14:24:23.517000+00:00",
-      "completed_at": "2026-04-15T16:10:16.690000+00:00"
-    },
     {
       "id": 1211305,
       "title": "PLP Performance Issue",
