@@ -1,10 +1,10 @@
 {
   "metric": "time_in_columns",
-  "calculated_at": "2026-08-11T12:39:02.182630+00:00",
+  "calculated_at": "2026-08-12T10:41:03.718818+00:00",
   "window": {
     "parameter": "3m",
-    "start": "2026-05-13T12:39:02.182630+00:00",
-    "end": "2026-08-11T12:39:02.182630+00:00"
+    "start": "2026-05-14T10:41:03.718818+00:00",
+    "end": "2026-08-12T10:41:03.718818+00:00"
   },
   "source_files": [
     "output/data/work_item_history.json",
@@ -134,267 +134,266 @@
     1232243,
     1232498
   ],
-  "item_count": 259,
+  "item_count": 258,
   "warnings": [
-    "Item 999105: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1006158: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1029039: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1044484: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1053521: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1059955: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1062713: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1063313: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1077639: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1078632: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1080472: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1089190: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1089764: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1089898: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1090665: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1090671: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1090683: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1090684: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091001: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091126: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091160: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091162: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091163: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091166: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091170: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091190: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091191: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091199: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091200: Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-11)",
-    "Item 1091206: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091207: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091209: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091210: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1091541: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1092014: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1092813: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1096541: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1096547: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1096549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1098312: Open visit in 'New' (entered 2026-03-16): capped at now (2026-08-11)",
-    "Item 1098356: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1101459: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1102420: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1102423: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103329: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103333: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103334: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103335: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103336: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103337: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103338: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1103706: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1108347: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1108952: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1109015: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1109017: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)",
-    "Item 1109090: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1109163: Open visit in 'Closed' (entered 2025-10-13): capped at now (2026-08-11)",
-    "Item 1109166: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1109235: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1111818: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1115689: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1118699: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1119876: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1119878: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1119892: Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-11)",
-    "Item 1119893: Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-11)",
-    "Item 1121990: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1122562: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1122565: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1122572: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1122580: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1123823: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1123884: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1124782: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1124898: Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-11)",
-    "Item 1124900: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1127036: Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-11)",
-    "Item 1127383: Open visit in 'Closed' (entered 2025-12-03): capped at now (2026-08-11)",
-    "Item 1128397: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1128716: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1129092: Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-11)",
-    "Item 1129355: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)",
-    "Item 1129688: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1130631: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1130681: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1131289: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)",
-    "Item 1132714: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1132717: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1132720: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1133407: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1133408: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1134081: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1135089: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1135306: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1135590: Open visit in 'Closed' (entered 2025-12-10): capped at now (2026-08-11)",
-    "Item 1135592: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137669: Open visit in 'New' (entered 2026-05-19): capped at now (2026-08-11)",
-    "Item 1137670: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137671: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137672: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137673: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137674: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137675: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137857: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137860: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137862: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1137978: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1139563: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1140237: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1140549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1141398: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1141399: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1141400: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1141401: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1142843: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1142961: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1143060: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1143407: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1143412: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1143432: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1146745: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1147395: Open visit in 'Closed' (entered 2026-01-14): capped at now (2026-08-11)",
-    "Item 1147416: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)",
-    "Item 1147602: Open visit in 'New' (entered 2026-06-26): capped at now (2026-08-11)",
-    "Item 1149786: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1149911: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1152374: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1152549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1153269: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1153270: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1153271: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1153272: Open visit in 'Closed' (entered 2026-04-09): capped at now (2026-08-11)",
-    "Item 1153705: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1156087: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1157034: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1164704: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1164765: Open visit in 'Closed' (entered 2026-07-16): capped at now (2026-08-11)",
-    "Item 1165440: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1165757: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1166515: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169001: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169002: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169004: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169007: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169009: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169010: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169075: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169077: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169078: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169080: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169081: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169083: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169084: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1169546: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)",
-    "Item 1172395: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1173817: Open visit in 'New' (entered 2026-02-20): capped at now (2026-08-11)",
-    "Item 1173818: Open visit in 'Closed' (entered 2026-03-09): capped at now (2026-08-11)",
-    "Item 1175154: Open visit in 'New' (entered 2026-02-27): capped at now (2026-08-11)",
-    "Item 1175947: Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-11)",
-    "Item 1176583: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1177428: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1177917: Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-11)",
-    "Item 1178069: Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-11)",
-    "Item 1178724: Open visit in 'Closed' (entered 2026-03-26): capped at now (2026-08-11)",
-    "Item 1178746: Open visit in 'New' (entered 2026-03-04): capped at now (2026-08-11)",
-    "Item 1178822: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1182716: Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-11)",
-    "Item 1182728: Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-11)",
-    "Item 1182729: Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-11)",
-    "Item 1183760: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1190683: Open visit in 'Ready for release' (entered 2026-08-06): capped at now (2026-08-11)",
-    "Item 1191895: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1191902: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)",
-    "Item 1200360: Open visit in 'New' (entered 2026-04-17): capped at now (2026-08-11)",
-    "Item 1202307: Open visit in 'New' (entered 2026-04-20): capped at now (2026-08-11)",
-    "Item 1209289: Open visit in 'New' (entered 2026-05-06): capped at now (2026-08-11)",
-    "Item 1211181: Open visit in 'New' (entered 2026-05-11): capped at now (2026-08-11)",
-    "Item 1211305: Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-11)",
-    "Item 1212553: Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1216360: Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-11)",
-    "Item 1219722: Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-11)",
-    "Item 1220222: Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-11)",
-    "Item 1224501: Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-11)",
-    "Item 1224502: Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-11)",
-    "Item 1224504: Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1224505: Open visit in 'Closed' (entered 2026-07-23): capped at now (2026-08-11)",
-    "Item 1224507: Open visit in 'QA' (entered 2026-08-10): capped at now (2026-08-11)",
-    "Item 1224665: Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1225384: Open visit in 'In Review' (entered 2026-08-10): capped at now (2026-08-11)",
-    "Item 1225388: Open visit in 'New' (entered 2026-06-11): capped at now (2026-08-11)",
-    "Item 1225389: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)",
-    "Item 1225390: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)",
-    "Item 1225393: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)",
-    "Item 1225394: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)",
-    "Item 1225814: Open visit in 'New' (entered 2026-06-12): capped at now (2026-08-11)",
-    "Item 1226050: Open visit in 'New' (entered 2026-06-15): capped at now (2026-08-11)",
-    "Item 1229879: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1229881: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)",
-    "Item 1229892: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)",
-    "Item 1230940: Open visit in 'New' (entered 2026-06-25): capped at now (2026-08-11)",
-    "Item 1234360: Open visit in 'Closed' (entered 2026-07-28): capped at now (2026-08-11)",
-    "Item 1234363: Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-11)",
-    "Item 1235564: Open visit in 'Ready for release' (entered 2026-08-10): capped at now (2026-08-11)",
-    "Item 1235567: Open visit in 'Closed' (entered 2026-08-06): capped at now (2026-08-11)",
-    "Item 1235569: Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-11)",
-    "Item 1235570: Open visit in 'In Development' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1235572: Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-11)",
-    "Item 1235575: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1235578: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1235581: Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1235582: Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1235844: Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-11)",
-    "Item 1235960: Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-11)",
-    "Item 1235961: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1235962: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1235963: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)",
-    "Item 1237447: Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1237448: Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1240640: Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1240641: Open visit in 'New' (entered 2026-07-20): capped at now (2026-08-11)",
-    "Item 1241120: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1242400: Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-11)",
-    "Item 1242403: Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-11)",
-    "Item 1242404: Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-11)",
-    "Item 1242405: Open visit in 'Ready for release' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1242588: Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1243080: Open visit in 'Closed' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1243090: Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-11)",
-    "Item 1243096: Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-11)",
-    "Item 1243815: Open visit in 'Ready for release' (entered 2026-07-30): capped at now (2026-08-11)",
-    "Item 1244470: Open visit in 'In Development' (entered 2026-08-05): capped at now (2026-08-11)",
-    "Item 1244628: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1244909: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1245086: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1245550: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1245551: Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1245552: Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)",
-    "Item 1245554: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1245556: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1245558: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1245799: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)",
-    "Item 1245941: Open visit in 'New' (entered 2026-08-04): capped at now (2026-08-11)",
-    "Item 1247604: Open visit in 'New' (entered 2026-08-07): capped at now (2026-08-11)",
-    "Item 1248004: Open visit in 'Ready for release' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248587: Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248590: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248591: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248594: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248595: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248597: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248598: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248599: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248610: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248611: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248612: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248613: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248614: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)",
-    "Item 1248615: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+    "Item 999105: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1006158: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1029039: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1044484: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1053521: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1059955: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1062713: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1063313: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1077639: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1078632: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1080472: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1089190: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1089764: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1089898: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1090665: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1090671: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1090683: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1090684: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091001: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091126: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091160: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091162: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091163: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091166: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091170: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091190: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091191: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091199: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091200: Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-12)",
+    "Item 1091206: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091207: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091209: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091210: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1091541: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1092014: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1092813: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1096541: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1096547: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1096549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1098312: Open visit in 'New' (entered 2026-03-16): capped at now (2026-08-12)",
+    "Item 1098356: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1101459: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1102420: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1102423: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103329: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103333: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103334: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103335: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103336: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103337: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103338: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1103706: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1108347: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1108952: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1109015: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1109017: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)",
+    "Item 1109090: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1109163: Open visit in 'Closed' (entered 2025-10-13): capped at now (2026-08-12)",
+    "Item 1109166: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1109235: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1111818: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1115689: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1118699: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1119876: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1119878: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1119892: Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-12)",
+    "Item 1119893: Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-12)",
+    "Item 1121990: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1122562: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1122565: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1122572: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1122580: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1123823: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1123884: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1124782: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1124898: Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-12)",
+    "Item 1124900: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1127036: Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-12)",
+    "Item 1127383: Open visit in 'Closed' (entered 2025-12-03): capped at now (2026-08-12)",
+    "Item 1128397: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1128716: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1129092: Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-12)",
+    "Item 1129355: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)",
+    "Item 1129688: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1130631: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1130681: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1131289: Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)",
+    "Item 1132714: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1132717: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1132720: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1133407: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1133408: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1134081: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1135089: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1135306: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1135590: Open visit in 'Closed' (entered 2025-12-10): capped at now (2026-08-12)",
+    "Item 1135592: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137669: Open visit in 'New' (entered 2026-05-19): capped at now (2026-08-12)",
+    "Item 1137670: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137671: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137672: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137673: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137674: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137675: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137857: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137860: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137862: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1137978: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1139563: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1140237: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1140549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1141398: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1141399: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1141400: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1141401: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1142843: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1142961: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1143060: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1143407: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1143412: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1143432: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1146745: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1147395: Open visit in 'Closed' (entered 2026-01-14): capped at now (2026-08-12)",
+    "Item 1147416: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)",
+    "Item 1147602: Open visit in 'New' (entered 2026-06-26): capped at now (2026-08-12)",
+    "Item 1149786: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1149911: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1152374: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1152549: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1153269: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1153270: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1153271: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1153272: Open visit in 'Closed' (entered 2026-04-09): capped at now (2026-08-12)",
+    "Item 1153705: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1156087: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1157034: Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1164704: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1164765: Open visit in 'Closed' (entered 2026-07-16): capped at now (2026-08-12)",
+    "Item 1165440: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1165757: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1166515: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169001: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169002: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169004: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169007: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169009: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169010: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169075: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169077: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169078: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169080: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169081: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169083: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169084: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1169546: Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)",
+    "Item 1172395: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1173817: Open visit in 'New' (entered 2026-02-20): capped at now (2026-08-12)",
+    "Item 1173818: Open visit in 'Closed' (entered 2026-03-09): capped at now (2026-08-12)",
+    "Item 1175154: Open visit in 'New' (entered 2026-02-27): capped at now (2026-08-12)",
+    "Item 1175947: Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-12)",
+    "Item 1176583: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1177428: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1177917: Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-12)",
+    "Item 1178069: Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-12)",
+    "Item 1178724: Open visit in 'Closed' (entered 2026-03-26): capped at now (2026-08-12)",
+    "Item 1178746: Open visit in 'New' (entered 2026-03-04): capped at now (2026-08-12)",
+    "Item 1178822: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1182716: Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-12)",
+    "Item 1182728: Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-12)",
+    "Item 1182729: Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-12)",
+    "Item 1183760: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1190683: Open visit in 'Ready for release' (entered 2026-08-06): capped at now (2026-08-12)",
+    "Item 1191895: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1191902: Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)",
+    "Item 1200360: Open visit in 'New' (entered 2026-04-17): capped at now (2026-08-12)",
+    "Item 1202307: Open visit in 'New' (entered 2026-04-20): capped at now (2026-08-12)",
+    "Item 1209289: Open visit in 'New' (entered 2026-05-06): capped at now (2026-08-12)",
+    "Item 1211181: Open visit in 'New' (entered 2026-05-11): capped at now (2026-08-12)",
+    "Item 1211305: Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-12)",
+    "Item 1212553: Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1216360: Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-12)",
+    "Item 1219722: Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-12)",
+    "Item 1220222: Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-12)",
+    "Item 1224501: Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-12)",
+    "Item 1224502: Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-12)",
+    "Item 1224504: Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1224505: Open visit in 'Closed' (entered 2026-07-23): capped at now (2026-08-12)",
+    "Item 1224507: Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1224665: Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1225384: Open visit in 'In Development' (entered 2026-08-12): capped at now (2026-08-12)",
+    "Item 1225388: Open visit in 'New' (entered 2026-06-11): capped at now (2026-08-12)",
+    "Item 1225389: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)",
+    "Item 1225390: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)",
+    "Item 1225393: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)",
+    "Item 1225394: Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)",
+    "Item 1225814: Open visit in 'New' (entered 2026-06-12): capped at now (2026-08-12)",
+    "Item 1226050: Open visit in 'New' (entered 2026-06-15): capped at now (2026-08-12)",
+    "Item 1229879: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)",
+    "Item 1229881: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)",
+    "Item 1229892: Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)",
+    "Item 1230940: Open visit in 'New' (entered 2026-06-25): capped at now (2026-08-12)",
+    "Item 1234360: Open visit in 'Closed' (entered 2026-07-28): capped at now (2026-08-12)",
+    "Item 1234363: Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-12)",
+    "Item 1235564: Open visit in 'Ready for release' (entered 2026-08-10): capped at now (2026-08-12)",
+    "Item 1235567: Open visit in 'Closed' (entered 2026-08-06): capped at now (2026-08-12)",
+    "Item 1235569: Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-12)",
+    "Item 1235570: Open visit in 'In Development' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1235572: Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-12)",
+    "Item 1235575: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1235578: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1235581: Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-12)",
+    "Item 1235582: Open visit in 'External Review' (entered 2026-08-12): capped at now (2026-08-12)",
+    "Item 1235844: Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-12)",
+    "Item 1235960: Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-12)",
+    "Item 1235961: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1235962: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1235963: Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)",
+    "Item 1237447: Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1237448: Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1240640: Open visit in 'External Review' (entered 2026-08-12): capped at now (2026-08-12)",
+    "Item 1240641: Open visit in 'New' (entered 2026-07-20): capped at now (2026-08-12)",
+    "Item 1241120: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)",
+    "Item 1242400: Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-12)",
+    "Item 1242403: Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-12)",
+    "Item 1242405: Open visit in 'Ready for release' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1242588: Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1243080: Open visit in 'Closed' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1243090: Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-12)",
+    "Item 1243096: Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-12)",
+    "Item 1243815: Open visit in 'Ready for release' (entered 2026-07-30): capped at now (2026-08-12)",
+    "Item 1244470: Open visit in 'In Development' (entered 2026-08-05): capped at now (2026-08-12)",
+    "Item 1244628: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1244909: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1245086: Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)",
+    "Item 1245550: Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1245551: Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-12)",
+    "Item 1245554: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1245556: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1245558: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1245799: Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)",
+    "Item 1245941: Open visit in 'New' (entered 2026-08-04): capped at now (2026-08-12)",
+    "Item 1247604: Open visit in 'New' (entered 2026-08-07): capped at now (2026-08-12)",
+    "Item 1248004: Open visit in 'Ready for release' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248587: Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248590: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248591: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248594: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248595: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248597: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248598: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248599: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248610: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248611: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248612: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248613: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248614: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1248615: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)",
+    "Item 1249541: Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
   ],
   "columns": [
     {
@@ -402,8 +401,8 @@
       "column_type": "incoming",
       "order": 0,
       "n": 182,
-      "total_hours": 254816.2,
-      "mean_hours": 1400.09,
+      "total_hours": 255881.53,
+      "mean_hours": 1405.94,
       "median_hours": 2160.0,
       "items": [
         {
@@ -986,109 +985,109 @@
           "id": 1127036,
           "title": "Add onChange callback to datalayer",
           "type": "Product Backlog Item",
-          "hours": 2109.18
+          "hours": 2131.21
         },
         {
           "id": 1129092,
           "title": "view_article_list - Customer care",
           "type": "Product Backlog Item",
-          "hours": 2109.17
+          "hours": 2131.21
         },
         {
           "id": 1137669,
           "title": "Middleware currently builds a syncronous queue",
           "type": "Product Backlog Item",
-          "hours": 2018.24
-        },
-        {
-          "id": 1190683,
-          "title": "Failed event - view_item_list breadCrumb property failing validation",
-          "type": "Bug",
-          "hours": 1964.48
+          "hours": 2040.28
         },
         {
           "id": 1147416,
           "title": "PDP - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 1946.95
+          "hours": 1968.98
+        },
+        {
+          "id": 1190683,
+          "title": "Failed event - view_item_list breadCrumb property failing validation",
+          "type": "Bug",
+          "hours": 1942.44
         },
         {
           "id": 1219722,
           "title": "Resolve '\"@asosteam/asos-web-mixpanel\" dependency is missing' errors",
           "type": "Bug",
-          "hours": 1778.69
+          "hours": 1800.72
         },
         {
           "id": 1220222,
           "title": "[TBC] PDP - Push view_item_list events for remaining recommendation carousels",
           "type": "Product Backlog Item",
-          "hours": 1773.7
+          "hours": 1795.74
         },
         {
           "id": 1212553,
           "title": "Test Events are being pushed to the Mixpanel Prod Container",
           "type": "Bug",
-          "hours": 1699.93
-        },
-        {
-          "id": 1211305,
-          "title": "PLP Performance Issue",
-          "type": "Bug",
-          "hours": 1514.76
+          "hours": 1678.07
         },
         {
           "id": 1224501,
           "title": "Landing page - push product_component_impression event to datalayer",
           "type": "Product Backlog Item",
-          "hours": 1492.23
+          "hours": 1514.26
         },
         {
           "id": 1216360,
           "title": "Experiment_Started event is incorrect in the ADE Ingest Contract",
           "type": "Bug",
-          "hours": 1484.93
+          "hours": 1506.96
+        },
+        {
+          "id": 1211305,
+          "title": "PLP Performance Issue",
+          "type": "Bug",
+          "hours": 1492.72
         },
         {
           "id": 1225388,
           "title": "Build script to flatten schemas into single ADE-compatible JSON",
           "type": "Product Backlog Item",
-          "hours": 1463.37
+          "hours": 1485.4
         },
         {
           "id": 1225814,
           "title": "available_components is incorrectly named in the ADE Ingest Contract",
           "type": "Bug",
-          "hours": 1439.84
+          "hours": 1461.87
         },
         {
           "id": 1226050,
           "title": "Remove Mixpanel package versioning from Sitechrome and ensure ETB provides the latest version",
           "type": "Product Backlog Item",
-          "hours": 1371.56
+          "hours": 1393.59
         },
         {
           "id": 1225389,
           "title": "Automatically detect current ADE schema version and create next minor version",
           "type": "Product Backlog Item",
-          "hours": 1348.03
+          "hours": 1370.06
         },
         {
           "id": 1225390,
           "title": "Generate sampledata from event schemas for ADE sync and test harness",
           "type": "Product Backlog Item",
-          "hours": 1348.03
+          "hours": 1370.06
         },
         {
           "id": 1225393,
           "title": "GitHub Action to raise PR in ADE ingest contracts repo",
           "type": "Product Backlog Item",
-          "hours": 1348.03
+          "hours": 1370.06
         },
         {
           "id": 1225394,
           "title": "Generate human-readable change summary for PR body",
           "type": "Product Backlog Item",
-          "hours": 1348.03
+          "hours": 1370.06
         },
         {
           "id": 1225384,
@@ -1100,25 +1099,25 @@
           "id": 1147602,
           "title": "Bag - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 1220.48
+          "hours": 1242.51
         },
         {
           "id": 1229881,
           "title": "Log events on page failures",
           "type": "Product Backlog Item",
-          "hours": 1179.19
+          "hours": 1201.22
         },
         {
           "id": 1229892,
           "title": "Set up alerting when a failed_event threshold is met",
           "type": "Product Backlog Item",
-          "hours": 1178.89
+          "hours": 1200.93
         },
         {
           "id": 1230940,
           "title": "PLP - Send flexibleSalesChannel values on add_to_wishlist",
           "type": "Product Backlog Item",
-          "hours": 1129.79
+          "hours": 1151.82
         },
         {
           "id": 1224507,
@@ -1142,7 +1141,7 @@
           "id": 1240641,
           "title": "Failed event - view_item and add_to_cart - No size present breaks validation",
           "type": "Bug",
-          "hours": 530.02
+          "hours": 552.06
         },
         {
           "id": 1235581,
@@ -1154,13 +1153,13 @@
           "id": 1235844,
           "title": "Detect breaking schema changes and trigger major version bump",
           "type": "Product Backlog Item",
-          "hours": 460.05
+          "hours": 482.08
         },
         {
           "id": 1242400,
           "title": "iOS - Fix Incorrect SessionID Property Capitalisation",
           "type": "Bug",
-          "hours": 454.56
+          "hours": 476.6
         },
         {
           "id": 1240640,
@@ -1172,13 +1171,43 @@
           "id": 1243096,
           "title": "ADE Raw event_name column has unknown event name values",
           "type": "Bug",
-          "hours": 339.17
+          "hours": 361.2
         },
         {
           "id": 1243090,
           "title": "iOS - unexpected values in page_type",
           "type": "Bug",
-          "hours": 339.14
+          "hours": 361.17
+        },
+        {
+          "id": 1235575,
+          "title": "Track view_item_list for Homepage recommendation carousels",
+          "type": "Product Backlog Item",
+          "hours": 332.08
+        },
+        {
+          "id": 1235578,
+          "title": "Track user interactions from Homepage recommendations",
+          "type": "Product Backlog Item",
+          "hours": 332.08
+        },
+        {
+          "id": 1235961,
+          "title": "Add dependabot to asos-web-mixpanel",
+          "type": "Product Backlog Item",
+          "hours": 332.08
+        },
+        {
+          "id": 1235962,
+          "title": "Add dependabot to asos-web-gtm",
+          "type": "Product Backlog Item",
+          "hours": 332.08
+        },
+        {
+          "id": 1235963,
+          "title": "Add dependabot to asos-web-event-tracking-bridge",
+          "type": "Product Backlog Item",
+          "hours": 332.08
         },
         {
           "id": 1235567,
@@ -1193,36 +1222,6 @@
           "hours": 318.15
         },
         {
-          "id": 1235575,
-          "title": "Track view_item_list for Homepage recommendation carousels",
-          "type": "Product Backlog Item",
-          "hours": 310.05
-        },
-        {
-          "id": 1235578,
-          "title": "Track user interactions from Homepage recommendations",
-          "type": "Product Backlog Item",
-          "hours": 310.05
-        },
-        {
-          "id": 1235961,
-          "title": "Add dependabot to asos-web-mixpanel",
-          "type": "Product Backlog Item",
-          "hours": 310.05
-        },
-        {
-          "id": 1235962,
-          "title": "Add dependabot to asos-web-gtm",
-          "type": "Product Backlog Item",
-          "hours": 310.05
-        },
-        {
-          "id": 1235963,
-          "title": "Add dependabot to asos-web-event-tracking-bridge",
-          "type": "Product Backlog Item",
-          "hours": 310.05
-        },
-        {
           "id": 1234363,
           "title": "Checkout - Test sourceId and SellerId is implemented correctly",
           "type": "Product Backlog Item",
@@ -1235,40 +1234,58 @@
           "hours": 286.74
         },
         {
+          "id": 1244628,
+          "title": "iOS - Add Missing Ecommerce Properties",
+          "type": "Product Backlog Item",
+          "hours": 285.11
+        },
+        {
+          "id": 1244909,
+          "title": "iOS - Investigate/Document All Recs Carousels",
+          "type": "Product Backlog Item",
+          "hours": 285.11
+        },
+        {
+          "id": 1245550,
+          "title": "Store source recommendations request id on homepage recommendation clicks",
+          "type": "Product Backlog Item",
+          "hours": 284.88
+        },
+        {
           "id": 1224502,
           "title": "PDP - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 283.96
         },
         {
-          "id": 1244628,
-          "title": "iOS - Add Missing Ecommerce Properties",
-          "type": "Product Backlog Item",
-          "hours": 263.08
+          "id": 1245799,
+          "title": "Failed event - view_item_list - Missing product information in carousels on PDP",
+          "type": "Bug",
+          "hours": 216.11
         },
         {
-          "id": 1244909,
-          "title": "iOS - Investigate/Document All Recs Carousels",
+          "id": 1245554,
+          "title": "Store source recommendations request id on bag recommendation clicks",
           "type": "Product Backlog Item",
-          "hours": 263.08
+          "hours": 211.97
         },
         {
-          "id": 1245550,
-          "title": "Store source recommendations request id on homepage recommendation clicks",
+          "id": 1245556,
+          "title": "Store source recommendations request id on Saved Items similar-items clicks",
           "type": "Product Backlog Item",
-          "hours": 262.85
+          "hours": 211.95
+        },
+        {
+          "id": 1245558,
+          "title": "Store source recommendations request id on PLP recommendation clicks",
+          "type": "Product Backlog Item",
+          "hours": 211.9
         },
         {
           "id": 1235572,
           "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
           "type": "Product Backlog Item",
           "hours": 209.87
-        },
-        {
-          "id": 1245799,
-          "title": "Failed event - view_item_list - Missing product information in carousels on PDP",
-          "type": "Bug",
-          "hours": 194.07
         },
         {
           "id": 1237448,
@@ -1283,34 +1300,16 @@
           "hours": 190.59
         },
         {
-          "id": 1245554,
-          "title": "Store source recommendations request id on bag recommendation clicks",
+          "id": 1245941,
+          "title": "PDP - Fire add_to_wishlist with source_recommendations_request_id when saving from a recommendations carousel",
           "type": "Product Backlog Item",
-          "hours": 189.94
-        },
-        {
-          "id": 1245556,
-          "title": "Store source recommendations request id on Saved Items similar-items clicks",
-          "type": "Product Backlog Item",
-          "hours": 189.91
-        },
-        {
-          "id": 1245558,
-          "title": "Store source recommendations request id on PLP recommendation clicks",
-          "type": "Product Backlog Item",
-          "hours": 189.87
+          "hours": 188.73
         },
         {
           "id": 1235569,
           "title": "Track view_item_list for Bag recommendation carousel",
           "type": "Product Backlog Item",
           "hours": 186.5
-        },
-        {
-          "id": 1245941,
-          "title": "PDP - Fire add_to_wishlist with source_recommendations_request_id when saving from a recommendations carousel",
-          "type": "Product Backlog Item",
-          "hours": 166.7
         },
         {
           "id": 1224504,
@@ -1343,16 +1342,16 @@
           "hours": 119.06
         },
         {
+          "id": 1247604,
+          "title": "Add source_recommendations_request_id to PLP add_to_wishlist event for recommended products",
+          "type": "Product Backlog Item",
+          "hours": 117.31
+        },
+        {
           "id": 1224505,
           "title": "PLP - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 114.43
-        },
-        {
-          "id": 1247604,
-          "title": "Add source_recommendations_request_id to PLP add_to_wishlist event for recommended products",
-          "type": "Product Backlog Item",
-          "hours": 95.27
         },
         {
           "id": 1243080,
@@ -1361,94 +1360,94 @@
           "hours": 26.67
         },
         {
-          "id": 1242588,
-          "title": "iOS - Investigate Null/Nil Page_Type Properties",
-          "type": "Bug",
-          "hours": 5.13
-        },
-        {
-          "id": 1242404,
-          "title": "iOS - Add NotifyMeButtonClick Missing Property",
-          "type": "Bug",
-          "hours": 5.12
-        },
-        {
           "id": 1248595,
           "title": "Update automated-test repos' data-cs-mask selectors",
           "type": "Product Backlog Item",
-          "hours": 4.22
+          "hours": 26.25
         },
         {
           "id": 1248597,
           "title": "Remove Contentsquare from the GTM / storefront (www) container",
           "type": "Product Backlog Item",
-          "hours": 4.21
+          "hours": 26.24
         },
         {
           "id": 1248598,
           "title": "Source-disable Contentsquare centrally + bake",
           "type": "Product Backlog Item",
-          "hours": 4.2
+          "hours": 26.23
         },
         {
           "id": 1248599,
           "title": "Retire asos-web-content-square (repo + pipeline)",
           "type": "Product Backlog Item",
-          "hours": 4.18
+          "hours": 26.22
         },
         {
           "id": 1248610,
           "title": "Remove asos-web-martech-content-square from asos-web-libraries",
           "type": "Product Backlog Item",
-          "hours": 4.17
+          "hours": 26.2
         },
         {
           "id": 1248611,
           "title": "Update asos-web-datalayer customVariables schema",
           "type": "Product Backlog Item",
-          "hours": 4.16
-        },
-        {
-          "id": 1248612,
-          "title": "Remove Contentsquare CSP allow-list entries",
-          "type": "Product Backlog Item",
-          "hours": 4.15
+          "hours": 26.2
         },
         {
           "id": 1248613,
           "title": "Update monitoring deny-lists",
           "type": "Product Backlog Item",
-          "hours": 4.15
+          "hours": 26.18
         },
         {
           "id": 1248614,
           "title": "Update catalog / finance / data references",
           "type": "Product Backlog Item",
-          "hours": 4.14
+          "hours": 26.18
         },
         {
           "id": 1248615,
           "title": "Documentation & Confluence cleanup",
           "type": "Product Backlog Item",
-          "hours": 4.14
+          "hours": 26.17
         },
         {
           "id": 1248594,
           "title": "Remove Contentsquare from identity-pages",
           "type": "Product Backlog Item",
-          "hours": 3.98
+          "hours": 26.02
         },
         {
           "id": 1248591,
           "title": "Remove Contentsquare from my-account",
           "type": "Product Backlog Item",
-          "hours": 3.88
+          "hours": 25.91
         },
         {
           "id": 1248590,
           "title": "Remove Contentsquare from checkout",
           "type": "Product Backlog Item",
-          "hours": 3.79
+          "hours": 25.83
+        },
+        {
+          "id": 1249541,
+          "title": "Add PR check to enforce existence of changelog and semver",
+          "type": "Product Backlog Item",
+          "hours": 20.63
+        },
+        {
+          "id": 1248612,
+          "title": "Remove Contentsquare CSP allow-list entries",
+          "type": "Product Backlog Item",
+          "hours": 18.27
+        },
+        {
+          "id": 1242588,
+          "title": "iOS - Investigate Null/Nil Page_Type Properties",
+          "type": "Bug",
+          "hours": 5.13
         },
         {
           "id": 1242405,
@@ -1504,40 +1503,28 @@
       "name": "Ready for Dev",
       "column_type": "inProgress",
       "order": 1,
-      "n": 29,
-      "total_hours": 2771.83,
-      "mean_hours": 95.58,
-      "median_hours": 23.89,
+      "n": 27,
+      "total_hours": 2219.07,
+      "mean_hours": 82.19,
+      "median_hours": 6.83,
       "items": [
         {
           "id": 1242403,
           "title": "iOS - Add Missing ViewItemList Properties",
           "type": "Product Backlog Item",
-          "hours": 333.98
-        },
-        {
-          "id": 1242404,
-          "title": "iOS - Add NotifyMeButtonClick Missing Property",
-          "type": "Bug",
-          "hours": 333.98
+          "hours": 356.02
         },
         {
           "id": 1242588,
           "title": "iOS - Investigate Null/Nil Page_Type Properties",
           "type": "Bug",
-          "hours": 263.13
+          "hours": 285.16
         },
         {
           "id": 1245551,
           "title": "notify_me_button_click add component_name",
           "type": "Bug",
-          "hours": 262.88
-        },
-        {
-          "id": 1245552,
-          "title": "Update view_Item_List",
-          "type": "Bug",
-          "hours": 262.86
+          "hours": 284.92
         },
         {
           "id": 1224504,
@@ -1549,7 +1536,7 @@
           "id": 1147416,
           "title": "PDP - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 212.93
+          "hours": 190.9
         },
         {
           "id": 1229879,
@@ -1690,9 +1677,9 @@
       "column_type": "inProgress",
       "order": 2,
       "n": 34,
-      "total_hours": 2865.14,
-      "mean_hours": 84.27,
-      "median_hours": 47.06,
+      "total_hours": 2958.26,
+      "mean_hours": 87.01,
+      "median_hours": 46.47,
       "items": [
         {
           "id": 1216360,
@@ -1734,7 +1721,7 @@
           "id": 1244470,
           "title": "purchase event missing session id on all platforms",
           "type": "Bug",
-          "hours": 143.9
+          "hours": 165.93
         },
         {
           "id": 1235564,
@@ -1767,6 +1754,12 @@
           "hours": 93.81
         },
         {
+          "id": 1225384,
+          "title": "Add Mixpanel super properties schema for ADE sync",
+          "type": "Product Backlog Item",
+          "hours": 91.25
+        },
+        {
           "id": 1242405,
           "title": "iOS - PageData Firing Rework",
           "type": "Product Backlog Item",
@@ -1785,16 +1778,10 @@
           "hours": 53.6
         },
         {
-          "id": 1129092,
-          "title": "view_article_list - Customer care",
-          "type": "Product Backlog Item",
-          "hours": 50.83
-        },
-        {
-          "id": 1225384,
-          "title": "Add Mixpanel super properties schema for ADE sync",
-          "type": "Product Backlog Item",
-          "hours": 48.09
+          "id": 1240640,
+          "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
+          "type": "Bug",
+          "hours": 46.89
         },
         {
           "id": 1243815,
@@ -1833,22 +1820,28 @@
           "hours": 30.83
         },
         {
+          "id": 1129092,
+          "title": "view_article_list - Customer care",
+          "type": "Product Backlog Item",
+          "hours": 28.79
+        },
+        {
           "id": 1235582,
           "title": "Track source_recommendations_request_id for Saved Items interactions",
           "type": "Product Backlog Item",
           "hours": 28.28
         },
         {
+          "id": 1235570,
+          "title": "Add PR Policies to Analytics Engineering Owned Repos",
+          "type": "Product Backlog Item",
+          "hours": 25.59
+        },
+        {
           "id": 1235569,
           "title": "Track view_item_list for Bag recommendation carousel",
           "type": "Product Backlog Item",
           "hours": 25.1
-        },
-        {
-          "id": 1240640,
-          "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
-          "type": "Bug",
-          "hours": 23.88
         },
         {
           "id": 1164765,
@@ -1869,22 +1862,16 @@
           "hours": 5.86
         },
         {
-          "id": 1235570,
-          "title": "Add PR Policies to Analytics Engineering Owned Repos",
+          "id": 1248587,
+          "title": "iOS - SessionID De-Capitalisation",
           "type": "Product Backlog Item",
-          "hours": 3.55
+          "hours": 5.47
         },
         {
           "id": 1248004,
           "title": "Failed event - view_item_list - /breadCrumb pattern fails expected values",
           "type": "Bug",
           "hours": 3.18
-        },
-        {
-          "id": 1248587,
-          "title": "iOS - SessionID De-Capitalisation",
-          "type": "Product Backlog Item",
-          "hours": 0.55
         },
         {
           "id": 1235960,
@@ -1904,16 +1891,16 @@
       "name": "In Review",
       "column_type": "inProgress",
       "order": 3,
-      "n": 26,
-      "total_hours": 2545.87,
-      "mean_hours": 97.92,
-      "median_hours": 33.46,
+      "n": 25,
+      "total_hours": 2610.27,
+      "mean_hours": 104.41,
+      "median_hours": 41.23,
       "items": [
         {
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
-          "hours": 980.38
+          "hours": 958.35
         },
         {
           "id": 1235564,
@@ -1952,6 +1939,12 @@
           "hours": 125.16
         },
         {
+          "id": 1235582,
+          "title": "Track source_recommendations_request_id for Saved Items interactions",
+          "type": "Product Backlog Item",
+          "hours": 115.64
+        },
+        {
           "id": 1224505,
           "title": "PLP - Push product_component_impression event",
           "type": "Product Backlog Item",
@@ -1962,12 +1955,6 @@
           "title": "PDP - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 82.34
-        },
-        {
-          "id": 1127036,
-          "title": "Add onChange callback to datalayer",
-          "type": "Product Backlog Item",
-          "hours": 50.82
         },
         {
           "id": 1241120,
@@ -1986,6 +1973,12 @@
           "title": "$app_version_string missing from all iOS events in ADE",
           "type": "Bug",
           "hours": 41.23
+        },
+        {
+          "id": 1127036,
+          "title": "Add onChange callback to datalayer",
+          "type": "Product Backlog Item",
+          "hours": 28.79
         },
         {
           "id": 1216360,
@@ -2012,16 +2005,16 @@
           "hours": 22.44
         },
         {
-          "id": 1225384,
-          "title": "Add Mixpanel super properties schema for ADE sync",
-          "type": "Product Backlog Item",
-          "hours": 21.12
-        },
-        {
           "id": 1224504,
           "title": "BAG - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 20.91
+        },
+        {
+          "id": 1248587,
+          "title": "iOS - SessionID De-Capitalisation",
+          "type": "Product Backlog Item",
+          "hours": 20.87
         },
         {
           "id": 1237447,
@@ -2034,18 +2027,6 @@
           "title": "Track view_item_list with recommendations_request_id for Search pages",
           "type": "Product Backlog Item",
           "hours": 5.48
-        },
-        {
-          "id": 1248587,
-          "title": "iOS - SessionID De-Capitalisation",
-          "type": "Product Backlog Item",
-          "hours": 3.76
-        },
-        {
-          "id": 1240640,
-          "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
-          "type": "Bug",
-          "hours": 3.17
         },
         {
           "id": 1248004,
@@ -2071,16 +2052,16 @@
       "name": "External Review",
       "column_type": "inProgress",
       "order": 4,
-      "n": 22,
-      "total_hours": 2120.96,
-      "mean_hours": 96.41,
-      "median_hours": 60.32,
+      "n": 23,
+      "total_hours": 2029.53,
+      "mean_hours": 88.24,
+      "median_hours": 41.93,
       "items": [
         {
           "id": 1147602,
           "title": "Bag - Extend view_item to cover Badges",
           "type": "Product Backlog Item",
-          "hours": 558.71
+          "hours": 536.67
         },
         {
           "id": 1241120,
@@ -2122,13 +2103,7 @@
           "id": 1235581,
           "title": "Track view_item_list for Similar Items recommendations",
           "type": "Product Backlog Item",
-          "hours": 95.56
-        },
-        {
-          "id": 1235582,
-          "title": "Track source_recommendations_request_id for Saved Items interactions",
-          "type": "Product Backlog Item",
-          "hours": 95.56
+          "hours": 117.59
         },
         {
           "id": 1237447,
@@ -2203,6 +2178,18 @@
           "hours": 3.56
         },
         {
+          "id": 1240640,
+          "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
+          "type": "Bug",
+          "hours": 2.19
+        },
+        {
+          "id": 1235582,
+          "title": "Track source_recommendations_request_id for Saved Items interactions",
+          "type": "Product Backlog Item",
+          "hours": 1.95
+        },
+        {
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
@@ -2215,27 +2202,21 @@
       "column_type": "inProgress",
       "order": 5,
       "n": 21,
-      "total_hours": 801.78,
-      "mean_hours": 38.18,
-      "median_hours": 0.01,
+      "total_hours": 823.35,
+      "mean_hours": 39.21,
+      "median_hours": 0.09,
       "items": [
         {
           "id": 1212553,
           "title": "Test Events are being pushed to the Mixpanel Prod Container",
           "type": "Bug",
-          "hours": 292.2
+          "hours": 314.23
         },
         {
           "id": 1224502,
           "title": "PDP - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 124.91
-        },
-        {
-          "id": 1137669,
-          "title": "Middleware currently builds a syncronous queue",
-          "type": "Product Backlog Item",
-          "hours": 122.73
         },
         {
           "id": 1147602,
@@ -2248,6 +2229,18 @@
           "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
           "type": "Product Backlog Item",
           "hours": 102.14
+        },
+        {
+          "id": 1137669,
+          "title": "Middleware currently builds a syncronous queue",
+          "type": "Product Backlog Item",
+          "hours": 100.7
+        },
+        {
+          "id": 1224507,
+          "title": "Saved List - Push product_component_impression event",
+          "type": "Product Backlog Item",
+          "hours": 21.57
         },
         {
           "id": 1190683,
@@ -2304,12 +2297,6 @@
           "hours": 0.0
         },
         {
-          "id": 1224507,
-          "title": "Saved List - Push product_component_impression event",
-          "type": "Product Backlog Item",
-          "hours": 0.0
-        },
-        {
           "id": 1224665,
           "title": "PLP client side navigation is not updating super properties and not firing pageData event",
           "type": "Bug",
@@ -2352,8 +2339,8 @@
       "column_type": "inProgress",
       "order": 6,
       "n": 21,
-      "total_hours": 2383.14,
-      "mean_hours": 113.48,
+      "total_hours": 2427.69,
+      "mean_hours": 115.6,
       "median_hours": 88.44,
       "items": [
         {
@@ -2369,22 +2356,22 @@
           "hours": 283.31
         },
         {
-          "id": 1234360,
-          "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
-          "type": "Product Backlog Item",
-          "hours": 208.05
-        },
-        {
           "id": 1237447,
           "title": "Track view_item_list with recommendations_request_id for Category pages",
           "type": "Product Backlog Item",
-          "hours": 195.43
+          "hours": 217.47
         },
         {
           "id": 1237448,
           "title": "Track view_item_list with recommendations_request_id for Search pages",
           "type": "Product Backlog Item",
-          "hours": 195.43
+          "hours": 217.47
+        },
+        {
+          "id": 1234360,
+          "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
+          "type": "Product Backlog Item",
+          "hours": 208.05
         },
         {
           "id": 1224505,
@@ -2438,7 +2425,7 @@
           "id": 1224507,
           "title": "Saved List - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 27.87
+          "hours": 28.34
         },
         {
           "id": 1229879,
@@ -2489,9 +2476,9 @@
       "column_type": "inProgress",
       "order": 7,
       "n": 16,
-      "total_hours": 2187.82,
-      "mean_hours": 136.74,
-      "median_hours": 97.42,
+      "total_hours": 2297.97,
+      "mean_hours": 143.62,
+      "median_hours": 108.44,
       "items": [
         {
           "id": 1164765,
@@ -2503,13 +2490,13 @@
           "id": 1243815,
           "title": "iOS - Ecommerce itemID Property Fix",
           "type": "Bug",
-          "hours": 287.85
+          "hours": 309.88
         },
         {
           "id": 1242405,
           "title": "iOS - PageData Firing Rework",
           "type": "Product Backlog Item",
-          "hours": 263.08
+          "hours": 285.11
         },
         {
           "id": 1224665,
@@ -2539,7 +2526,7 @@
           "id": 1190683,
           "title": "Failed event - view_item_list breadCrumb property failing validation",
           "type": "Bug",
-          "hours": 118.36
+          "hours": 140.39
         },
         {
           "id": 1243080,
@@ -2552,6 +2539,12 @@
           "title": "Checkout - Test sourceId and SellerId is implemented correctly",
           "type": "Product Backlog Item",
           "hours": 48.36
+        },
+        {
+          "id": 1235564,
+          "title": "Capture recommendation request ID on Product Details Page",
+          "type": "Product Backlog Item",
+          "hours": 46.92
         },
         {
           "id": 1224502,
@@ -2572,22 +2565,16 @@
           "hours": 28.49
         },
         {
-          "id": 1235564,
-          "title": "Capture recommendation request ID on Product Details Page",
-          "type": "Product Backlog Item",
-          "hours": 24.89
+          "id": 1248004,
+          "title": "Failed event - view_item_list - /breadCrumb pattern fails expected values",
+          "type": "Bug",
+          "hours": 24.05
         },
         {
           "id": 1224504,
           "title": "BAG - Push product_component_impression event",
           "type": "Product Backlog Item",
           "hours": 3.38
-        },
-        {
-          "id": 1248004,
-          "title": "Failed event - view_item_list - /breadCrumb pattern fails expected values",
-          "type": "Bug",
-          "hours": 2.02
         }
       ]
     },
@@ -2596,8 +2583,8 @@
       "column_type": "outgoing",
       "order": 8,
       "n": 92,
-      "total_hours": 166895.97,
-      "mean_hours": 1814.09,
+      "total_hours": 167248.51,
+      "mean_hours": 1817.92,
       "median_hours": 2160.0,
       "items": [
         {
@@ -3054,97 +3041,97 @@
           "id": 1235960,
           "title": "Add dependabot to asos-web-datalayer",
           "type": "Product Backlog Item",
-          "hours": 674.69
+          "hours": 696.73
         },
         {
           "id": 1211305,
           "title": "PLP Performance Issue",
           "type": "Bug",
-          "hours": 645.24
+          "hours": 667.28
         },
         {
           "id": 1164765,
           "title": "Investigate datalayer GTM event sequence",
           "type": "Bug",
-          "hours": 624.35
+          "hours": 646.39
         },
         {
           "id": 1224505,
           "title": "PLP - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 455.91
+          "hours": 477.94
         },
         {
           "id": 1234360,
           "title": "SiteChrome - Test sourceId and sellerId are implemeneted correctly on siteChrome apps",
           "type": "Product Backlog Item",
-          "hours": 340.91
+          "hours": 362.94
         },
         {
           "id": 1224504,
           "title": "BAG - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 311.81
+          "hours": 333.84
         },
         {
           "id": 1224665,
           "title": "PLP client side navigation is not updating super properties and not firing pageData event",
           "type": "Bug",
-          "hours": 309.17
+          "hours": 331.21
         },
         {
           "id": 1224502,
           "title": "PDP - Push product_component_impression event",
           "type": "Product Backlog Item",
-          "hours": 305.89
+          "hours": 327.92
         },
         {
           "id": 1234363,
           "title": "Checkout - Test sourceId and SellerId is implemented correctly",
           "type": "Product Backlog Item",
-          "hours": 285.29
+          "hours": 307.32
         },
         {
           "id": 1243080,
           "title": "UUIDs sent instead of SKUs in add_to_cart on Android",
           "type": "Bug",
-          "hours": 191.1
+          "hours": 213.13
         },
         {
           "id": 1235569,
           "title": "Track view_item_list for Bag recommendation carousel",
           "type": "Product Backlog Item",
-          "hours": 167.36
+          "hours": 189.39
         },
         {
           "id": 1235572,
           "title": "Add source_recommendations_request_id to add_to_wishlist in Bag",
           "type": "Product Backlog Item",
-          "hours": 167.36
+          "hours": 189.39
         },
         {
           "id": 1235567,
           "title": "Track view_item_list for PDP recommendation carousels",
           "type": "Product Backlog Item",
-          "hours": 117.41
+          "hours": 139.44
         },
         {
           "id": 1241120,
           "title": "ADE - Update product_component_impression schema to also include recently viewed",
           "type": "Product Backlog Item",
-          "hours": 100.23
+          "hours": 122.26
         },
         {
           "id": 1245086,
           "title": "$app_version_string missing from all iOS events in ADE",
           "type": "Bug",
-          "hours": 99.92
+          "hours": 121.96
         },
         {
           "id": 1229879,
           "title": "Failed event - pageData - Missing hashed first and last name - missing",
           "type": "Bug",
-          "hours": 99.33
+          "hours": 121.37
         },
         {
           "id": 1137669,
@@ -3164,7 +3151,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3175,7 +3162,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3186,7 +3173,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3197,7 +3184,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3208,7 +3195,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3219,7 +3206,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3230,7 +3217,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3241,7 +3228,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3252,7 +3239,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3263,7 +3250,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3274,7 +3261,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3285,7 +3272,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3296,7 +3283,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3307,7 +3294,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3318,7 +3305,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3329,7 +3316,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3340,7 +3327,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3351,7 +3338,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3362,7 +3349,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3373,7 +3360,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3384,7 +3371,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3395,7 +3382,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3406,7 +3393,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3417,7 +3404,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3428,7 +3415,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3439,7 +3426,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3450,7 +3437,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3461,7 +3448,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3472,7 +3459,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3483,7 +3470,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3494,7 +3481,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3505,7 +3492,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3516,7 +3503,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3527,7 +3514,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3538,7 +3525,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3549,7 +3536,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3560,7 +3547,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3571,7 +3558,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3582,7 +3569,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3593,7 +3580,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3604,7 +3591,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3615,7 +3602,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3626,7 +3613,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3637,7 +3624,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3648,7 +3635,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3659,7 +3646,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3670,7 +3657,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3681,7 +3668,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3692,7 +3679,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3703,7 +3690,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3714,7 +3701,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3725,7 +3712,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3736,7 +3723,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3747,7 +3734,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3758,7 +3745,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3769,7 +3756,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3780,7 +3767,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3791,7 +3778,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2025-10-13): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2025-10-13): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3802,7 +3789,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3813,7 +3800,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3824,7 +3811,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3835,7 +3822,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3846,7 +3833,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3857,7 +3844,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3868,7 +3855,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3879,7 +3866,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3890,7 +3877,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2025-10-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3901,7 +3888,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3912,7 +3899,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3923,7 +3910,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3934,7 +3921,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3945,7 +3932,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3956,7 +3943,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3967,7 +3954,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3978,7 +3965,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -3989,7 +3976,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4000,7 +3987,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4008,11 +3995,11 @@
       "title": "Add onChange callback to datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Review": 50.82,
-        "New": 2109.18
+        "In Review": 28.79,
+        "New": 2131.21
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4023,7 +4010,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2025-12-03): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2025-12-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4034,7 +4021,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4045,7 +4032,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4053,11 +4040,11 @@
       "title": "view_article_list - Customer care",
       "type": "Product Backlog Item",
       "column_hours": {
-        "In Development": 50.83,
-        "New": 2109.17
+        "In Development": 28.79,
+        "New": 2131.21
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4068,7 +4055,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4079,7 +4066,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4090,7 +4077,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4101,7 +4088,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4112,7 +4099,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4123,7 +4110,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4134,7 +4121,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4145,7 +4132,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4156,7 +4143,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4167,7 +4154,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4178,7 +4165,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4189,7 +4176,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4200,7 +4187,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4211,7 +4198,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2025-12-10): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2025-12-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4222,7 +4209,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4230,13 +4217,13 @@
       "title": "Middleware currently builds a syncronous queue",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for QA": 122.73,
+        "Ready for QA": 100.7,
         "Closed": 0.0,
         "External Review": 19.03,
-        "New": 2018.24
+        "New": 2040.28
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-19): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-19): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4247,7 +4234,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4258,7 +4245,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4269,7 +4256,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4280,7 +4267,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4291,7 +4278,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4302,7 +4289,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4313,7 +4300,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4324,7 +4311,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4335,7 +4322,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4346,7 +4333,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4357,7 +4344,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4368,7 +4355,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4379,7 +4366,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4390,7 +4377,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4401,7 +4388,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4412,7 +4399,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4423,7 +4410,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4434,7 +4421,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4445,7 +4432,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4456,7 +4443,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4467,7 +4454,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4478,7 +4465,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4489,7 +4476,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4500,7 +4487,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4511,7 +4498,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-01-14): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-01-14): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4519,12 +4506,12 @@
       "title": "PDP - Extend view_item to cover Badges",
       "type": "Product Backlog Item",
       "column_hours": {
-        "Ready for Dev": 212.93,
-        "New": 1946.95,
+        "Ready for Dev": 190.9,
+        "New": 1968.98,
         "In Development": 0.12
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4532,15 +4519,15 @@
       "title": "Bag - Extend view_item to cover Badges",
       "type": "Product Backlog Item",
       "column_hours": {
-        "External Review": 558.71,
-        "New": 1220.48,
+        "External Review": 536.67,
+        "New": 1242.51,
         "Ready for Dev": 73.83,
         "Ready for QA": 122.34,
         "QA": 88.44,
         "In Development": 96.21
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-26): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-26): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4551,7 +4538,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4562,7 +4549,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4573,7 +4560,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4584,7 +4571,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4595,7 +4582,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4606,7 +4593,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4617,7 +4604,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4628,7 +4615,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-09): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-09): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4639,7 +4626,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4650,7 +4637,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4661,7 +4648,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4672,7 +4659,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4680,16 +4667,16 @@
       "title": "Investigate datalayer GTM event sequence",
       "type": "Bug",
       "column_hours": {
-        "In Review": 980.38,
+        "In Review": 958.35,
         "In Development": 23.74,
         "Ready for QA": 0.0,
         "QA": 47.85,
         "External Review": 0.0,
         "Ready for release": 483.67,
-        "Closed": 624.35
+        "Closed": 646.39
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-16): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4700,7 +4687,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4711,7 +4698,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4722,7 +4709,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4733,7 +4720,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4744,7 +4731,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4755,7 +4742,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4766,7 +4753,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4777,7 +4764,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4788,7 +4775,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4799,7 +4786,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4810,7 +4797,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4821,7 +4808,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4832,7 +4819,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4843,7 +4830,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4854,7 +4841,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4865,7 +4852,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4876,7 +4863,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4887,7 +4874,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4898,7 +4885,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-20): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-20): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4909,7 +4896,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-03-09): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-03-09): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4920,7 +4907,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-02-27): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-02-27): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4931,7 +4918,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4942,7 +4929,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4953,7 +4940,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4964,7 +4951,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4975,7 +4962,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4986,7 +4973,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-03-26): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-03-26): capped at now (2026-08-12)"
       ]
     },
     {
@@ -4997,7 +4984,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-04): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-04): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5008,7 +4995,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5019,7 +5006,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5030,7 +5017,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5041,7 +5028,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-03-24): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5052,7 +5039,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5060,17 +5047,17 @@
       "title": "Failed event - view_item_list breadCrumb property failing validation",
       "type": "Bug",
       "column_hours": {
-        "New": 1964.48,
+        "New": 1942.44,
         "Ready for Dev": 4.69,
         "In Development": 42.43,
         "In Review": 0.98,
         "External Review": 4.73,
         "Ready for QA": 19.31,
         "QA": 5.01,
-        "Ready for release": 118.36
+        "Ready for release": 140.39
       },
       "warnings": [
-        "Open visit in 'Ready for release' (entered 2026-08-06): capped at now (2026-08-11)"
+        "Open visit in 'Ready for release' (entered 2026-08-06): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5081,7 +5068,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5092,7 +5079,7 @@
         "Closed": 2160.0
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-04-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5103,7 +5090,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-04-17): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-04-17): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5114,7 +5101,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-04-20): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-04-20): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5125,7 +5112,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-06): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-06): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5136,7 +5123,7 @@
         "New": 2160.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5144,11 +5131,11 @@
       "title": "PLP Performance Issue",
       "type": "Bug",
       "column_hours": {
-        "New": 1514.76,
-        "Closed": 645.24
+        "New": 1492.72,
+        "Closed": 667.28
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5156,16 +5143,16 @@
       "title": "Test Events are being pushed to the Mixpanel Prod Container",
       "type": "Bug",
       "column_hours": {
-        "New": 1699.93,
+        "New": 1678.07,
         "Ready for Dev": 28.27,
         "In Development": 93.81,
         "In Review": 22.44,
         "External Review": 3.56,
-        "Ready for QA": 292.2,
+        "Ready for QA": 314.23,
         "QA": 19.61
       },
       "warnings": [
-        "Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5173,7 +5160,7 @@
       "title": "Experiment_Started event is incorrect in the ADE Ingest Contract",
       "type": "Bug",
       "column_hours": {
-        "New": 1484.93,
+        "New": 1506.96,
         "Ready for Dev": 0.0,
         "In Development": 320.81,
         "In Review": 25.69,
@@ -5182,7 +5169,7 @@
         "QA": 0.0
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5190,10 +5177,10 @@
       "title": "Resolve '\"@asosteam/asos-web-mixpanel\" dependency is missing' errors",
       "type": "Bug",
       "column_hours": {
-        "New": 1778.69
+        "New": 1800.72
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5201,10 +5188,10 @@
       "title": "[TBC] PDP - Push view_item_list events for remaining recommendation carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1773.7
+        "New": 1795.74
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-05-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5212,10 +5199,10 @@
       "title": "Landing page - push product_component_impression event to datalayer",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1492.23
+        "New": 1514.26
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5231,10 +5218,10 @@
         "Ready for QA": 124.91,
         "QA": 283.31,
         "Ready for release": 31.78,
-        "Closed": 305.89
+        "Closed": 327.92
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5250,10 +5237,10 @@
         "Ready for QA": 0.0,
         "QA": 162.58,
         "Ready for release": 3.38,
-        "Closed": 311.81
+        "Closed": 333.84
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5269,10 +5256,10 @@
         "Ready for QA": 0.0,
         "QA": 192.7,
         "Ready for release": 188.62,
-        "Closed": 455.91
+        "Closed": 477.94
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-23): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5285,11 +5272,11 @@
         "In Development": 172.45,
         "In Review": 162.57,
         "External Review": 167.96,
-        "Ready for QA": 0.0,
-        "QA": 27.87
+        "Ready for QA": 21.57,
+        "QA": 28.34
       },
       "warnings": [
-        "Open visit in 'QA' (entered 2026-08-10): capped at now (2026-08-11)"
+        "Open visit in 'Ready for QA' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5304,10 +5291,10 @@
         "Ready for QA": 0.0,
         "QA": 503.63,
         "Ready for release": 222.88,
-        "Closed": 309.17
+        "Closed": 331.21
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5317,11 +5304,10 @@
       "column_hours": {
         "New": 1267.92,
         "Ready for Dev": 126.3,
-        "In Development": 48.09,
-        "In Review": 21.12
+        "In Development": 91.25
       },
       "warnings": [
-        "Open visit in 'In Review' (entered 2026-08-10): capped at now (2026-08-11)"
+        "Open visit in 'In Development' (entered 2026-08-12): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5329,10 +5315,10 @@
       "title": "Build script to flatten schemas into single ADE-compatible JSON",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1463.37
+        "New": 1485.4
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5340,10 +5326,10 @@
       "title": "Automatically detect current ADE schema version and create next minor version",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1348.03
+        "New": 1370.06
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5351,10 +5337,10 @@
       "title": "Generate sampledata from event schemas for ADE sync and test harness",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1348.03
+        "New": 1370.06
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5362,10 +5348,10 @@
       "title": "GitHub Action to raise PR in ADE ingest contracts repo",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1348.03
+        "New": 1370.06
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5373,10 +5359,10 @@
       "title": "Generate human-readable change summary for PR body",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1348.03
+        "New": 1370.06
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-16): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5384,10 +5370,10 @@
       "title": "available_components is incorrectly named in the ADE Ingest Contract",
       "type": "Bug",
       "column_hours": {
-        "New": 1439.84
+        "New": 1461.87
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-12): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-12): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5395,10 +5381,10 @@
       "title": "Remove Mixpanel package versioning from Sitechrome and ensure ETB provides the latest version",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1371.56
+        "New": 1393.59
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-15): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5414,10 +5400,10 @@
         "Ready for QA": 0.0,
         "QA": 24.77,
         "Ready for release": 210.24,
-        "Closed": 99.33
+        "Closed": 121.37
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5425,10 +5411,10 @@
       "title": "Log events on page failures",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1179.19
+        "New": 1201.22
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5436,10 +5422,10 @@
       "title": "Set up alerting when a failed_event threshold is met",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1178.89
+        "New": 1200.93
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5447,10 +5433,10 @@
       "title": "PLP - Send flexibleSalesChannel values on add_to_wishlist",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 1129.79
+        "New": 1151.82
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-06-25): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-06-25): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5462,10 +5448,10 @@
         "Ready for Dev": 144.97,
         "Ready for QA": 102.14,
         "QA": 208.05,
-        "Closed": 340.91
+        "Closed": 362.94
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-28): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5481,10 +5467,10 @@
         "Ready for QA": 0.0,
         "QA": 24.51,
         "Ready for release": 48.36,
-        "Closed": 285.29
+        "Closed": 307.32
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-30): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5499,10 +5485,10 @@
         "External Review": 17.54,
         "Ready for QA": 0.01,
         "QA": 121.9,
-        "Ready for release": 24.89
+        "Ready for release": 46.92
       },
       "warnings": [
-        "Open visit in 'Ready for release' (entered 2026-08-10): capped at now (2026-08-11)"
+        "Open visit in 'Ready for release' (entered 2026-08-10): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5518,10 +5504,10 @@
         "Ready for QA": 0.09,
         "QA": 3.05,
         "Ready for release": 169.23,
-        "Closed": 117.41
+        "Closed": 139.44
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-06): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-06): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5537,10 +5523,10 @@
         "Ready for QA": 0.0,
         "QA": 96.38,
         "Ready for release": 28.49,
-        "Closed": 167.36
+        "Closed": 189.39
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5550,10 +5536,10 @@
       "column_hours": {
         "New": 810.89,
         "Ready for Dev": 23.89,
-        "In Development": 3.55
+        "In Development": 25.59
       },
       "warnings": [
-        "Open visit in 'In Development' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'In Development' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5569,10 +5555,10 @@
         "Ready for QA": 0.0,
         "QA": 96.38,
         "Ready for release": 28.49,
-        "Closed": 167.36
+        "Closed": 189.39
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-04): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5580,10 +5566,10 @@
       "title": "Track view_item_list for Homepage recommendation carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 310.05
+        "New": 332.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5591,10 +5577,10 @@
       "title": "Track user interactions from Homepage recommendations",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 310.05
+        "New": 332.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5606,10 +5592,10 @@
         "Ready for Dev": 0.0,
         "In Development": 45.69,
         "In Review": 25.3,
-        "External Review": 95.56
+        "External Review": 117.59
       },
       "warnings": [
-        "Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5620,10 +5606,11 @@
         "New": 714.38,
         "Ready for Dev": 0.0,
         "In Development": 28.28,
-        "External Review": 95.56
+        "In Review": 115.64,
+        "External Review": 1.95
       },
       "warnings": [
-        "Open visit in 'External Review' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'External Review' (entered 2026-08-12): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5631,10 +5618,10 @@
       "title": "Detect breaking schema changes and trigger major version bump",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 460.05
+        "New": 482.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5645,10 +5632,10 @@
         "New": 0.0,
         "In Development": 0.38,
         "In Review": 0.33,
-        "Closed": 674.69
+        "Closed": 696.73
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-07-15): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5656,10 +5643,10 @@
       "title": "Add dependabot to asos-web-mixpanel",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 310.05
+        "New": 332.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5667,10 +5654,10 @@
       "title": "Add dependabot to asos-web-gtm",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 310.05
+        "New": 332.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5678,10 +5665,10 @@
       "title": "Add dependabot to asos-web-event-tracking-bridge",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 310.05
+        "New": 332.08
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-29): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5694,10 +5681,10 @@
         "In Review": 5.49,
         "External Review": 67.08,
         "Ready for QA": 0.41,
-        "QA": 195.43
+        "QA": 217.47
       },
       "warnings": [
-        "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5710,10 +5697,10 @@
         "In Review": 5.48,
         "External Review": 67.08,
         "Ready for QA": 0.41,
-        "QA": 195.43
+        "QA": 217.47
       },
       "warnings": [
-        "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'QA' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5723,11 +5710,11 @@
       "column_hours": {
         "New": 387.42,
         "Ready for Dev": 115.57,
-        "In Development": 23.88,
-        "In Review": 3.17
+        "In Development": 46.89,
+        "External Review": 2.19
       },
       "warnings": [
-        "Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'External Review' (entered 2026-08-12): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5735,10 +5722,10 @@
       "title": "Failed event - view_item and add_to_cart - No size present breaks validation",
       "type": "Bug",
       "column_hours": {
-        "New": 530.02
+        "New": 552.06
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-20): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-20): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5751,10 +5738,10 @@
         "In Development": 23.07,
         "In Review": 50.16,
         "External Review": 185.44,
-        "Closed": 100.23
+        "Closed": 122.26
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5762,10 +5749,10 @@
       "title": "iOS - Fix Incorrect SessionID Property Capitalisation",
       "type": "Bug",
       "column_hours": {
-        "New": 454.56
+        "New": 476.6
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-23): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5774,22 +5761,10 @@
       "type": "Product Backlog Item",
       "column_hours": {
         "New": 1.35,
-        "Ready for Dev": 333.98
+        "Ready for Dev": 356.02
       },
       "warnings": [
-        "Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-11)"
-      ]
-    },
-    {
-      "id": 1242404,
-      "title": "iOS - Add NotifyMeButtonClick Missing Property",
-      "type": "Bug",
-      "column_hours": {
-        "New": 5.12,
-        "Ready for Dev": 333.98
-      },
-      "warnings": [
-        "Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-11)"
+        "Open visit in 'Ready for Dev' (entered 2026-07-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5799,10 +5774,10 @@
       "column_hours": {
         "New": 1.37,
         "In Development": 70.9,
-        "Ready for release": 263.08
+        "Ready for release": 285.11
       },
       "warnings": [
-        "Open visit in 'Ready for release' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'Ready for release' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5811,11 +5786,11 @@
       "type": "Bug",
       "column_hours": {
         "New": 5.13,
-        "Ready for Dev": 263.13,
+        "Ready for Dev": 285.16,
         "In Development": 70.86
       },
       "warnings": [
-        "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5827,10 +5802,10 @@
         "Ready for Dev": 0.0,
         "Ready for release": 76.48,
         "QA": 66.36,
-        "Closed": 191.1
+        "Closed": 213.13
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5838,10 +5813,10 @@
       "title": "iOS - unexpected values in page_type",
       "type": "Bug",
       "column_hours": {
-        "New": 339.14
+        "New": 361.17
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5849,10 +5824,10 @@
       "title": "ADE Raw event_name column has unknown event name values",
       "type": "Bug",
       "column_hours": {
-        "New": 339.17
+        "New": 361.2
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-28): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5862,10 +5837,10 @@
       "column_hours": {
         "New": 1.08,
         "In Development": 46.04,
-        "Ready for release": 287.85
+        "Ready for release": 309.88
       },
       "warnings": [
-        "Open visit in 'Ready for release' (entered 2026-07-30): capped at now (2026-08-11)"
+        "Open visit in 'Ready for release' (entered 2026-07-30): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5874,10 +5849,10 @@
       "type": "Bug",
       "column_hours": {
         "New": 147.39,
-        "In Development": 143.9
+        "In Development": 165.93
       },
       "warnings": [
-        "Open visit in 'In Development' (entered 2026-08-05): capped at now (2026-08-11)"
+        "Open visit in 'In Development' (entered 2026-08-05): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5885,10 +5860,10 @@
       "title": "iOS - Add Missing Ecommerce Properties",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 263.08
+        "New": 285.11
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5896,10 +5871,10 @@
       "title": "iOS - Investigate/Document All Recs Carousels",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 263.08
+        "New": 285.11
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5910,10 +5885,10 @@
         "New": 119.06,
         "In Development": 5.86,
         "In Review": 41.23,
-        "Closed": 99.92
+        "Closed": 121.96
       },
       "warnings": [
-        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'Closed' (entered 2026-08-07): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5921,10 +5896,10 @@
       "title": "Store source recommendations request id on homepage recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 262.85
+        "New": 284.88
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5933,21 +5908,10 @@
       "type": "Bug",
       "column_hours": {
         "New": 0.0,
-        "Ready for Dev": 262.88
+        "Ready for Dev": 284.92
       },
       "warnings": [
-        "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)"
-      ]
-    },
-    {
-      "id": 1245552,
-      "title": "Update view_Item_List",
-      "type": "Bug",
-      "column_hours": {
-        "Ready for Dev": 262.86
-      },
-      "warnings": [
-        "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-11)"
+        "Open visit in 'Ready for Dev' (entered 2026-07-31): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5955,10 +5919,10 @@
       "title": "Store source recommendations request id on bag recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 189.94
+        "New": 211.97
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5966,10 +5930,10 @@
       "title": "Store source recommendations request id on Saved Items similar-items clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 189.91
+        "New": 211.95
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5977,10 +5941,10 @@
       "title": "Store source recommendations request id on PLP recommendation clicks",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 189.87
+        "New": 211.9
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5988,10 +5952,10 @@
       "title": "Failed event - view_item_list - Missing product information in carousels on PDP",
       "type": "Bug",
       "column_hours": {
-        "New": 194.07
+        "New": 216.11
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-03): capped at now (2026-08-12)"
       ]
     },
     {
@@ -5999,10 +5963,10 @@
       "title": "PDP - Fire add_to_wishlist with source_recommendations_request_id when saving from a recommendations carousel",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 166.7
+        "New": 188.73
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-04): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-04): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6010,10 +5974,10 @@
       "title": "Add source_recommendations_request_id to PLP add_to_wishlist event for recommended products",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 95.27
+        "New": 117.31
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-07): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-07): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6027,10 +5991,10 @@
         "In Review": 1.09,
         "Ready for QA": 0.0,
         "QA": 19.88,
-        "Ready for release": 2.02
+        "Ready for release": 24.05
       },
       "warnings": [
-        "Open visit in 'Ready for release' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'Ready for release' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6039,11 +6003,11 @@
       "type": "Product Backlog Item",
       "column_hours": {
         "New": 0.0,
-        "In Development": 0.55,
-        "In Review": 3.76
+        "In Development": 5.47,
+        "In Review": 20.87
       },
       "warnings": [
-        "Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'In Review' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6051,10 +6015,10 @@
       "title": "Remove Contentsquare from checkout",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3.79
+        "New": 25.83
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6062,10 +6026,10 @@
       "title": "Remove Contentsquare from my-account",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3.88
+        "New": 25.91
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6073,10 +6037,10 @@
       "title": "Remove Contentsquare from identity-pages",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 3.98
+        "New": 26.02
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6084,10 +6048,10 @@
       "title": "Update automated-test repos' data-cs-mask selectors",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.22
+        "New": 26.25
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6095,10 +6059,10 @@
       "title": "Remove Contentsquare from the GTM / storefront (www) container",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.21
+        "New": 26.24
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6106,10 +6070,10 @@
       "title": "Source-disable Contentsquare centrally + bake",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.2
+        "New": 26.23
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6117,10 +6081,10 @@
       "title": "Retire asos-web-content-square (repo + pipeline)",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.18
+        "New": 26.22
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6128,10 +6092,10 @@
       "title": "Remove asos-web-martech-content-square from asos-web-libraries",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.17
+        "New": 26.2
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6139,10 +6103,10 @@
       "title": "Update asos-web-datalayer customVariables schema",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.16
+        "New": 26.2
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6150,10 +6114,10 @@
       "title": "Remove Contentsquare CSP allow-list entries",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.15
+        "New": 18.27
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6161,10 +6125,10 @@
       "title": "Update monitoring deny-lists",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.15
+        "New": 26.18
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6172,10 +6136,10 @@
       "title": "Update catalog / finance / data references",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.14
+        "New": 26.18
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     },
     {
@@ -6183,10 +6147,21 @@
       "title": "Documentation & Confluence cleanup",
       "type": "Product Backlog Item",
       "column_hours": {
-        "New": 4.14
+        "New": 26.17
       },
       "warnings": [
-        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-11)"
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
+      ]
+    },
+    {
+      "id": 1249541,
+      "title": "Add PR check to enforce existence of changelog and semver",
+      "type": "Product Backlog Item",
+      "column_hours": {
+        "New": 20.63
+      },
+      "warnings": [
+        "Open visit in 'New' (entered 2026-08-11): capped at now (2026-08-12)"
       ]
     }
   ]

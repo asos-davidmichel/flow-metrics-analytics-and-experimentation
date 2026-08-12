@@ -8,7 +8,7 @@
         "Backlog",
         "New"
       ],
-      "time_after_first_backward_move_hours": 9218.5,
+      "time_after_first_backward_move_hours": 9240.6,
       "time_in_revisited_columns_hours": 4992.5
     }
   },
@@ -21,7 +21,7 @@
         "Backlog",
         "New"
       ],
-      "time_after_first_backward_move_hours": 9218.5,
+      "time_after_first_backward_move_hours": 9240.5,
       "time_in_revisited_columns_hours": 4992.4
     }
   },
@@ -34,7 +34,7 @@
         "Backlog",
         "New"
       ],
-      "time_after_first_backward_move_hours": 12555.0,
+      "time_after_first_backward_move_hours": 12577.0,
       "time_in_revisited_columns_hours": 6400.8
     }
   },
@@ -47,7 +47,7 @@
         "Backlog",
         "New"
       ],
-      "time_after_first_backward_move_hours": 10945.9,
+      "time_after_first_backward_move_hours": 10968.0,
       "time_in_revisited_columns_hours": 6719.9
     }
   },
@@ -60,7 +60,7 @@
         "Backlog",
         "New"
       ],
-      "time_after_first_backward_move_hours": 10582.8,
+      "time_after_first_backward_move_hours": 10604.8,
       "time_in_revisited_columns_hours": 6356.8
     }
   },
@@ -132,7 +132,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 8019.5,
+      "time_after_first_backward_move_hours": 8041.5,
       "time_in_revisited_columns_hours": 3793.4
     }
   },
@@ -214,7 +214,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 8907.7,
+      "time_after_first_backward_move_hours": 8929.7,
       "time_in_revisited_columns_hours": 4681.7
     }
   },
@@ -319,7 +319,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 9339.8,
+      "time_after_first_backward_move_hours": 9361.8,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -331,7 +331,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 9339.8,
+      "time_after_first_backward_move_hours": 9361.8,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -343,7 +343,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 9339.8,
+      "time_after_first_backward_move_hours": 9361.8,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -355,7 +355,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 9339.8,
+      "time_after_first_backward_move_hours": 9361.8,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -377,7 +377,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 8019.5,
+      "time_after_first_backward_move_hours": 8041.5,
       "time_in_revisited_columns_hours": 3793.4
     }
   },
@@ -407,7 +407,7 @@
       "backward_column_moves": 2,
       "reopened_after_done": false,
       "revisited_columns": [],
-      "time_after_first_backward_move_hours": 4634.4,
+      "time_after_first_backward_move_hours": 4656.4,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -433,7 +433,7 @@
         "QA",
         "Ready for release"
       ],
-      "time_after_first_backward_move_hours": 7709.5,
+      "time_after_first_backward_move_hours": 7731.5,
       "time_in_revisited_columns_hours": 1087.3
     }
   },
@@ -445,7 +445,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 8835.4,
+      "time_after_first_backward_move_hours": 8857.4,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -767,7 +767,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 7082.9,
+      "time_after_first_backward_move_hours": 7104.9,
       "time_in_revisited_columns_hours": 2856.8
     }
   },
@@ -877,7 +877,7 @@
         "In Development",
         "In Review"
       ],
-      "time_after_first_backward_move_hours": 6575.8,
+      "time_after_first_backward_move_hours": 6597.9,
       "time_in_revisited_columns_hours": 2111.6
     }
   },
@@ -943,7 +943,7 @@
         "QA",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 6561.7,
+      "time_after_first_backward_move_hours": 6583.8,
       "time_in_revisited_columns_hours": 1521.2
     }
   },
@@ -992,7 +992,7 @@
         "Backlog",
         "In Development"
       ],
-      "time_after_first_backward_move_hours": 6530.4,
+      "time_after_first_backward_move_hours": 6552.4,
       "time_in_revisited_columns_hours": 2298.8
     }
   },
@@ -1295,7 +1295,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 4898.5,
+      "time_after_first_backward_move_hours": 4920.5,
       "time_in_revisited_columns_hours": 1516.3
     }
   },
@@ -1327,7 +1327,7 @@
       "revisited_columns": [
         "Backlog"
       ],
-      "time_after_first_backward_move_hours": 5234.0,
+      "time_after_first_backward_move_hours": 5256.0,
       "time_in_revisited_columns_hours": 0.2
     }
   },
@@ -1524,7 +1524,7 @@
         "New",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 4827.0,
+      "time_after_first_backward_move_hours": 4849.1,
       "time_in_revisited_columns_hours": 1726.9
     }
   },
@@ -1549,7 +1549,7 @@
         "New",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 4339.4,
+      "time_after_first_backward_move_hours": 4361.4,
       "time_in_revisited_columns_hours": 862.3
     }
   },
@@ -1830,7 +1830,7 @@
       "revisited_columns": [
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 4300.7,
+      "time_after_first_backward_move_hours": 4322.8,
       "time_in_revisited_columns_hours": 74.7
     }
   },
@@ -1988,7 +1988,7 @@
       "backward_column_moves": 1,
       "reopened_after_done": false,
       "revisited_columns": [],
-      "time_after_first_backward_move_hours": 4226.0,
+      "time_after_first_backward_move_hours": 4248.1,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2042,7 +2042,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 3958.1,
+      "time_after_first_backward_move_hours": 3980.2,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2128,7 +2128,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 3837.9,
+      "time_after_first_backward_move_hours": 3859.9,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2202,7 +2202,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 3356.2,
+      "time_after_first_backward_move_hours": 3378.2,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2214,7 +2214,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 3356.2,
+      "time_after_first_backward_move_hours": 3378.2,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2402,7 +2402,7 @@
         "New",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 2836.3,
+      "time_after_first_backward_move_hours": 2858.3,
       "time_in_revisited_columns_hours": 2687.9
     }
   },
@@ -2862,7 +2862,7 @@
       "revisited_columns": [
         "New"
       ],
-      "time_after_first_backward_move_hours": 2206.1,
+      "time_after_first_backward_move_hours": 2228.2,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -2944,7 +2944,7 @@
         "New",
         "Ready for QA"
       ],
-      "time_after_first_backward_move_hours": 4.0,
+      "time_after_first_backward_move_hours": 26.1,
       "time_in_revisited_columns_hours": 72.0
     }
   },
@@ -2991,7 +2991,7 @@
         "In Review",
         "New"
       ],
-      "time_after_first_backward_move_hours": 1804.1,
+      "time_after_first_backward_move_hours": 1826.2,
       "time_in_revisited_columns_hours": 302.0
     }
   },
@@ -3183,10 +3183,12 @@
   {
     "work_item_id": 1224507,
     "rework_summary": {
-      "backward_column_moves": 0,
+      "backward_column_moves": 1,
       "reopened_after_done": false,
-      "revisited_columns": [],
-      "time_after_first_backward_move_hours": null,
+      "revisited_columns": [
+        "Ready for QA"
+      ],
+      "time_after_first_backward_move_hours": 21.6,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -3251,10 +3253,11 @@
       "backward_column_moves": 1,
       "reopened_after_done": false,
       "revisited_columns": [
+        "In Development",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 96.1,
-      "time_in_revisited_columns_hours": 75.0
+      "time_after_first_backward_move_hours": 118.2,
+      "time_in_revisited_columns_hours": 116.2
     }
   },
   {
@@ -3481,7 +3484,7 @@
         "QA",
         "Ready for QA"
       ],
-      "time_after_first_backward_move_hours": 268.0,
+      "time_after_first_backward_move_hours": 290.0,
       "time_in_revisited_columns_hours": 243.1
     }
   },
@@ -3514,7 +3517,7 @@
         "In Development",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 27.1,
+      "time_after_first_backward_move_hours": 49.1,
       "time_in_revisited_columns_hours": 23.9
     }
   },
@@ -3650,7 +3653,7 @@
         "New",
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 195.5,
+      "time_after_first_backward_move_hours": 217.6,
       "time_in_revisited_columns_hours": 168.5
     }
   },
@@ -3695,16 +3698,6 @@
     }
   },
   {
-    "work_item_id": 1242404,
-    "rework_summary": {
-      "backward_column_moves": 0,
-      "reopened_after_done": false,
-      "revisited_columns": [],
-      "time_after_first_backward_move_hours": null,
-      "time_in_revisited_columns_hours": 0.0
-    }
-  },
-  {
     "work_item_id": 1242405,
     "rework_summary": {
       "backward_column_moves": 0,
@@ -3722,7 +3715,7 @@
       "revisited_columns": [
         "Ready for Dev"
       ],
-      "time_after_first_backward_move_hours": 263.1,
+      "time_after_first_backward_move_hours": 285.1,
       "time_in_revisited_columns_hours": 0.0
     }
   },
@@ -3820,16 +3813,6 @@
   },
   {
     "work_item_id": 1245551,
-    "rework_summary": {
-      "backward_column_moves": 0,
-      "reopened_after_done": false,
-      "revisited_columns": [],
-      "time_after_first_backward_move_hours": null,
-      "time_in_revisited_columns_hours": 0.0
-    }
-  },
-  {
-    "work_item_id": 1245552,
     "rework_summary": {
       "backward_column_moves": 0,
       "reopened_after_done": false,
@@ -4040,6 +4023,16 @@
   },
   {
     "work_item_id": 1248615,
+    "rework_summary": {
+      "backward_column_moves": 0,
+      "reopened_after_done": false,
+      "revisited_columns": [],
+      "time_after_first_backward_move_hours": null,
+      "time_in_revisited_columns_hours": 0.0
+    }
+  },
+  {
+    "work_item_id": 1249541,
     "rework_summary": {
       "backward_column_moves": 0,
       "reopened_after_done": false,

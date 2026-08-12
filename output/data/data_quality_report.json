@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T12:39:02.107295+00:00",
-  "total_items": 355,
+  "generated_at": "2026-08-12T10:41:03.608028+00:00",
+  "total_items": 354,
   "excluded_item_ids": [
     {
       "id": 1099138,
@@ -5562,12 +5562,6 @@
               "entered": "2026-08-11T08:20:04.39Z",
               "left": "2026-08-11T08:20:08.837Z",
               "dwell_minutes": 0.1
-            },
-            {
-              "column": "In Development",
-              "entered": "2026-08-11T08:20:08.837Z",
-              "left": "2026-08-11T08:53:12.263Z",
-              "dwell_minutes": 33.1
             }
           ]
         }
@@ -5580,14 +5574,14 @@
       "note": "Items with future 'entered' timestamps produce negative days_in_current_column. Fix the source timestamp in ADO or exclude the affected column span."
     },
     "unassigned_in_progress": {
-      "count": 6,
+      "count": 5,
       "items": [
         {
-          "id": 1242403,
-          "column": "Ready for Dev"
+          "id": 1224507,
+          "column": "Ready for QA"
         },
         {
-          "id": 1242404,
+          "id": 1242403,
           "column": "Ready for Dev"
         },
         {
@@ -5601,15 +5595,11 @@
         {
           "id": 1245551,
           "column": "Ready for Dev"
-        },
-        {
-          "id": 1245552,
-          "column": "Ready for Dev"
         }
       ]
     },
     "broken_parent_references": {
-      "count": 236,
+      "count": 235,
       "items": [
         {
           "id": 999105,
@@ -6429,10 +6419,6 @@
         },
         {
           "id": 1242403,
-          "parent_id": 1243534
-        },
-        {
-          "id": 1242404,
           "parent_id": 1243534
         },
         {

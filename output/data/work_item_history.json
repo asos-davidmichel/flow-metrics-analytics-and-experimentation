@@ -21750,6 +21750,11 @@
       {
         "value": "QA",
         "entered": "2026-08-10T08:46:37.733Z",
+        "left": "2026-08-11T13:07:01.173Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-11T13:07:01.173Z",
         "left": null
       }
     ],
@@ -21784,7 +21789,13 @@
         "changed_at": "2026-06-17T09:04:47.46Z"
       }
     ],
-    "regressions": []
+    "regressions": [
+      {
+        "from_column": "QA",
+        "to_column": "Ready for QA",
+        "at": "2026-08-11T13:07:01.173Z"
+      }
+    ]
   },
   {
     "id": 1224643,
@@ -22271,8 +22282,13 @@
         "left": "2026-08-10T15:31:36.39Z"
       },
       {
-        "value": "In Review",
+        "value": "In Development",
         "entered": "2026-08-10T15:31:36.39Z",
+        "left": "2026-08-12T08:46:26.43Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-12T08:46:26.43Z",
         "left": null
       }
     ],
@@ -23768,6 +23784,12 @@
         "old_value": null,
         "new_value": "Data Layer",
         "changed_at": "2026-07-07T14:19:10.72Z"
+      },
+      {
+        "field": "System.Tags",
+        "old_value": "Data Layer",
+        "new_value": "blocked; Data Layer",
+        "changed_at": "2026-08-12T10:35:42.967Z"
       }
     ],
     "regressions": [
@@ -23991,8 +24013,13 @@
         "left": "2026-08-07T13:05:28.603Z"
       },
       {
-        "value": "External Review",
+        "value": "In Review",
         "entered": "2026-08-07T13:05:28.603Z",
+        "left": "2026-08-12T08:44:01.433Z"
+      },
+      {
+        "value": "External Review",
+        "entered": "2026-08-12T08:44:01.433Z",
         "left": null
       }
     ],
@@ -24005,11 +24032,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-06T08:48:49.58Z",
-        "left": "2026-08-07T13:05:28.603Z"
+        "left": "2026-08-12T08:44:01.433Z"
       },
       {
         "value": "Resolved",
-        "entered": "2026-08-07T13:05:28.603Z",
+        "entered": "2026-08-12T08:44:01.433Z",
         "left": null
       }
     ],
@@ -24381,11 +24408,11 @@
       {
         "value": "In Development",
         "entered": "2026-08-10T09:36:14.88Z",
-        "left": "2026-08-11T09:29:01.653Z"
+        "left": "2026-08-12T08:29:51.473Z"
       },
       {
-        "value": "In Review",
-        "entered": "2026-08-11T09:29:01.653Z",
+        "value": "External Review",
+        "entered": "2026-08-12T08:29:51.473Z",
         "left": null
       }
     ],
@@ -24398,6 +24425,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-10T09:36:14.88Z",
+        "left": "2026-08-12T08:29:51.473Z"
+      },
+      {
+        "value": "Resolved",
+        "entered": "2026-08-12T08:29:51.473Z",
         "left": null
       }
     ],
@@ -24564,44 +24596,6 @@
         "old_value": "",
         "new_value": "iOS Gap Analysis",
         "changed_at": "2026-07-28T13:22:35.063Z"
-      }
-    ],
-    "regressions": []
-  },
-  {
-    "id": 1242404,
-    "board_entry_date": "2026-07-28T09:33:06.85Z",
-    "column_history": [
-      {
-        "value": "New",
-        "entered": "2026-07-28T09:33:06.85Z",
-        "left": "2026-07-28T14:40:05.077Z"
-      },
-      {
-        "value": "Ready for Dev",
-        "entered": "2026-07-28T14:40:05.077Z",
-        "left": null
-      }
-    ],
-    "state_history": [
-      {
-        "value": "New",
-        "entered": "2026-07-28T09:33:06.85Z",
-        "left": null
-      }
-    ],
-    "tag_history": [
-      {
-        "field": "System.Tags",
-        "old_value": null,
-        "new_value": "",
-        "changed_at": "2026-07-28T09:33:06.85Z"
-      },
-      {
-        "field": "System.Tags",
-        "old_value": "",
-        "new_value": "iOS Gap Analysis",
-        "changed_at": "2026-07-28T13:22:43.197Z"
       }
     ],
     "regressions": []
@@ -25129,33 +25123,6 @@
     "regressions": []
   },
   {
-    "id": 1245552,
-    "board_entry_date": "2026-07-31T13:47:20.52Z",
-    "column_history": [
-      {
-        "value": "Ready for Dev",
-        "entered": "2026-07-31T13:47:20.52Z",
-        "left": null
-      }
-    ],
-    "state_history": [
-      {
-        "value": "New",
-        "entered": "2026-07-31T13:47:20.52Z",
-        "left": null
-      }
-    ],
-    "tag_history": [
-      {
-        "field": "System.Tags",
-        "old_value": null,
-        "new_value": "iOS Gap Analysis",
-        "changed_at": "2026-07-31T13:47:20.52Z"
-      }
-    ],
-    "regressions": []
-  },
-  {
     "id": 1245554,
     "board_entry_date": "2026-08-03T14:42:39.477Z",
     "column_history": [
@@ -25394,11 +25361,11 @@
       {
         "value": "In Development",
         "entered": "2026-08-11T08:20:08.837Z",
-        "left": "2026-08-11T08:53:12.263Z"
+        "left": "2026-08-11T13:48:35.24Z"
       },
       {
         "value": "In Review",
-        "entered": "2026-08-11T08:53:12.263Z",
+        "entered": "2026-08-11T13:48:35.24Z",
         "left": null
       }
     ],
@@ -25669,18 +25636,18 @@
   },
   {
     "id": 1248612,
-    "board_entry_date": "2026-08-11T08:29:50.12Z",
+    "board_entry_date": "2026-08-11T16:24:45.357Z",
     "column_history": [
       {
         "value": "New",
-        "entered": "2026-08-11T08:29:50.12Z",
+        "entered": "2026-08-11T16:24:45.357Z",
         "left": null
       }
     ],
     "state_history": [
       {
         "value": "New",
-        "entered": "2026-08-11T08:29:50.12Z",
+        "entered": "2026-08-11T16:24:45.357Z",
         "left": null
       }
     ],
@@ -25689,7 +25656,7 @@
         "field": "System.Tags",
         "old_value": null,
         "new_value": "Contentsquare",
-        "changed_at": "2026-08-11T08:29:50.12Z"
+        "changed_at": "2026-08-11T16:24:45.357Z"
       }
     ],
     "regressions": []
@@ -25771,6 +25738,33 @@
         "old_value": null,
         "new_value": "Contentsquare",
         "changed_at": "2026-08-11T08:30:51.423Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1249541,
+    "board_entry_date": "2026-08-11T14:03:29.273Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T14:03:29.273Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-11T14:03:29.273Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Tech Improvement",
+        "changed_at": "2026-08-11T14:03:29.273Z"
       }
     ],
     "regressions": []
