@@ -410,46 +410,6 @@
     "regressions": []
   },
   {
-    "id": 1077639,
-    "board_entry_date": "2026-02-16T10:26:11.12Z",
-    "column_history": [
-      {
-        "value": "Backlog",
-        "entered": "2025-06-16T08:57:55.537Z",
-        "left": "2025-08-13T07:36:06.317Z"
-      },
-      {
-        "value": "QA / External Review",
-        "entered": "2025-08-13T07:36:06.317Z",
-        "left": "2026-02-16T10:26:11.12Z"
-      },
-      {
-        "value": "Closed",
-        "entered": "2026-02-16T10:26:11.12Z",
-        "left": null
-      }
-    ],
-    "state_history": [
-      {
-        "value": "New",
-        "entered": "2025-06-16T08:57:55.537Z",
-        "left": "2025-08-13T07:36:06.317Z"
-      },
-      {
-        "value": "Resolved",
-        "entered": "2025-08-13T07:36:06.317Z",
-        "left": "2026-02-16T10:26:11.12Z"
-      },
-      {
-        "value": "Closed",
-        "entered": "2026-02-16T10:26:11.12Z",
-        "left": null
-      }
-    ],
-    "tag_history": [],
-    "regressions": []
-  },
-  {
     "id": 1078632,
     "board_entry_date": "2026-02-16T10:36:32.077Z",
     "column_history": [
@@ -588,46 +548,6 @@
         "at": "2026-02-16T10:36:32.077Z"
       }
     ]
-  },
-  {
-    "id": 1089764,
-    "board_entry_date": "2026-02-16T10:26:11.12Z",
-    "column_history": [
-      {
-        "value": "Backlog",
-        "entered": "2025-07-14T15:35:19.733Z",
-        "left": "2025-08-13T07:36:07.73Z"
-      },
-      {
-        "value": "QA / External Review",
-        "entered": "2025-08-13T07:36:07.73Z",
-        "left": "2026-02-16T10:26:11.12Z"
-      },
-      {
-        "value": "Closed",
-        "entered": "2026-02-16T10:26:11.12Z",
-        "left": null
-      }
-    ],
-    "state_history": [
-      {
-        "value": "New",
-        "entered": "2025-07-14T15:35:19.733Z",
-        "left": "2025-08-13T07:36:07.73Z"
-      },
-      {
-        "value": "Resolved",
-        "entered": "2025-08-13T07:36:07.73Z",
-        "left": "2026-02-16T10:26:11.12Z"
-      },
-      {
-        "value": "Closed",
-        "entered": "2026-02-16T10:26:11.12Z",
-        "left": null
-      }
-    ],
-    "tag_history": [],
-    "regressions": []
   },
   {
     "id": 1089898,
@@ -12012,11 +11932,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-06-26T08:37:33.74Z",
-        "left": "2026-07-16T12:17:56.203Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-07-16T12:17:56.203Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -12049,11 +11969,11 @@
       {
         "value": "Resolved",
         "entered": "2026-06-24T08:46:42.463Z",
-        "left": "2026-07-16T12:17:56.203Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-07-16T12:17:56.203Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -15590,6 +15510,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-08-06T14:17:27.137Z",
+        "left": "2026-08-13T13:38:18.907Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T13:38:18.907Z",
         "left": null
       }
     ],
@@ -15617,6 +15542,11 @@
       {
         "value": "Resolved",
         "entered": "2026-08-05T09:14:17.963Z",
+        "left": "2026-08-13T13:38:18.907Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T13:38:18.907Z",
         "left": null
       }
     ],
@@ -19809,11 +19739,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-06-09T13:43:01.963Z",
-        "left": "2026-06-11T15:48:10.717Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-06-11T15:48:10.717Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -19831,11 +19761,11 @@
       {
         "value": "Resolved",
         "entered": "2026-05-27T09:24:19.877Z",
-        "left": "2026-06-11T15:48:10.717Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-06-11T15:48:10.717Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -19982,6 +19912,16 @@
       {
         "value": "Ready for QA",
         "entered": "2026-08-11T08:36:42.287Z",
+        "left": "2026-08-12T12:50:37.933Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-12T12:50:37.933Z",
+        "left": "2026-08-14T09:37:31.083Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-14T09:37:31.083Z",
         "left": null
       }
     ],
@@ -21755,6 +21695,11 @@
       {
         "value": "Ready for QA",
         "entered": "2026-08-11T13:07:01.173Z",
+        "left": "2026-08-13T13:57:57.953Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-13T13:57:57.953Z",
         "left": null
       }
     ],
@@ -21772,6 +21717,11 @@
       {
         "value": "Resolved",
         "entered": "2026-08-03T08:48:46.577Z",
+        "left": "2026-08-13T13:57:57.953Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-13T13:57:57.953Z",
         "left": null
       }
     ],
@@ -21794,6 +21744,11 @@
         "from_column": "QA",
         "to_column": "Ready for QA",
         "at": "2026-08-11T13:07:01.173Z"
+      },
+      {
+        "from_column": "Ready for QA",
+        "to_column": "In Development",
+        "at": "2026-08-13T13:57:57.953Z"
       }
     ]
   },
@@ -22287,8 +22242,18 @@
         "left": "2026-08-12T08:46:26.43Z"
       },
       {
-        "value": "In Development",
+        "value": "In Review",
         "entered": "2026-08-12T08:46:26.43Z",
+        "left": "2026-08-12T12:38:01.123Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-12T12:38:01.123Z",
+        "left": "2026-08-14T10:11:11.707Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-14T10:11:11.707Z",
         "left": null
       }
     ],
@@ -22311,6 +22276,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-10T15:31:36.39Z",
+        "left": "2026-08-14T10:11:11.707Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-14T10:11:11.707Z",
         "left": null
       }
     ],
@@ -22333,6 +22303,11 @@
         "from_column": "In Development",
         "to_column": "Ready for Dev",
         "at": "2026-08-07T12:31:43.29Z"
+      },
+      {
+        "from_column": "In Review",
+        "to_column": "In Development",
+        "at": "2026-08-12T12:38:01.123Z"
       }
     ]
   },
@@ -22875,11 +22850,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-07-14T09:22:48.61Z",
-        "left": "2026-07-14T15:16:40.38Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-07-14T15:16:40.38Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -22897,11 +22872,11 @@
       {
         "value": "Resolved",
         "entered": "2026-07-06T15:29:38.957Z",
-        "left": "2026-07-14T15:16:40.38Z"
+        "left": "2026-08-13T14:18:21.287Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-07-14T15:16:40.38Z",
+        "entered": "2026-08-13T14:18:21.287Z",
         "left": null
       }
     ],
@@ -23500,11 +23475,16 @@
       {
         "value": "QA",
         "entered": "2026-08-07T09:08:59.35Z",
-        "left": "2026-08-10T11:45:53.707Z"
+        "left": "2026-08-13T10:03:32.32Z"
       },
       {
         "value": "Ready for release",
-        "entered": "2026-08-10T11:45:53.707Z",
+        "entered": "2026-08-13T10:03:32.32Z",
+        "left": "2026-08-13T13:06:57.92Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T13:06:57.92Z",
         "left": null
       }
     ],
@@ -23532,6 +23512,11 @@
       {
         "value": "Resolved",
         "entered": "2026-08-07T09:08:28.24Z",
+        "left": "2026-08-13T13:06:57.92Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T13:06:57.92Z",
         "left": null
       }
     ],
@@ -23598,11 +23583,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-07-30T14:00:36.14Z",
-        "left": "2026-08-06T15:14:38.97Z"
+        "left": "2026-08-13T10:03:32.43Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-08-06T15:14:38.97Z",
+        "entered": "2026-08-13T10:03:32.43Z",
         "left": null
       }
     ],
@@ -23620,11 +23605,11 @@
       {
         "value": "Resolved",
         "entered": "2026-07-29T11:03:57.873Z",
-        "left": "2026-08-06T15:14:38.97Z"
+        "left": "2026-08-13T10:03:32.43Z"
       },
       {
         "value": "Closed",
-        "entered": "2026-08-06T15:14:38.97Z",
+        "entered": "2026-08-13T10:03:32.43Z",
         "left": null
       }
     ],
@@ -23789,7 +23774,7 @@
         "field": "System.Tags",
         "old_value": "Data Layer",
         "new_value": "blocked; Data Layer",
-        "changed_at": "2026-08-12T10:35:42.967Z"
+        "changed_at": "2026-08-14T12:36:31.247Z"
       }
     ],
     "regressions": [
@@ -23958,11 +23943,26 @@
       {
         "value": "In Review",
         "entered": "2026-08-06T11:47:10.913Z",
-        "left": "2026-08-07T13:05:27.247Z"
+        "left": "2026-08-12T14:22:08.31Z"
       },
       {
         "value": "External Review",
-        "entered": "2026-08-07T13:05:27.247Z",
+        "entered": "2026-08-12T14:22:08.31Z",
+        "left": "2026-08-13T09:11:47.99Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-13T09:11:47.99Z",
+        "left": "2026-08-13T09:11:54.24Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-13T09:11:54.24Z",
+        "left": "2026-08-13T13:31:38.94Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-13T13:31:38.94Z",
         "left": null
       }
     ],
@@ -23975,11 +23975,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-04T14:05:36.97Z",
-        "left": "2026-08-07T13:05:27.247Z"
+        "left": "2026-08-12T14:22:08.31Z"
       },
       {
         "value": "Resolved",
-        "entered": "2026-08-07T13:05:27.247Z",
+        "entered": "2026-08-12T14:22:08.31Z",
         "left": null
       }
     ],
@@ -24020,6 +24020,21 @@
       {
         "value": "External Review",
         "entered": "2026-08-12T08:44:01.433Z",
+        "left": "2026-08-13T13:34:18.593Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-13T13:34:18.593Z",
+        "left": "2026-08-13T13:34:30.687Z"
+      },
+      {
+        "value": "QA",
+        "entered": "2026-08-13T13:34:30.687Z",
+        "left": "2026-08-13T14:11:46.14Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-13T14:11:46.14Z",
         "left": null
       }
     ],
@@ -24078,7 +24093,7 @@
         "field": "System.Tags",
         "old_value": "Data Layer",
         "new_value": "Data Layer; Ready For Refinement",
-        "changed_at": "2026-08-11T10:54:02.437Z"
+        "changed_at": "2026-08-12T14:57:42.34Z"
       }
     ],
     "regressions": []
@@ -24411,8 +24426,23 @@
         "left": "2026-08-12T08:29:51.473Z"
       },
       {
-        "value": "External Review",
+        "value": "In Review",
         "entered": "2026-08-12T08:29:51.473Z",
+        "left": "2026-08-12T14:25:13.287Z"
+      },
+      {
+        "value": "External Review",
+        "entered": "2026-08-12T14:25:13.287Z",
+        "left": "2026-08-13T09:11:10.807Z"
+      },
+      {
+        "value": "Ready for QA",
+        "entered": "2026-08-13T09:11:10.807Z",
+        "left": "2026-08-14T09:19:51.587Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-14T09:19:51.587Z",
         "left": null
       }
     ],
@@ -24425,11 +24455,16 @@
       {
         "value": "In Progress",
         "entered": "2026-08-10T09:36:14.88Z",
-        "left": "2026-08-12T08:29:51.473Z"
+        "left": "2026-08-12T14:25:13.287Z"
       },
       {
         "value": "Resolved",
-        "entered": "2026-08-12T08:29:51.473Z",
+        "entered": "2026-08-12T14:25:13.287Z",
+        "left": "2026-08-14T09:19:51.587Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-14T09:19:51.587Z",
         "left": null
       }
     ],
@@ -24574,6 +24609,11 @@
       {
         "value": "Ready for Dev",
         "entered": "2026-07-28T14:40:05.077Z",
+        "left": "2026-08-13T14:23:49.55Z"
+      },
+      {
+        "value": "In Development",
+        "entered": "2026-08-13T14:23:49.55Z",
         "left": null
       }
     ],
@@ -24581,6 +24621,11 @@
       {
         "value": "New",
         "entered": "2026-07-28T13:19:01.16Z",
+        "left": "2026-08-13T14:23:49.55Z"
+      },
+      {
+        "value": "In Progress",
+        "entered": "2026-08-13T14:23:49.55Z",
         "left": null
       }
     ],
@@ -24617,6 +24662,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-07-31T13:34:15.787Z",
+        "left": "2026-08-13T10:22:10.277Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T10:22:10.277Z",
         "left": null
       }
     ],
@@ -24634,6 +24684,11 @@
       {
         "value": "Resolved",
         "entered": "2026-07-31T13:34:15.787Z",
+        "left": "2026-08-13T10:22:10.277Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T10:22:10.277Z",
         "left": null
       }
     ],
@@ -24869,11 +24924,11 @@
       {
         "value": "In Development",
         "entered": "2026-07-28T14:45:52.703Z",
-        "left": "2026-07-30T12:48:16.603Z"
+        "left": "2026-08-13T10:22:13.403Z"
       },
       {
-        "value": "Ready for release",
-        "entered": "2026-07-30T12:48:16.603Z",
+        "value": "Closed",
+        "entered": "2026-08-13T10:22:13.403Z",
         "left": null
       }
     ],
@@ -24886,11 +24941,16 @@
       {
         "value": "In Progress",
         "entered": "2026-07-28T14:45:52.703Z",
-        "left": "2026-07-30T12:48:16.603Z"
+        "left": "2026-08-13T10:22:13.403Z"
       },
       {
         "value": "Resolved",
-        "entered": "2026-07-30T12:48:16.603Z",
+        "entered": "2026-08-13T10:22:13.403Z",
+        "left": "2026-08-13T10:22:13.403Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-13T10:22:13.403Z",
         "left": null
       }
     ],
@@ -25177,7 +25237,7 @@
         "field": "System.Tags",
         "old_value": "Data Layer",
         "new_value": "Data Layer; Ready For Refinement",
-        "changed_at": "2026-08-10T08:43:33.51Z"
+        "changed_at": "2026-08-12T14:49:49.603Z"
       }
     ],
     "regressions": []
@@ -25210,7 +25270,7 @@
         "field": "System.Tags",
         "old_value": "Data Layer",
         "new_value": "Data Layer; Ready For Refinement",
-        "changed_at": "2026-08-11T10:05:44.873Z"
+        "changed_at": "2026-08-12T14:22:53.503Z"
       }
     ],
     "regressions": []
@@ -25326,6 +25386,11 @@
       {
         "value": "Ready for release",
         "entered": "2026-08-11T10:37:59.253Z",
+        "left": "2026-08-12T15:41:19.27Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-12T15:41:19.27Z",
         "left": null
       }
     ],
@@ -25343,6 +25408,11 @@
       {
         "value": "Resolved",
         "entered": "2026-08-10T14:44:54.19Z",
+        "left": "2026-08-12T15:41:19.27Z"
+      },
+      {
+        "value": "Closed",
+        "entered": "2026-08-12T15:41:19.27Z",
         "left": null
       }
     ],
@@ -25366,6 +25436,11 @@
       {
         "value": "In Review",
         "entered": "2026-08-11T13:48:35.24Z",
+        "left": "2026-08-13T10:22:08.013Z"
+      },
+      {
+        "value": "Ready for release",
+        "entered": "2026-08-13T10:22:08.013Z",
         "left": null
       }
     ],
@@ -25378,6 +25453,11 @@
       {
         "value": "In Progress",
         "entered": "2026-08-11T08:20:08.837Z",
+        "left": "2026-08-13T10:22:08.013Z"
+      },
+      {
+        "value": "Resolved",
+        "entered": "2026-08-13T10:22:08.013Z",
         "left": null
       }
     ],
@@ -25767,6 +25847,93 @@
         "changed_at": "2026-08-11T14:03:29.273Z"
       }
     ],
+    "regressions": []
+  },
+  {
+    "id": 1250269,
+    "board_entry_date": "2026-08-13T11:01:26.53Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-13T11:01:26.53Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-13T11:01:26.53Z",
+        "left": null
+      }
+    ],
+    "tag_history": [
+      {
+        "field": "System.Tags",
+        "old_value": null,
+        "new_value": "Data Layer; Tech Improvement",
+        "changed_at": "2026-08-13T11:01:26.53Z"
+      }
+    ],
+    "regressions": []
+  },
+  {
+    "id": 1250297,
+    "board_entry_date": "2026-08-13T10:29:43.82Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-13T10:29:43.82Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-13T10:29:43.82Z",
+        "left": null
+      }
+    ],
+    "tag_history": [],
+    "regressions": []
+  },
+  {
+    "id": 1251273,
+    "board_entry_date": "2026-08-14T13:51:34.92Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-14T13:51:34.92Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-14T13:51:34.92Z",
+        "left": null
+      }
+    ],
+    "tag_history": [],
+    "regressions": []
+  },
+  {
+    "id": 1251274,
+    "board_entry_date": "2026-08-14T13:52:42.65Z",
+    "column_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-14T13:52:42.65Z",
+        "left": null
+      }
+    ],
+    "state_history": [
+      {
+        "value": "New",
+        "entered": "2026-08-14T13:52:42.65Z",
+        "left": null
+      }
+    ],
+    "tag_history": [],
     "regressions": []
   }
 ]

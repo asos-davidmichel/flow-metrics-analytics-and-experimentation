@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T10:41:03.608028+00:00",
-  "total_items": 354,
+  "generated_at": "2026-08-17T06:59:26.449954+00:00",
+  "total_items": 356,
   "excluded_item_ids": [
     {
       "id": 1099138,
@@ -2048,8 +2048,6 @@
         {
           "column": "QA / External Review",
           "item_ids": [
-            1077639,
-            1089764,
             1091200,
             1096541,
             1098312,
@@ -5416,6 +5414,12 @@
               "entered": "2026-08-04T14:05:31.74Z",
               "left": "2026-08-04T14:05:36.97Z",
               "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-13T09:11:47.99Z",
+              "left": "2026-08-13T09:11:54.24Z",
+              "dwell_minutes": 0.1
             }
           ]
         },
@@ -5427,6 +5431,18 @@
               "entered": "2026-08-06T08:48:44.19Z",
               "left": "2026-08-06T08:48:49.58Z",
               "dwell_minutes": 0.1
+            },
+            {
+              "column": "Ready for QA",
+              "entered": "2026-08-13T13:34:18.593Z",
+              "left": "2026-08-13T13:34:30.687Z",
+              "dwell_minutes": 0.2
+            },
+            {
+              "column": "QA",
+              "entered": "2026-08-13T13:34:30.687Z",
+              "left": "2026-08-13T14:11:46.14Z",
+              "dwell_minutes": 37.3
             }
           ]
         },
@@ -5574,16 +5590,8 @@
       "note": "Items with future 'entered' timestamps produce negative days_in_current_column. Fix the source timestamp in ADO or exclude the affected column span."
     },
     "unassigned_in_progress": {
-      "count": 5,
+      "count": 3,
       "items": [
-        {
-          "id": 1224507,
-          "column": "Ready for QA"
-        },
-        {
-          "id": 1242403,
-          "column": "Ready for Dev"
-        },
         {
           "id": 1242588,
           "column": "Ready for Dev"
@@ -5599,7 +5607,7 @@
       ]
     },
     "broken_parent_references": {
-      "count": 235,
+      "count": 239,
       "items": [
         {
           "id": 999105,
@@ -6540,6 +6548,22 @@
         {
           "id": 1248615,
           "parent_id": 1248588
+        },
+        {
+          "id": 1250269,
+          "parent_id": 1093068
+        },
+        {
+          "id": 1250297,
+          "parent_id": 1250295
+        },
+        {
+          "id": 1251273,
+          "parent_id": 1243534
+        },
+        {
+          "id": 1251274,
+          "parent_id": 1243514
         }
       ]
     },

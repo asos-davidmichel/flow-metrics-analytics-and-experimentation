@@ -1,10 +1,10 @@
 {
   "metric": "cycle_time",
-  "calculated_at": "2026-08-12T10:41:03.789901+00:00",
+  "calculated_at": "2026-08-17T06:59:26.623208+00:00",
   "window": {
     "parameter": "3m",
-    "start": "2026-05-14T10:41:03.789901+00:00",
-    "end": "2026-08-12T10:41:03.789901+00:00"
+    "start": "2026-05-19T06:59:26.623208+00:00",
+    "end": "2026-08-17T06:59:26.623208+00:00"
   },
   "config_used": {
     "clock_start": {
@@ -135,34 +135,24 @@
     1232243,
     1232498
   ],
-  "item_count": 13,
+  "item_count": 17,
   "warnings": [
     "Item 1211305: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
     "Item 1224665: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
     "Item 1235960: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1242405: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
+    "Item 1243815: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded",
     "Item 1245086: Reached 'Closed' but no 'Ready for Dev' visit found \u2014 clock start may predate available history; excluded"
   ],
   "overall": {
-    "n": 13,
-    "mean_days": 38.2,
+    "n": 17,
+    "mean_days": 35.6,
     "median_days": 19.0,
-    "p85_days": 97.2,
-    "min_days": 6.0,
-    "max_days": 162.8
+    "p85_days": 37.5,
+    "min_days": 2.2,
+    "max_days": 190.9
   },
   "weekly_stats": [
-    {
-      "week_start": "2026-05-18",
-      "n": 1,
-      "mean_days": 97.2,
-      "median_days": 97.2
-    },
-    {
-      "week_start": "2026-07-13",
-      "n": 1,
-      "mean_days": 162.8,
-      "median_days": 162.8
-    },
     {
       "week_start": "2026-07-20",
       "n": 1,
@@ -177,27 +167,33 @@
     },
     {
       "week_start": "2026-08-03",
-      "n": 6,
-      "mean_days": 15.0,
-      "median_days": 12.7
+      "n": 5,
+      "mean_days": 14.8,
+      "median_days": 12.2
+    },
+    {
+      "week_start": "2026-08-10",
+      "n": 7,
+      "mean_days": 54.9,
+      "median_days": 23.0
     }
   ],
   "items": [
     {
-      "id": 1137669,
-      "title": "Middleware currently builds a syncronous queue",
-      "type": "Product Backlog Item",
-      "cycle_time_days": 97.24,
-      "started_at": "2026-02-10T09:41:30.840000+00:00",
-      "completed_at": "2026-05-18T15:22:54.767000+00:00"
-    },
-    {
       "id": 1164765,
       "title": "Investigate datalayer GTM event sequence",
       "type": "Bug",
-      "cycle_time_days": 162.84,
+      "cycle_time_days": 190.92,
       "started_at": "2026-02-03T16:13:16.740000+00:00",
-      "completed_at": "2026-07-16T12:17:56.203000+00:00"
+      "completed_at": "2026-08-13T14:18:21.287000+00:00"
+    },
+    {
+      "id": 1190683,
+      "title": "Failed event - view_item_list breadCrumb property failing validation",
+      "type": "Bug",
+      "cycle_time_days": 122.14,
+      "started_at": "2026-04-13T10:14:41.090000+00:00",
+      "completed_at": "2026-08-13T13:38:18.907000+00:00"
     },
     {
       "id": 1224502,
@@ -224,6 +220,14 @@
       "completed_at": "2026-07-23T12:44:30.803000+00:00"
     },
     {
+      "id": 1225384,
+      "title": "Add Mixpanel super properties schema for ADE sync",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 11.04,
+      "started_at": "2026-08-03T09:08:05.610000+00:00",
+      "completed_at": "2026-08-14T10:11:11.707000+00:00"
+    },
+    {
       "id": 1229879,
       "title": "Failed event - pageData - Missing hashed first and last name - missing",
       "type": "Bug",
@@ -248,12 +252,20 @@
       "completed_at": "2026-07-30T15:21:55.703000+00:00"
     },
     {
+      "id": 1235564,
+      "title": "Capture recommendation request ID on Product Details Page",
+      "type": "Product Backlog Item",
+      "cycle_time_days": 23.98,
+      "started_at": "2026-07-20T13:39:41.687000+00:00",
+      "completed_at": "2026-08-13T13:06:57.920000+00:00"
+    },
+    {
       "id": 1235567,
       "title": "Track view_item_list for PDP recommendation carousels",
       "type": "Product Backlog Item",
-      "cycle_time_days": 16.22,
+      "cycle_time_days": 23.01,
       "started_at": "2026-07-21T09:51:59.377000+00:00",
-      "completed_at": "2026-08-06T15:14:38.970000+00:00"
+      "completed_at": "2026-08-13T10:03:32.430000+00:00"
     },
     {
       "id": 1235569,
@@ -272,6 +284,14 @@
       "completed_at": "2026-08-04T13:17:38.460000+00:00"
     },
     {
+      "id": 1240640,
+      "title": "Failed event - Checkout - purchase voucher type Agency B2B is not supported",
+      "type": "Bug",
+      "cycle_time_days": 11.01,
+      "started_at": "2026-08-03T09:07:30.767000+00:00",
+      "completed_at": "2026-08-14T09:19:51.587000+00:00"
+    },
+    {
       "id": 1241120,
       "title": "ADE - Update product_component_impression schema to also include recently viewed",
       "type": "Product Backlog Item",
@@ -286,18 +306,26 @@
       "cycle_time_days": 5.95,
       "started_at": "2026-07-28T14:42:51.300000+00:00",
       "completed_at": "2026-08-03T13:33:15.217000+00:00"
+    },
+    {
+      "id": 1248004,
+      "title": "Failed event - view_item_list - /breadCrumb pattern fails expected values",
+      "type": "Bug",
+      "cycle_time_days": 2.23,
+      "started_at": "2026-08-10T10:16:47.813000+00:00",
+      "completed_at": "2026-08-12T15:41:19.270000+00:00"
     }
   ],
   "throughput_items": [
     {
-      "id": 1137669,
-      "type": "Product Backlog Item",
-      "completed_at": "2026-05-18T15:22:54.767000+00:00"
-    },
-    {
       "id": 1164765,
       "type": "Bug",
-      "completed_at": "2026-07-16T12:17:56.203000+00:00"
+      "completed_at": "2026-08-13T14:18:21.287000+00:00"
+    },
+    {
+      "id": 1190683,
+      "type": "Bug",
+      "completed_at": "2026-08-13T13:38:18.907000+00:00"
     },
     {
       "id": 1211305,
@@ -325,6 +353,11 @@
       "completed_at": "2026-07-29T15:28:38.443000+00:00"
     },
     {
+      "id": 1225384,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-14T10:11:11.707000+00:00"
+    },
+    {
       "id": 1229879,
       "type": "Bug",
       "completed_at": "2026-08-07T09:19:06.310000+00:00"
@@ -340,9 +373,14 @@
       "completed_at": "2026-07-30T15:21:55.703000+00:00"
     },
     {
+      "id": 1235564,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-13T13:06:57.920000+00:00"
+    },
+    {
       "id": 1235567,
       "type": "Product Backlog Item",
-      "completed_at": "2026-08-06T15:14:38.970000+00:00"
+      "completed_at": "2026-08-13T10:03:32.430000+00:00"
     },
     {
       "id": 1235569,
@@ -360,9 +398,19 @@
       "completed_at": "2026-07-14T09:46:51.287000+00:00"
     },
     {
+      "id": 1240640,
+      "type": "Bug",
+      "completed_at": "2026-08-14T09:19:51.587000+00:00"
+    },
+    {
       "id": 1241120,
       "type": "Product Backlog Item",
       "completed_at": "2026-08-07T08:25:09.957000+00:00"
+    },
+    {
+      "id": 1242405,
+      "type": "Product Backlog Item",
+      "completed_at": "2026-08-13T10:22:10.277000+00:00"
     },
     {
       "id": 1243080,
@@ -370,9 +418,19 @@
       "completed_at": "2026-08-03T13:33:15.217000+00:00"
     },
     {
+      "id": 1243815,
+      "type": "Bug",
+      "completed_at": "2026-08-13T10:22:13.403000+00:00"
+    },
+    {
       "id": 1245086,
       "type": "Bug",
       "completed_at": "2026-08-07T08:43:38.180000+00:00"
+    },
+    {
+      "id": 1248004,
+      "type": "Bug",
+      "completed_at": "2026-08-12T15:41:19.270000+00:00"
     }
   ]
 }
